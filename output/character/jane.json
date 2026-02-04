@@ -1,213 +1,213 @@
 {
-  "Id": 1261,
-  "Name": "ジェーン",
-  "CodeName": "Jane",
-  "Rarity": 4,
-  "WeaponType": "異常",
-  "ElementType": "物理",
-  "HitType": "斬撃",
-  "Camp": "特務捜査班",
-  "Stats": {
-    "Armor": 0,
-    "ArmorGrowth": 0,
-    "Attack": 127,
-    "AttackGrowth": 76728,
-    "AvatarPieceId": 5261,
-    "BreakStun": 86,
-    "Crit": 500,
-    "CritDamage": 5000,
-    "CritDmgRes": 0,
-    "CritRes": 0,
-    "Defence": 49,
-    "DefenceGrowth": 66203,
-    "ElementAbnormalPower": 112,
-    "ElementMystery": 114,
-    "Endurance": 0,
-    "HpGrowth": 849779,
-    "HpMax": 626,
-    "PenDelta": 0,
-    "PenRate": 0,
-    "Rbl": 1,
-    "RblCorrectionFactor": 10000,
-    "RblProbability": 0,
-    "Shield": 0,
-    "ShieldGrowth": 0,
-    "SpBarPoint": 120,
-    "SpRecover": 120,
-    "Stun": 0,
-    "RpMax": 0,
-    "RpRecover": 0
+  "id": 1261,
+  "name": "ジェーン",
+  "codeName": "Jane",
+  "rarity": "S",
+  "weaponType": "異常",
+  "elementType": "物理",
+  "hitType": "斬撃",
+  "camp": "特務捜査班",
+  "stats": {
+    "armor": 0,
+    "armorGrowth": 0,
+    "attack": 127,
+    "attackGrowth": 76728,
+    "avatarPieceId": 5261,
+    "breakStun": 86,
+    "crit": 500,
+    "critDamage": 5000,
+    "critDmgRes": 0,
+    "critRes": 0,
+    "defence": 49,
+    "defenceGrowth": 66203,
+    "elementAbnormalPower": 112,
+    "elementMystery": 114,
+    "endurance": 0,
+    "hpGrowth": 849779,
+    "hpMax": 626,
+    "penDelta": 0,
+    "penRate": 0,
+    "rbl": 1,
+    "rblCorrectionFactor": 10000,
+    "rblProbability": 0,
+    "shield": 0,
+    "shieldGrowth": 0,
+    "spBarPoint": 120,
+    "spRecover": 120,
+    "stun": 0,
+    "rpMax": 0,
+    "rpRecover": 0
   },
-  "Level": {
+  "level": {
     "1": {
-      "HpMax": 0,
-      "Attack": 0,
-      "Defence": 0,
-      "LevelMax": 10,
-      "LevelMin": 0,
-      "Materials": {
+      "hpMax": 0,
+      "attack": 0,
+      "defence": 0,
+      "levelMax": 10,
+      "levelMin": 0,
+      "materials": {
         "10": 24000,
         "100213": 4
       }
     },
     "2": {
-      "HpMax": 430,
-      "Attack": 45,
-      "Defence": 33,
-      "LevelMax": 20,
-      "LevelMin": 10,
-      "Materials": {
+      "hpMax": 430,
+      "attack": 45,
+      "defence": 33,
+      "levelMax": 20,
+      "levelMin": 10,
+      "materials": {
         "10": 56000,
         "100223": 12
       }
     },
     "3": {
-      "HpMax": 859,
-      "Attack": 90,
-      "Defence": 67,
-      "LevelMax": 30,
-      "LevelMin": 20,
-      "Materials": {
+      "hpMax": 859,
+      "attack": 90,
+      "defence": 67,
+      "levelMax": 30,
+      "levelMin": 20,
+      "materials": {
         "10": 120000,
         "100223": 20
       }
     },
     "4": {
-      "HpMax": 1289,
-      "Attack": 136,
-      "Defence": 100,
-      "LevelMax": 40,
-      "LevelMin": 30,
-      "Materials": {
+      "hpMax": 1289,
+      "attack": 136,
+      "defence": 100,
+      "levelMax": 40,
+      "levelMin": 30,
+      "materials": {
         "10": 200000,
         "100233": 10
       }
     },
     "5": {
-      "HpMax": 1719,
-      "Attack": 181,
-      "Defence": 134,
-      "LevelMax": 50,
-      "LevelMin": 40,
-      "Materials": {
+      "hpMax": 1719,
+      "attack": 181,
+      "defence": 134,
+      "levelMax": 50,
+      "levelMin": 40,
+      "materials": {
         "10": 400000,
         "100233": 20
       }
     },
     "6": {
-      "HpMax": 2149,
-      "Attack": 226,
-      "Defence": 167,
-      "LevelMax": 60,
-      "LevelMin": 50,
-      "Materials": {}
+      "hpMax": 2149,
+      "attack": 226,
+      "defence": 167,
+      "levelMax": 60,
+      "levelMin": 50,
+      "materials": {}
     }
   },
-  "ExtraLevel": {
+  "extraLevel": {
     "1": {
-      "MaxLevel": 15,
-      "Extra": {
+      "maxLevel": 15,
+      "extra": {
         "12101": {
-          "Prop": 12101,
-          "Name": "基礎攻撃力",
-          "Format": "{0:0.#}",
-          "Value": 0
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 0
         },
         "31401": {
-          "Prop": 31401,
-          "Name": "異常掌握",
-          "Format": "{0:0.#}",
-          "Value": 12
+          "prop": 31401,
+          "name": "異常掌握",
+          "format": "{0:0.#}",
+          "value": 12
         }
       }
     },
     "2": {
-      "MaxLevel": 25,
-      "Extra": {
+      "maxLevel": 25,
+      "extra": {
         "12101": {
-          "Prop": 12101,
-          "Name": "基礎攻撃力",
-          "Format": "{0:0.#}",
-          "Value": 25
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 25
         },
         "31401": {
-          "Prop": 31401,
-          "Name": "異常掌握",
-          "Format": "{0:0.#}",
-          "Value": 12
+          "prop": 31401,
+          "name": "異常掌握",
+          "format": "{0:0.#}",
+          "value": 12
         }
       }
     },
     "3": {
-      "MaxLevel": 35,
-      "Extra": {
+      "maxLevel": 35,
+      "extra": {
         "12101": {
-          "Prop": 12101,
-          "Name": "基礎攻撃力",
-          "Format": "{0:0.#}",
-          "Value": 25
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 25
         },
         "31401": {
-          "Prop": 31401,
-          "Name": "異常掌握",
-          "Format": "{0:0.#}",
-          "Value": 24
+          "prop": 31401,
+          "name": "異常掌握",
+          "format": "{0:0.#}",
+          "value": 24
         }
       }
     },
     "4": {
-      "MaxLevel": 45,
-      "Extra": {
+      "maxLevel": 45,
+      "extra": {
         "12101": {
-          "Prop": 12101,
-          "Name": "基礎攻撃力",
-          "Format": "{0:0.#}",
-          "Value": 50
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 50
         },
         "31401": {
-          "Prop": 31401,
-          "Name": "異常掌握",
-          "Format": "{0:0.#}",
-          "Value": 24
+          "prop": 31401,
+          "name": "異常掌握",
+          "format": "{0:0.#}",
+          "value": 24
         }
       }
     },
     "5": {
-      "MaxLevel": 55,
-      "Extra": {
+      "maxLevel": 55,
+      "extra": {
         "12101": {
-          "Prop": 12101,
-          "Name": "基礎攻撃力",
-          "Format": "{0:0.#}",
-          "Value": 50
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 50
         },
         "31401": {
-          "Prop": 31401,
-          "Name": "異常掌握",
-          "Format": "{0:0.#}",
-          "Value": 36
+          "prop": 31401,
+          "name": "異常掌握",
+          "format": "{0:0.#}",
+          "value": 36
         }
       }
     },
     "6": {
-      "MaxLevel": 60,
-      "Extra": {
+      "maxLevel": 60,
+      "extra": {
         "12101": {
-          "Prop": 12101,
-          "Name": "基礎攻撃力",
-          "Format": "{0:0.#}",
-          "Value": 75
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 75
         },
         "31401": {
-          "Prop": 31401,
-          "Name": "異常掌握",
-          "Format": "{0:0.#}",
-          "Value": 36
+          "prop": 31401,
+          "name": "異常掌握",
+          "format": "{0:0.#}",
+          "value": 36
         }
       }
     }
   },
-  "LevelEXP": [
+  "levelEXP": [
     50,
     150,
     250,
@@ -269,502 +269,502 @@
     55800,
     0
   ],
-  "Skill": {
-    "Basic": {
-      "Description": [
+  "skill": {
+    "basic": {
+      "description": [
         {
-          "Name": "通常攻撃：ダンシング・ナイフ",
-          "Desc": " <IconMap:Icon_Normal> を押して発動：\n前方に最大6段の攻撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。",
-          "Potential": []
+          "name": "通常攻撃：ダンシング・ナイフ",
+          "desc": " <IconMap:Icon_Normal> を押して発動：\n前方に最大6段の攻撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。",
+          "potential": []
         },
         {
-          "Name": "熱狂",
-          "Desc": "ジェーンが<color=#FFFFFF>『極限回避』</color>、<color=#FFFFFF>『パリィ支援』</color>を発動、またはスキルを発動して敵にダメージを与えた時、<color=#FFFFFF>「熱狂フロウ」</color>が溜まる。<color=#FFFFFF>「熱狂フロウ」</color>が最大まで溜まると<color=#FFFFFF>「熱狂」</color>状態に入る。\n<color=#FFFFFF>「熱狂」</color>状態にある時、ジェーンの<color=#F0D12B>物理属性の状態異常蓄積効率</color>+25%。また、ジェーンの異常マスタリーが120Ptを上回る場合、1Pt上回るごとに自身の攻撃力+2Pt、この効果によってアップできる攻撃力は最大600Ptまで。\nジェーンが<color=#FFFFFF>「熱狂」</color>状態中にスキルを発動してダメージを与えると<color=#FFFFFF>「熱狂フロウ」</color>を消費し、<color=#FFFFFF>『極限回避』</color>または<color=#FFFFFF>『パリィ支援』</color>を発動した時は<color=#FFFFFF>「熱狂フロウ」</color>を回復できる。<color=#FFFFFF>「熱狂フロウ」</color>が尽きると、<color=#FFFFFF>「熱狂」</color>状態は終了する。",
-          "Potential": []
+          "name": "熱狂",
+          "desc": "ジェーンが<color=#FFFFFF>『極限回避』</color>、<color=#FFFFFF>『パリィ支援』</color>を発動、またはスキルを発動して敵にダメージを与えた時、<color=#FFFFFF>「熱狂フロウ」</color>が溜まる。<color=#FFFFFF>「熱狂フロウ」</color>が最大まで溜まると<color=#FFFFFF>「熱狂」</color>状態に入る。\n<color=#FFFFFF>「熱狂」</color>状態にある時、ジェーンの<color=#F0D12B>物理属性の状態異常蓄積効率</color>+25%。また、ジェーンの異常マスタリーが120Ptを上回る場合、1Pt上回るごとに自身の攻撃力+2Pt、この効果によってアップできる攻撃力は最大600Ptまで。\nジェーンが<color=#FFFFFF>「熱狂」</color>状態中にスキルを発動してダメージを与えると<color=#FFFFFF>「熱狂フロウ」</color>を消費し、<color=#FFFFFF>『極限回避』</color>または<color=#FFFFFF>『パリィ支援』</color>を発動した時は<color=#FFFFFF>「熱狂フロウ」</color>を回復できる。<color=#FFFFFF>「熱狂フロウ」</color>が尽きると、<color=#FFFFFF>「熱狂」</color>状態は終了する。",
+          "potential": []
         },
         {
-          "Name": "通常攻撃：サルコウ・ジャンプ",
-          "Desc": "<color=#FFFFFF>「熱狂」</color>状態突入時、ジェーンは<color=#FFFFFF>『通常攻撃：サルコウ・ジャンプ』</color>の発動可能回数を1回獲得する。\n発動可能回数が0でない時に、 <IconMap:Icon_Normal> を長押しして発動：\n前方に素早く連続攻撃を行い、その後とどめの一撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\n連続攻撃中に長押しを続けると、スキルの継続時間を延長できる。<IconMap:Icon_Normal> を離すと、とどめの一撃を早めに発動できる。\n連続攻撃発動中、中断耐性レベルがアップし、被ダメージ-40%。とどめの一撃発動中、無敵効果を得る。\n<color=#FFFFFF>「熱狂」</color>状態中に<color=#FFFFFF>『通常攻撃：サルコウ・ジャンプ』</color>を発動して敵にダメージを与えると、<color=#FFFFFF>「熱狂フロウ」</color>を回復できる。",
-          "Potential": []
+          "name": "通常攻撃：サルコウ・ジャンプ",
+          "desc": "<color=#FFFFFF>「熱狂」</color>状態突入時、ジェーンは<color=#FFFFFF>『通常攻撃：サルコウ・ジャンプ』</color>の発動可能回数を1回獲得する。\n発動可能回数が0でない時に、 <IconMap:Icon_Normal> を長押しして発動：\n前方に素早く連続攻撃を行い、その後とどめの一撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\n連続攻撃中に長押しを続けると、スキルの継続時間を延長できる。<IconMap:Icon_Normal> を離すと、とどめの一撃を早めに発動できる。\n連続攻撃発動中、中断耐性レベルがアップし、被ダメージ-40%。とどめの一撃発動中、無敵効果を得る。\n<color=#FFFFFF>「熱狂」</color>状態中に<color=#FFFFFF>『通常攻撃：サルコウ・ジャンプ』</color>を発動して敵にダメージを与えると、<color=#FFFFFF>「熱狂フロウ」</color>を回復できる。",
+          "potential": []
         },
         {
-          "Name": "通常攻撃：ダンシング・ナイフ",
-          "Param": [
+          "name": "通常攻撃：ダンシング・ナイフ",
+          "param": [
             {
-              "Name": "1段ダメージ倍率",
-              "Desc": "{Skill:1261001, Prop:1001}",
-              "Param": {
+              "name": "1段ダメージ倍率",
+              "desc": "{Skill:1261001, Prop:1001}",
+              "param": {
                 "1261001": {
-                  "Main": 3610,
-                  "Growth": 330,
-                  "Format": "%",
-                  "DamagePercentage": 3610,
-                  "DamagePercentageGrowth": 330,
-                  "StunRatio": 1530,
-                  "StunRatioGrowth": 70,
-                  "SpRecovery": 5010,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 38225,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 2134,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 3610,
+                  "growth": 330,
+                  "format": "%",
+                  "damagePercentage": 3610,
+                  "damagePercentageGrowth": 330,
+                  "stunRatio": 1530,
+                  "stunRatioGrowth": 70,
+                  "spRecovery": 5010,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 38225,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 2134,
+                  "spConsume": 0,
+                  "attackData": [
                     41695,
                     33356
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 1390
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 1390
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "2段ダメージ倍率",
-              "Desc": "{Skill:1261002, Prop:1001}",
-              "Param": {
+              "name": "2段ダメージ倍率",
+              "desc": "{Skill:1261002, Prop:1001}",
+              "param": {
                 "1261002": {
-                  "Main": 6230,
-                  "Growth": 570,
-                  "Format": "%",
-                  "DamagePercentage": 6230,
-                  "DamagePercentageGrowth": 570,
-                  "StunRatio": 4430,
-                  "StunRatioGrowth": 210,
-                  "SpRecovery": 14480,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 110550,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 5206,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 6230,
+                  "growth": 570,
+                  "format": "%",
+                  "damagePercentage": 6230,
+                  "damagePercentageGrowth": 570,
+                  "stunRatio": 4430,
+                  "stunRatioGrowth": 210,
+                  "spRecovery": 14480,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 110550,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 5206,
+                  "spConsume": 0,
+                  "attackData": [
                     66493,
                     53194
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 4020
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 4020
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "3段ダメージ倍率",
-              "Desc": "{Skill:1261003, Prop:1001}",
-              "Param": {
+              "name": "3段ダメージ倍率",
+              "desc": "{Skill:1261003, Prop:1001}",
+              "param": {
                 "1261003": {
-                  "Main": 8350,
-                  "Growth": 760,
-                  "Format": "%",
-                  "DamagePercentage": 8350,
-                  "DamagePercentageGrowth": 760,
-                  "StunRatio": 5950,
-                  "StunRatioGrowth": 280,
-                  "SpRecovery": 19460,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 148775,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 6878,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 8350,
+                  "growth": 760,
+                  "format": "%",
+                  "damagePercentage": 8350,
+                  "damagePercentageGrowth": 760,
+                  "stunRatio": 5950,
+                  "stunRatioGrowth": 280,
+                  "spRecovery": 19460,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 148775,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 6878,
+                  "spConsume": 0,
+                  "attackData": [
                     82623,
                     66098
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 5404
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 5404
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "4段ダメージ倍率",
-              "Desc": "{Skill:1261004, Prop:1001}",
-              "Param": {
+              "name": "4段ダメージ倍率",
+              "desc": "{Skill:1261004, Prop:1001}",
+              "param": {
                 "1261004": {
-                  "Main": 16340,
-                  "Growth": 1490,
-                  "Format": "%",
-                  "DamagePercentage": 16340,
-                  "DamagePercentageGrowth": 1490,
-                  "StunRatio": 10970,
-                  "StunRatioGrowth": 500,
-                  "SpRecovery": 35890,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 274175,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 12745,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 16340,
+                  "growth": 1490,
+                  "format": "%",
+                  "damagePercentage": 16340,
+                  "damagePercentageGrowth": 1490,
+                  "stunRatio": 10970,
+                  "stunRatioGrowth": 500,
+                  "spRecovery": 35890,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 274175,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 12745,
+                  "spConsume": 0,
+                  "attackData": [
                     155541,
                     124433
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 9969
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 9969
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "5段ダメージ倍率",
-              "Desc": "{Skill:1261005, Prop:1001}",
-              "Param": {
+              "name": "5段ダメージ倍率",
+              "desc": "{Skill:1261005, Prop:1001}",
+              "param": {
                 "1261005": {
-                  "Main": 9880,
-                  "Growth": 900,
-                  "Format": "%",
-                  "DamagePercentage": 9880,
-                  "DamagePercentageGrowth": 900,
-                  "StunRatio": 6870,
-                  "StunRatioGrowth": 320,
-                  "SpRecovery": 22460,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 171600,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 7671,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 9880,
+                  "growth": 900,
+                  "format": "%",
+                  "damagePercentage": 9880,
+                  "damagePercentageGrowth": 900,
+                  "stunRatio": 6870,
+                  "stunRatioGrowth": 320,
+                  "spRecovery": 22460,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 171600,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 7671,
+                  "spConsume": 0,
+                  "attackData": [
                     80264,
                     64211
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 6238
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 6238
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "6段ダメージ倍率",
-              "Desc": "{Skill:1261006, Prop:1001}",
-              "Param": {
+              "name": "6段ダメージ倍率",
+              "desc": "{Skill:1261006, Prop:1001}",
+              "param": {
                 "1261006": {
-                  "Main": 29130,
-                  "Growth": 2650,
-                  "Format": "%",
-                  "DamagePercentage": 29130,
-                  "DamagePercentageGrowth": 2650,
-                  "StunRatio": 20000,
-                  "StunRatioGrowth": 910,
-                  "SpRecovery": 65430,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 499950,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 22662,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 29130,
+                  "growth": 2650,
+                  "format": "%",
+                  "damagePercentage": 29130,
+                  "damagePercentageGrowth": 2650,
+                  "stunRatio": 20000,
+                  "stunRatioGrowth": 910,
+                  "spRecovery": 65430,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 499950,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 22662,
+                  "spConsume": 0,
+                  "attackData": [
                     251293,
                     201034
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 18175
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 18175
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "1段ブレイク倍率",
-              "Desc": "{Skill:1261001, Prop:1002}",
-              "Param": {
+              "name": "1段ブレイク倍率",
+              "desc": "{Skill:1261001, Prop:1002}",
+              "param": {
                 "1261001": {
-                  "Main": 1530,
-                  "Growth": 70,
-                  "Format": "%",
-                  "DamagePercentage": 3610,
-                  "DamagePercentageGrowth": 330,
-                  "StunRatio": 1530,
-                  "StunRatioGrowth": 70,
-                  "SpRecovery": 5010,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 38225,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 2134,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 1530,
+                  "growth": 70,
+                  "format": "%",
+                  "damagePercentage": 3610,
+                  "damagePercentageGrowth": 330,
+                  "stunRatio": 1530,
+                  "stunRatioGrowth": 70,
+                  "spRecovery": 5010,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 38225,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 2134,
+                  "spConsume": 0,
+                  "attackData": [
                     41695,
                     33356
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 1390
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 1390
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "2段ブレイク倍率",
-              "Desc": "{Skill:1261002, Prop:1002}",
-              "Param": {
+              "name": "2段ブレイク倍率",
+              "desc": "{Skill:1261002, Prop:1002}",
+              "param": {
                 "1261002": {
-                  "Main": 4430,
-                  "Growth": 210,
-                  "Format": "%",
-                  "DamagePercentage": 6230,
-                  "DamagePercentageGrowth": 570,
-                  "StunRatio": 4430,
-                  "StunRatioGrowth": 210,
-                  "SpRecovery": 14480,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 110550,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 5206,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 4430,
+                  "growth": 210,
+                  "format": "%",
+                  "damagePercentage": 6230,
+                  "damagePercentageGrowth": 570,
+                  "stunRatio": 4430,
+                  "stunRatioGrowth": 210,
+                  "spRecovery": 14480,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 110550,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 5206,
+                  "spConsume": 0,
+                  "attackData": [
                     66493,
                     53194
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 4020
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 4020
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "3段ブレイク倍率",
-              "Desc": "{Skill:1261003, Prop:1002}",
-              "Param": {
+              "name": "3段ブレイク倍率",
+              "desc": "{Skill:1261003, Prop:1002}",
+              "param": {
                 "1261003": {
-                  "Main": 5950,
-                  "Growth": 280,
-                  "Format": "%",
-                  "DamagePercentage": 8350,
-                  "DamagePercentageGrowth": 760,
-                  "StunRatio": 5950,
-                  "StunRatioGrowth": 280,
-                  "SpRecovery": 19460,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 148775,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 6878,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 5950,
+                  "growth": 280,
+                  "format": "%",
+                  "damagePercentage": 8350,
+                  "damagePercentageGrowth": 760,
+                  "stunRatio": 5950,
+                  "stunRatioGrowth": 280,
+                  "spRecovery": 19460,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 148775,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 6878,
+                  "spConsume": 0,
+                  "attackData": [
                     82623,
                     66098
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 5404
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 5404
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "4段ブレイク倍率",
-              "Desc": "{Skill:1261004, Prop:1002}",
-              "Param": {
+              "name": "4段ブレイク倍率",
+              "desc": "{Skill:1261004, Prop:1002}",
+              "param": {
                 "1261004": {
-                  "Main": 10970,
-                  "Growth": 500,
-                  "Format": "%",
-                  "DamagePercentage": 16340,
-                  "DamagePercentageGrowth": 1490,
-                  "StunRatio": 10970,
-                  "StunRatioGrowth": 500,
-                  "SpRecovery": 35890,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 274175,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 12745,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 10970,
+                  "growth": 500,
+                  "format": "%",
+                  "damagePercentage": 16340,
+                  "damagePercentageGrowth": 1490,
+                  "stunRatio": 10970,
+                  "stunRatioGrowth": 500,
+                  "spRecovery": 35890,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 274175,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 12745,
+                  "spConsume": 0,
+                  "attackData": [
                     155541,
                     124433
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 9969
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 9969
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "5段ブレイク倍率",
-              "Desc": "{Skill:1261005, Prop:1002}",
-              "Param": {
+              "name": "5段ブレイク倍率",
+              "desc": "{Skill:1261005, Prop:1002}",
+              "param": {
                 "1261005": {
-                  "Main": 6870,
-                  "Growth": 320,
-                  "Format": "%",
-                  "DamagePercentage": 9880,
-                  "DamagePercentageGrowth": 900,
-                  "StunRatio": 6870,
-                  "StunRatioGrowth": 320,
-                  "SpRecovery": 22460,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 171600,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 7671,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 6870,
+                  "growth": 320,
+                  "format": "%",
+                  "damagePercentage": 9880,
+                  "damagePercentageGrowth": 900,
+                  "stunRatio": 6870,
+                  "stunRatioGrowth": 320,
+                  "spRecovery": 22460,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 171600,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 7671,
+                  "spConsume": 0,
+                  "attackData": [
                     80264,
                     64211
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 6238
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 6238
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "6段ブレイク倍率",
-              "Desc": "{Skill:1261006, Prop:1002}",
-              "Param": {
+              "name": "6段ブレイク倍率",
+              "desc": "{Skill:1261006, Prop:1002}",
+              "param": {
                 "1261006": {
-                  "Main": 20000,
-                  "Growth": 910,
-                  "Format": "%",
-                  "DamagePercentage": 29130,
-                  "DamagePercentageGrowth": 2650,
-                  "StunRatio": 20000,
-                  "StunRatioGrowth": 910,
-                  "SpRecovery": 65430,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 499950,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 22662,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 20000,
+                  "growth": 910,
+                  "format": "%",
+                  "damagePercentage": 29130,
+                  "damagePercentageGrowth": 2650,
+                  "stunRatio": 20000,
+                  "stunRatioGrowth": 910,
+                  "spRecovery": 65430,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 499950,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 22662,
+                  "spConsume": 0,
+                  "attackData": [
                     251293,
                     201034
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 18175
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 18175
                 }
               },
-              "Potential": []
+              "potential": []
             }
           ],
-          "Potential": []
+          "potential": []
         },
         {
-          "Name": "通常攻撃：サルコウ・ジャンプ",
-          "Param": [
+          "name": "通常攻撃：サルコウ・ジャンプ",
+          "param": [
             {
-              "Name": "連続攻撃ダメージ倍率",
-              "Desc": "{Skill:1261007, Prop:1001}",
-              "Param": {
+              "name": "連続攻撃ダメージ倍率",
+              "desc": "{Skill:1261007, Prop:1001}",
+              "param": {
                 "1261007": {
-                  "Main": 30080,
-                  "Growth": 2740,
-                  "Format": "%",
-                  "DamagePercentage": 30080,
-                  "DamagePercentageGrowth": 2740,
-                  "StunRatio": 22920,
-                  "StunRatioGrowth": 1050,
-                  "SpRecovery": 74990,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 572825,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 27340,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 30080,
+                  "growth": 2740,
+                  "format": "%",
+                  "damagePercentage": 30080,
+                  "damagePercentageGrowth": 2740,
+                  "stunRatio": 22920,
+                  "stunRatioGrowth": 1050,
+                  "spRecovery": 74990,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 572825,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 27340,
+                  "spConsume": 0,
+                  "attackData": [
                     249960,
                     249960
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 20830
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 20830
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "とどめの一撃ダメージ倍率",
-              "Desc": "{Skill:1261008, Prop:1001}",
-              "Param": {
+              "name": "とどめの一撃ダメージ倍率",
+              "desc": "{Skill:1261008, Prop:1001}",
+              "param": {
                 "1261008": {
-                  "Main": 16130,
-                  "Growth": 1470,
-                  "Format": "%",
-                  "DamagePercentage": 16130,
-                  "DamagePercentageGrowth": 1470,
-                  "StunRatio": 12290,
-                  "StunRatioGrowth": 560,
-                  "SpRecovery": 40200,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 307175,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 14656,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 16130,
+                  "growth": 1470,
+                  "format": "%",
+                  "damagePercentage": 16130,
+                  "damagePercentageGrowth": 1470,
+                  "stunRatio": 12290,
+                  "stunRatioGrowth": 560,
+                  "spRecovery": 40200,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 307175,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 14656,
+                  "spConsume": 0,
+                  "attackData": [
                     134000,
                     134000
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 11167
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 11167
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "連続攻撃ブレイク倍率",
-              "Desc": "{Skill:1261007, Prop:1002}",
-              "Param": {
+              "name": "連続攻撃ブレイク倍率",
+              "desc": "{Skill:1261007, Prop:1002}",
+              "param": {
                 "1261007": {
-                  "Main": 22920,
-                  "Growth": 1050,
-                  "Format": "%",
-                  "DamagePercentage": 30080,
-                  "DamagePercentageGrowth": 2740,
-                  "StunRatio": 22920,
-                  "StunRatioGrowth": 1050,
-                  "SpRecovery": 74990,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 572825,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 27340,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 22920,
+                  "growth": 1050,
+                  "format": "%",
+                  "damagePercentage": 30080,
+                  "damagePercentageGrowth": 2740,
+                  "stunRatio": 22920,
+                  "stunRatioGrowth": 1050,
+                  "spRecovery": 74990,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 572825,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 27340,
+                  "spConsume": 0,
+                  "attackData": [
                     249960,
                     249960
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 20830
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 20830
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "とどめの一撃ブレイク倍率",
-              "Desc": "{Skill:1261008, Prop:1002}",
-              "Param": {
+              "name": "とどめの一撃ブレイク倍率",
+              "desc": "{Skill:1261008, Prop:1002}",
+              "param": {
                 "1261008": {
-                  "Main": 12290,
-                  "Growth": 560,
-                  "Format": "%",
-                  "DamagePercentage": 16130,
-                  "DamagePercentageGrowth": 1470,
-                  "StunRatio": 12290,
-                  "StunRatioGrowth": 560,
-                  "SpRecovery": 40200,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 307175,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 14656,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 12290,
+                  "growth": 560,
+                  "format": "%",
+                  "damagePercentage": 16130,
+                  "damagePercentageGrowth": 1470,
+                  "stunRatio": 12290,
+                  "stunRatioGrowth": 560,
+                  "spRecovery": 40200,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 307175,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 14656,
+                  "spConsume": 0,
+                  "attackData": [
                     134000,
                     134000
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 11167
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 11167
                 }
               },
-              "Potential": []
+              "potential": []
             }
           ],
-          "Potential": []
+          "potential": []
         }
       ],
-      "Material": {
+      "material": {
         "1": {
           "10": 2000,
           "100110": 2
@@ -813,407 +813,407 @@
         "12": {}
       }
     },
-    "Dodge": {
-      "Description": [
+    "dodge": {
+      "description": [
         {
-          "Name": "回避：残影",
-          "Desc": " <IconMap:Icon_Evade> を押して発動：\nスウェーで高速回避する。\nスキル発動中、無敵効果を得る。\nジェーンは回避後、さらにもう一度回避を発動することができる。<color=#FFFFFF>「熱狂」</color>状態突入前、ジェーンは2段の回避を交互に繰り出す。<color=#FFFFFF>「熱狂」</color>状態突入後、ジェーンは回避時に前方の敵をすり抜けられる。",
-          "Potential": []
+          "name": "回避：残影",
+          "desc": " <IconMap:Icon_Evade> を押して発動：\nスウェーで高速回避する。\nスキル発動中、無敵効果を得る。\nジェーンは回避後、さらにもう一度回避を発動することができる。<color=#FFFFFF>「熱狂」</color>状態突入前、ジェーンは2段の回避を交互に繰り出す。<color=#FFFFFF>「熱狂」</color>状態突入後、ジェーンは回避時に前方の敵をすり抜けられる。",
+          "potential": []
         },
         {
-          "Name": "ダッシュ攻撃：エッジ・ジャンプ",
-          "Desc": "回避時に <IconMap:Icon_Normal> を押して発動：\n1段目の回避の後に繋げた場合、前方に打ち上げ斬撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\n2段目の回避の後に繋げた場合、前方に連続斬撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。",
-          "Potential": []
+          "name": "ダッシュ攻撃：エッジ・ジャンプ",
+          "desc": "回避時に <IconMap:Icon_Normal> を押して発動：\n1段目の回避の後に繋げた場合、前方に打ち上げ斬撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\n2段目の回避の後に繋げた場合、前方に連続斬撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。",
+          "potential": []
         },
         {
-          "Name": "ダッシュ攻撃：虚像のつらぬき",
-          "Desc": "<color=#FFFFFF>「熱狂」</color>状態で回避時に <IconMap:Icon_Normal> を押して発動：\n前方に素早く突進斬撃を3回放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。",
-          "Potential": []
+          "name": "ダッシュ攻撃：虚像のつらぬき",
+          "desc": "<color=#FFFFFF>「熱狂」</color>状態で回避時に <IconMap:Icon_Normal> を押して発動：\n前方に素早く突進斬撃を3回放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。",
+          "potential": []
         },
         {
-          "Name": "回避反撃：<ruby=しつえい>疾影</ruby>",
-          "Desc": "<color=#FFFFFF>『極限回避』</color>後に <IconMap:Icon_Normal> を押して発動：\n1段目の回避の後に繋げた場合、前方の敵に複数回の斬撃を行った後、落下刺突を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\n2段目の回避の後に繋げた場合、飛び上がってから前方の敵に3回の連続攻撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\nスキル発動中、無敵効果を得る。",
-          "Potential": []
+          "name": "回避反撃：<ruby=しつえい>疾影</ruby>",
+          "desc": "<color=#FFFFFF>『極限回避』</color>後に <IconMap:Icon_Normal> を押して発動：\n1段目の回避の後に繋げた場合、前方の敵に複数回の斬撃を行った後、落下刺突を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\n2段目の回避の後に繋げた場合、飛び上がってから前方の敵に3回の連続攻撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\nスキル発動中、無敵効果を得る。",
+          "potential": []
         },
         {
-          "Name": "回避反撃：疾影の舞",
-          "Desc": "<color=#FFFFFF>「熱狂」</color>状態で<color=#FFFFFF>『極限回避』</color>後に <IconMap:Icon_Normal> を押して発動：\n前方の敵に複数回の高速斬撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\nスキル発動中、無敵効果を得る。",
-          "Potential": []
+          "name": "回避反撃：疾影の舞",
+          "desc": "<color=#FFFFFF>「熱狂」</color>状態で<color=#FFFFFF>『極限回避』</color>後に <IconMap:Icon_Normal> を押して発動：\n前方の敵に複数回の高速斬撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\nスキル発動中、無敵効果を得る。",
+          "potential": []
         },
         {
-          "Name": "ダッシュ攻撃：エッジ・ジャンプ",
-          "Param": [
+          "name": "ダッシュ攻撃：エッジ・ジャンプ",
+          "param": [
             {
-              "Name": "1段ダメージ倍率",
-              "Desc": "{Skill:1261011, Prop:1001}",
-              "Param": {
+              "name": "1段ダメージ倍率",
+              "desc": "{Skill:1261011, Prop:1001}",
+              "param": {
                 "1261011": {
-                  "Main": 7150,
-                  "Growth": 650,
-                  "Format": "%",
-                  "DamagePercentage": 7150,
-                  "DamagePercentageGrowth": 650,
-                  "StunRatio": 3580,
-                  "StunRatioGrowth": 170,
-                  "SpRecovery": 11700,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 89375,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 3250,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 7150,
+                  "growth": 650,
+                  "format": "%",
+                  "damagePercentage": 7150,
+                  "damagePercentageGrowth": 650,
+                  "stunRatio": 3580,
+                  "stunRatioGrowth": 170,
+                  "spRecovery": 11700,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 89375,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 3250,
+                  "spConsume": 0,
+                  "attackData": [
                     97500,
                     0
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 3250
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 3250
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "1段ブレイク倍率",
-              "Desc": "{Skill:1261011, Prop:1002}",
-              "Param": {
+              "name": "1段ブレイク倍率",
+              "desc": "{Skill:1261011, Prop:1002}",
+              "param": {
                 "1261011": {
-                  "Main": 3580,
-                  "Growth": 170,
-                  "Format": "%",
-                  "DamagePercentage": 7150,
-                  "DamagePercentageGrowth": 650,
-                  "StunRatio": 3580,
-                  "StunRatioGrowth": 170,
-                  "SpRecovery": 11700,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 89375,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 3250,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 3580,
+                  "growth": 170,
+                  "format": "%",
+                  "damagePercentage": 7150,
+                  "damagePercentageGrowth": 650,
+                  "stunRatio": 3580,
+                  "stunRatioGrowth": 170,
+                  "spRecovery": 11700,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 89375,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 3250,
+                  "spConsume": 0,
+                  "attackData": [
                     97500,
                     0
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 3250
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 3250
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "2段ダメージ倍率",
-              "Desc": "{Skill:1261012, Prop:1001}",
-              "Param": {
+              "name": "2段ダメージ倍率",
+              "desc": "{Skill:1261012, Prop:1001}",
+              "param": {
                 "1261012": {
-                  "Main": 7150,
-                  "Growth": 650,
-                  "Format": "%",
-                  "DamagePercentage": 7150,
-                  "DamagePercentageGrowth": 650,
-                  "StunRatio": 3580,
-                  "StunRatioGrowth": 170,
-                  "SpRecovery": 11700,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 89375,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 3250,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 7150,
+                  "growth": 650,
+                  "format": "%",
+                  "damagePercentage": 7150,
+                  "damagePercentageGrowth": 650,
+                  "stunRatio": 3580,
+                  "stunRatioGrowth": 170,
+                  "spRecovery": 11700,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 89375,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 3250,
+                  "spConsume": 0,
+                  "attackData": [
                     97500,
                     0
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 3250
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 3250
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "2段ブレイク倍率",
-              "Desc": "{Skill:1261012, Prop:1002}",
-              "Param": {
+              "name": "2段ブレイク倍率",
+              "desc": "{Skill:1261012, Prop:1002}",
+              "param": {
                 "1261012": {
-                  "Main": 3580,
-                  "Growth": 170,
-                  "Format": "%",
-                  "DamagePercentage": 7150,
-                  "DamagePercentageGrowth": 650,
-                  "StunRatio": 3580,
-                  "StunRatioGrowth": 170,
-                  "SpRecovery": 11700,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 89375,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 3250,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 3580,
+                  "growth": 170,
+                  "format": "%",
+                  "damagePercentage": 7150,
+                  "damagePercentageGrowth": 650,
+                  "stunRatio": 3580,
+                  "stunRatioGrowth": 170,
+                  "spRecovery": 11700,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 89375,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 3250,
+                  "spConsume": 0,
+                  "attackData": [
                     97500,
                     0
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 3250
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 3250
                 }
               },
-              "Potential": []
+              "potential": []
             }
           ],
-          "Potential": []
+          "potential": []
         },
         {
-          "Name": "ダッシュ攻撃：虚像のつらぬき",
-          "Param": [
+          "name": "ダッシュ攻撃：虚像のつらぬき",
+          "param": [
             {
-              "Name": "ダメージ倍率",
-              "Desc": "{Skill:1261013, Prop:1001}",
-              "Param": {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1261013, Prop:1001}",
+              "param": {
                 "1261013": {
-                  "Main": 10450,
-                  "Growth": 950,
-                  "Format": "%",
-                  "DamagePercentage": 10450,
-                  "DamagePercentageGrowth": 950,
-                  "StunRatio": 5230,
-                  "StunRatioGrowth": 240,
-                  "SpRecovery": 17100,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 130625,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 4748,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 10450,
+                  "growth": 950,
+                  "format": "%",
+                  "damagePercentage": 10450,
+                  "damagePercentageGrowth": 950,
+                  "stunRatio": 5230,
+                  "stunRatioGrowth": 240,
+                  "spRecovery": 17100,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 130625,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 4748,
+                  "spConsume": 0,
+                  "attackData": [
                     0,
                     113961
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 4749
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 4749
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "ブレイク倍率",
-              "Desc": "{Skill:1261013, Prop:1002}",
-              "Param": {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1261013, Prop:1002}",
+              "param": {
                 "1261013": {
-                  "Main": 5230,
-                  "Growth": 240,
-                  "Format": "%",
-                  "DamagePercentage": 10450,
-                  "DamagePercentageGrowth": 950,
-                  "StunRatio": 5230,
-                  "StunRatioGrowth": 240,
-                  "SpRecovery": 17100,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 130625,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 4748,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 5230,
+                  "growth": 240,
+                  "format": "%",
+                  "damagePercentage": 10450,
+                  "damagePercentageGrowth": 950,
+                  "stunRatio": 5230,
+                  "stunRatioGrowth": 240,
+                  "spRecovery": 17100,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 130625,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 4748,
+                  "spConsume": 0,
+                  "attackData": [
                     0,
                     113961
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 4749
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 4749
                 }
               },
-              "Potential": []
+              "potential": []
             }
           ],
-          "Potential": []
+          "potential": []
         },
         {
-          "Name": "回避反撃：<ruby=しつえい>疾影</ruby>",
-          "Param": [
+          "name": "回避反撃：<ruby=しつえい>疾影</ruby>",
+          "param": [
             {
-              "Name": "1段ダメージ倍率",
-              "Desc": "{Skill:1261014, Prop:1001}",
-              "Param": {
+              "name": "1段ダメージ倍率",
+              "desc": "{Skill:1261014, Prop:1001}",
+              "param": {
                 "1261014": {
-                  "Main": 34120,
-                  "Growth": 3110,
-                  "Format": "%",
-                  "DamagePercentage": 34120,
-                  "DamagePercentageGrowth": 3110,
-                  "StunRatio": 22920,
-                  "StunRatioGrowth": 1050,
-                  "SpRecovery": 39000,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 298100,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 17767,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 34120,
+                  "growth": 3110,
+                  "format": "%",
+                  "damagePercentage": 34120,
+                  "damagePercentageGrowth": 3110,
+                  "stunRatio": 22920,
+                  "stunRatioGrowth": 1050,
+                  "spRecovery": 39000,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 298100,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 17767,
+                  "spConsume": 0,
+                  "attackData": [
                     54167,
                     0
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 25834
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 25834
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "1段ブレイク倍率",
-              "Desc": "{Skill:1261014, Prop:1002}",
-              "Param": {
+              "name": "1段ブレイク倍率",
+              "desc": "{Skill:1261014, Prop:1002}",
+              "param": {
                 "1261014": {
-                  "Main": 22920,
-                  "Growth": 1050,
-                  "Format": "%",
-                  "DamagePercentage": 34120,
-                  "DamagePercentageGrowth": 3110,
-                  "StunRatio": 22920,
-                  "StunRatioGrowth": 1050,
-                  "SpRecovery": 39000,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 298100,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 17767,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 22920,
+                  "growth": 1050,
+                  "format": "%",
+                  "damagePercentage": 34120,
+                  "damagePercentageGrowth": 3110,
+                  "stunRatio": 22920,
+                  "stunRatioGrowth": 1050,
+                  "spRecovery": 39000,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 298100,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 17767,
+                  "spConsume": 0,
+                  "attackData": [
                     54167,
                     0
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 25834
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 25834
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "2段ダメージ倍率",
-              "Desc": "{Skill:1261015, Prop:1001}",
-              "Param": {
+              "name": "2段ダメージ倍率",
+              "desc": "{Skill:1261015, Prop:1001}",
+              "param": {
                 "1261015": {
-                  "Main": 34120,
-                  "Growth": 3110,
-                  "Format": "%",
-                  "DamagePercentage": 34120,
-                  "DamagePercentageGrowth": 3110,
-                  "StunRatio": 22920,
-                  "StunRatioGrowth": 1050,
-                  "SpRecovery": 39000,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 298100,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 17767,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 34120,
+                  "growth": 3110,
+                  "format": "%",
+                  "damagePercentage": 34120,
+                  "damagePercentageGrowth": 3110,
+                  "stunRatio": 22920,
+                  "stunRatioGrowth": 1050,
+                  "spRecovery": 39000,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 298100,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 17767,
+                  "spConsume": 0,
+                  "attackData": [
                     54167,
                     0
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 25834
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 25834
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "2段ブレイク倍率",
-              "Desc": "{Skill:1261015, Prop:1002}",
-              "Param": {
+              "name": "2段ブレイク倍率",
+              "desc": "{Skill:1261015, Prop:1002}",
+              "param": {
                 "1261015": {
-                  "Main": 22920,
-                  "Growth": 1050,
-                  "Format": "%",
-                  "DamagePercentage": 34120,
-                  "DamagePercentageGrowth": 3110,
-                  "StunRatio": 22920,
-                  "StunRatioGrowth": 1050,
-                  "SpRecovery": 39000,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 298100,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 17767,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 22920,
+                  "growth": 1050,
+                  "format": "%",
+                  "damagePercentage": 34120,
+                  "damagePercentageGrowth": 3110,
+                  "stunRatio": 22920,
+                  "stunRatioGrowth": 1050,
+                  "spRecovery": 39000,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 298100,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 17767,
+                  "spConsume": 0,
+                  "attackData": [
                     54167,
                     0
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 25834
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 25834
                 }
               },
-              "Potential": []
+              "potential": []
             }
           ],
-          "Potential": []
+          "potential": []
         },
         {
-          "Name": "回避反撃：疾影の舞",
-          "Param": [
+          "name": "回避反撃：疾影の舞",
+          "param": [
             {
-              "Name": "ダメージ倍率",
-              "Desc": "{Skill:1261016, Prop:1001}",
-              "Param": {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1261016, Prop:1001}",
+              "param": {
                 "1261016": {
-                  "Main": 38700,
-                  "Growth": 3520,
-                  "Format": "%",
-                  "DamagePercentage": 38700,
-                  "DamagePercentageGrowth": 3520,
-                  "StunRatio": 24750,
-                  "StunRatioGrowth": 1130,
-                  "SpRecovery": 44990,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 343750,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 19431,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 38700,
+                  "growth": 3520,
+                  "format": "%",
+                  "damagePercentage": 38700,
+                  "damagePercentageGrowth": 3520,
+                  "stunRatio": 24750,
+                  "stunRatioGrowth": 1130,
+                  "spRecovery": 44990,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 343750,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 19431,
+                  "spConsume": 0,
+                  "attackData": [
                     0,
                     100000
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 27497
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 27497
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "ブレイク倍率",
-              "Desc": "{Skill:1261016, Prop:1002}",
-              "Param": {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1261016, Prop:1002}",
+              "param": {
                 "1261016": {
-                  "Main": 24750,
-                  "Growth": 1130,
-                  "Format": "%",
-                  "DamagePercentage": 38700,
-                  "DamagePercentageGrowth": 3520,
-                  "StunRatio": 24750,
-                  "StunRatioGrowth": 1130,
-                  "SpRecovery": 44990,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 343750,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 19431,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 24750,
+                  "growth": 1130,
+                  "format": "%",
+                  "damagePercentage": 38700,
+                  "damagePercentageGrowth": 3520,
+                  "stunRatio": 24750,
+                  "stunRatioGrowth": 1130,
+                  "spRecovery": 44990,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 343750,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 19431,
+                  "spConsume": 0,
+                  "attackData": [
                     0,
                     100000
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 27497
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 27497
                 }
               },
-              "Potential": []
+              "potential": []
             }
           ],
-          "Potential": []
+          "potential": []
         }
       ],
-      "Material": {
+      "material": {
         "1": {
           "10": 2000,
           "100110": 2
@@ -1262,153 +1262,153 @@
         "12": {}
       }
     },
-    "Special": {
-      "Description": [
+    "special": {
+      "description": [
         {
-          "Name": "特殊スキル：空を掠める",
-          "Desc": " <IconMap:Icon_Special> を押して発動：\n飛び上がった後、前方に連続蹴りからのなぎ払い蹴りを放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\nスキル発動中、中断耐性レベルがアップする。",
-          "Potential": []
+          "name": "特殊スキル：空を掠める",
+          "desc": " <IconMap:Icon_Special> を押して発動：\n飛び上がった後、前方に連続蹴りからのなぎ払い蹴りを放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\nスキル発動中、中断耐性レベルがアップする。",
+          "potential": []
         },
         {
-          "Name": "強化特殊スキル：空を掠める・一掃",
-          "Desc": "エネルギーが十分な時、 <IconMap:Icon_SpecialReady> を押して発動：\n飛び上がった後、前方に複数回の連続蹴りからのなぎ払い蹴りを放ち、<color=#F0D12B>物理属性ダメージ</color>を大量に与える。\nスキル発動中、無敵効果を得る。",
-          "Potential": []
+          "name": "強化特殊スキル：空を掠める・一掃",
+          "desc": "エネルギーが十分な時、 <IconMap:Icon_SpecialReady> を押して発動：\n飛び上がった後、前方に複数回の連続蹴りからのなぎ払い蹴りを放ち、<color=#F0D12B>物理属性ダメージ</color>を大量に与える。\nスキル発動中、無敵効果を得る。",
+          "potential": []
         },
         {
-          "Name": "特殊スキル：空を掠める",
-          "Param": [
+          "name": "特殊スキル：空を掠める",
+          "param": [
             {
-              "Name": "ダメージ倍率",
-              "Desc": "{Skill:1261009, Prop:1001}",
-              "Param": {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1261009, Prop:1001}",
+              "param": {
                 "1261009": {
-                  "Main": 5780,
-                  "Growth": 530,
-                  "Format": "%",
-                  "DamagePercentage": 5780,
-                  "DamagePercentageGrowth": 530,
-                  "StunRatio": 5780,
-                  "StunRatioGrowth": 270,
-                  "SpRecovery": 0,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 144375,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 5250,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 5780,
+                  "growth": 530,
+                  "format": "%",
+                  "damagePercentage": 5780,
+                  "damagePercentageGrowth": 530,
+                  "stunRatio": 5780,
+                  "stunRatioGrowth": 270,
+                  "spRecovery": 0,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 144375,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 5250,
+                  "spConsume": 0,
+                  "attackData": [
                     78750,
                     126000
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 5250
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 5250
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "ブレイク倍率",
-              "Desc": "{Skill:1261009, Prop:1002}",
-              "Param": {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1261009, Prop:1002}",
+              "param": {
                 "1261009": {
-                  "Main": 5780,
-                  "Growth": 270,
-                  "Format": "%",
-                  "DamagePercentage": 5780,
-                  "DamagePercentageGrowth": 530,
-                  "StunRatio": 5780,
-                  "StunRatioGrowth": 270,
-                  "SpRecovery": 0,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 144375,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 5250,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 5780,
+                  "growth": 270,
+                  "format": "%",
+                  "damagePercentage": 5780,
+                  "damagePercentageGrowth": 530,
+                  "stunRatio": 5780,
+                  "stunRatioGrowth": 270,
+                  "spRecovery": 0,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 144375,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 5250,
+                  "spConsume": 0,
+                  "attackData": [
                     78750,
                     126000
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 5250
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 5250
                 }
               },
-              "Potential": []
+              "potential": []
             }
           ],
-          "Potential": []
+          "potential": []
         },
         {
-          "Name": "強化特殊スキル：空を掠める・一掃",
-          "Param": [
+          "name": "強化特殊スキル：空を掠める・一掃",
+          "param": [
             {
-              "Name": "ダメージ倍率",
-              "Desc": "{Skill:1261010, Prop:1001}",
-              "Param": {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1261010, Prop:1001}",
+              "param": {
                 "1261010": {
-                  "Main": 57470,
-                  "Growth": 5230,
-                  "Format": "%",
-                  "DamagePercentage": 57470,
-                  "DamagePercentageGrowth": 5230,
-                  "StunRatio": 46810,
-                  "StunRatioGrowth": 2130,
-                  "SpRecovery": 0,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 1703075,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 47396,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 57470,
+                  "growth": 5230,
+                  "format": "%",
+                  "damagePercentage": 57470,
+                  "damagePercentageGrowth": 5230,
+                  "stunRatio": 46810,
+                  "stunRatioGrowth": 2130,
+                  "spRecovery": 0,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 1703075,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 47396,
+                  "spConsume": 0,
+                  "attackData": [
                     425544,
                     212772
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 13504
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 13504
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "ブレイク倍率",
-              "Desc": "{Skill:1261010, Prop:1002}",
-              "Param": {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1261010, Prop:1002}",
+              "param": {
                 "1261010": {
-                  "Main": 46810,
-                  "Growth": 2130,
-                  "Format": "%",
-                  "DamagePercentage": 57470,
-                  "DamagePercentageGrowth": 5230,
-                  "StunRatio": 46810,
-                  "StunRatioGrowth": 2130,
-                  "SpRecovery": 0,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 1703075,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 47396,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 46810,
+                  "growth": 2130,
+                  "format": "%",
+                  "damagePercentage": 57470,
+                  "damagePercentageGrowth": 5230,
+                  "stunRatio": 46810,
+                  "stunRatioGrowth": 2130,
+                  "spRecovery": 0,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 1703075,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 47396,
+                  "spConsume": 0,
+                  "attackData": [
                     425544,
                     212772
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 13504
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 13504
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "エネルギー消費",
-              "Desc": "60Pt",
-              "Potential": []
+              "name": "エネルギー消費",
+              "desc": "60Pt",
+              "potential": []
             }
           ],
-          "Potential": []
+          "potential": []
         }
       ],
-      "Material": {
+      "material": {
         "1": {
           "10": 2000,
           "100110": 2
@@ -1457,148 +1457,148 @@
         "12": {}
       }
     },
-    "Chain": {
-      "Description": [
+    "chain": {
+      "description": [
         {
-          "Name": "連携スキル：罪悪の華",
-          "Desc": "<color=#FFFFFF>『連携スキル』</color>開始時に、対応するエージェントを選択して発動：\n前方広範囲の敵に周回斬撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を大量に与える。\nスキル発動時、そのまま<color=#FFFFFF>「熱狂」</color>状態に入り、<color=#FFFFFF>「熱狂フロウ」</color>が最大まで溜まる。\nスキル発動中、無敵効果を得る。",
-          "Potential": []
+          "name": "連携スキル：罪悪の華",
+          "desc": "<color=#FFFFFF>『連携スキル』</color>開始時に、対応するエージェントを選択して発動：\n前方広範囲の敵に周回斬撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を大量に与える。\nスキル発動時、そのまま<color=#FFFFFF>「熱狂」</color>状態に入り、<color=#FFFFFF>「熱狂フロウ」</color>が最大まで溜まる。\nスキル発動中、無敵効果を得る。",
+          "potential": []
         },
         {
-          "Name": "終結スキル：フィナーレ",
-          "Desc": "デシベルレートが<color=#FFFFFF>『Maximum』</color>に達した時に <IconMap:Icon_UltimateReady> を押して発動：\n前方広範囲の敵に強力な周回斬撃を行った後、とどめの一撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を大量に与える。\nスキル発動時、そのまま<color=#FFFFFF>「熱狂」</color>状態に入り、<color=#FFFFFF>「熱狂フロウ」</color>が最大まで溜まる。\nスキル発動中、無敵効果を得る。",
-          "Potential": []
+          "name": "終結スキル：フィナーレ",
+          "desc": "デシベルレートが<color=#FFFFFF>『Maximum』</color>に達した時に <IconMap:Icon_UltimateReady> を押して発動：\n前方広範囲の敵に強力な周回斬撃を行った後、とどめの一撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を大量に与える。\nスキル発動時、そのまま<color=#FFFFFF>「熱狂」</color>状態に入り、<color=#FFFFFF>「熱狂フロウ」</color>が最大まで溜まる。\nスキル発動中、無敵効果を得る。",
+          "potential": []
         },
         {
-          "Name": "連携スキル：罪悪の華",
-          "Param": [
+          "name": "連携スキル：罪悪の華",
+          "param": [
             {
-              "Name": "ダメージ倍率",
-              "Desc": "{Skill:1261017, Prop:1001}",
-              "Param": {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1261017, Prop:1001}",
+              "param": {
                 "1261017": {
-                  "Main": 63260,
-                  "Growth": 5760,
-                  "Format": "%",
-                  "DamagePercentage": 63260,
-                  "DamagePercentageGrowth": 5760,
-                  "StunRatio": 23760,
-                  "StunRatioGrowth": 1080,
-                  "SpRecovery": 0,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 2488750,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 43946,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 63260,
+                  "growth": 5760,
+                  "format": "%",
+                  "damagePercentage": 63260,
+                  "damagePercentageGrowth": 5760,
+                  "stunRatio": 23760,
+                  "stunRatioGrowth": 1080,
+                  "spRecovery": 0,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 2488750,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 43946,
+                  "spConsume": 0,
+                  "attackData": [
                     0,
                     350000
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 23997
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 23997
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "ブレイク倍率",
-              "Desc": "{Skill:1261017, Prop:1002}",
-              "Param": {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1261017, Prop:1002}",
+              "param": {
                 "1261017": {
-                  "Main": 23760,
-                  "Growth": 1080,
-                  "Format": "%",
-                  "DamagePercentage": 63260,
-                  "DamagePercentageGrowth": 5760,
-                  "StunRatio": 23760,
-                  "StunRatioGrowth": 1080,
-                  "SpRecovery": 0,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 2488750,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 43946,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 23760,
+                  "growth": 1080,
+                  "format": "%",
+                  "damagePercentage": 63260,
+                  "damagePercentageGrowth": 5760,
+                  "stunRatio": 23760,
+                  "stunRatioGrowth": 1080,
+                  "spRecovery": 0,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 2488750,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 43946,
+                  "spConsume": 0,
+                  "attackData": [
                     0,
                     350000
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 23997
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 23997
                 }
               },
-              "Potential": []
+              "potential": []
             }
           ],
-          "Potential": []
+          "potential": []
         },
         {
-          "Name": "終結スキル：フィナーレ",
-          "Param": [
+          "name": "終結スキル：フィナーレ",
+          "param": [
             {
-              "Name": "ダメージ倍率",
-              "Desc": "{Skill:1261018, Prop:1001}",
-              "Param": {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1261018, Prop:1001}",
+              "param": {
                 "1261018": {
-                  "Main": 147060,
-                  "Growth": 13370,
-                  "Format": "%",
-                  "DamagePercentage": 147060,
-                  "DamagePercentageGrowth": 13370,
-                  "StunRatio": 18650,
-                  "StunRatioGrowth": 850,
-                  "SpRecovery": 0,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 0,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 96658,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 147060,
+                  "growth": 13370,
+                  "format": "%",
+                  "damagePercentage": 147060,
+                  "damagePercentageGrowth": 13370,
+                  "stunRatio": 18650,
+                  "stunRatioGrowth": 850,
+                  "spRecovery": 0,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 96658,
+                  "spConsume": 0,
+                  "attackData": [
                     0,
                     350000
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 68834
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 68834
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "ブレイク倍率",
-              "Desc": "{Skill:1261018, Prop:1002}",
-              "Param": {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1261018, Prop:1002}",
+              "param": {
                 "1261018": {
-                  "Main": 18650,
-                  "Growth": 850,
-                  "Format": "%",
-                  "DamagePercentage": 147060,
-                  "DamagePercentageGrowth": 13370,
-                  "StunRatio": 18650,
-                  "StunRatioGrowth": 850,
-                  "SpRecovery": 0,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 0,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 96658,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 18650,
+                  "growth": 850,
+                  "format": "%",
+                  "damagePercentage": 147060,
+                  "damagePercentageGrowth": 13370,
+                  "stunRatio": 18650,
+                  "stunRatioGrowth": 850,
+                  "spRecovery": 0,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 96658,
+                  "spConsume": 0,
+                  "attackData": [
                     0,
                     350000
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 68834
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 68834
                 }
               },
-              "Potential": []
+              "potential": []
             }
           ],
-          "Potential": []
+          "potential": []
         }
       ],
-      "Material": {
+      "material": {
         "1": {
           "10": 2000,
           "100110": 2
@@ -1647,315 +1647,315 @@
         "12": {}
       }
     },
-    "Assist": {
-      "Description": [
+    "assist": {
+      "description": [
         {
-          "Name": "クイック支援：<ruby=こくし>黒茨</ruby>",
-          "Desc": "操作しているメンバーが吹き飛ばされた時に、 <IconMap:Icon_Switch> を押して発動：\n前方の敵に複数回の斬撃を行った後、落下刺突を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\nスキル発動中、無敵効果を得る。",
-          "Potential": []
+          "name": "クイック支援：<ruby=こくし>黒茨</ruby>",
+          "desc": "操作しているメンバーが吹き飛ばされた時に、 <IconMap:Icon_Switch> を押して発動：\n前方の敵に複数回の斬撃を行った後、落下刺突を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\nスキル発動中、無敵効果を得る。",
+          "potential": []
         },
         {
-          "Name": "クイック支援：ルッツ・ジャンプ",
-          "Desc": "<color=#FFFFFF>「熱狂」</color>状態で操作しているメンバーが吹き飛ばされた時に、 <IconMap:Icon_Switch> を押して発動：\n前方の敵に複数回の高速斬撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\nスキル発動中、無敵効果を得る。",
-          "Potential": []
+          "name": "クイック支援：ルッツ・ジャンプ",
+          "desc": "<color=#FFFFFF>「熱狂」</color>状態で操作しているメンバーが吹き飛ばされた時に、 <IconMap:Icon_Switch> を押して発動：\n前方の敵に複数回の高速斬撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\nスキル発動中、無敵効果を得る。",
+          "potential": []
         },
         {
-          "Name": "パリィ支援：最後の一線",
-          "Desc": "出場中のメンバーが攻撃されそうになった時に、 <IconMap:Icon_Switch> を押して発動：\n敵の攻撃をパリィし、ブレイク値を大量に蓄積させる。\nスキル発動中、無敵効果を得る。",
-          "Potential": []
+          "name": "パリィ支援：最後の一線",
+          "desc": "出場中のメンバーが攻撃されそうになった時に、 <IconMap:Icon_Switch> を押して発動：\n敵の攻撃をパリィし、ブレイク値を大量に蓄積させる。\nスキル発動中、無敵効果を得る。",
+          "potential": []
         },
         {
-          "Name": "支援突撃：薙ぎ払う疾風",
-          "Desc": "<color=#FFFFFF>『パリィ支援』</color>発動後、 <IconMap:Icon_Normal> を押して発動：\n飛び上がってから高速斬撃を行った後、さらに前方広範囲になぎ払い斬撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\nスキル発動中、無敵効果を得る。",
-          "Potential": []
+          "name": "支援突撃：薙ぎ払う疾風",
+          "desc": "<color=#FFFFFF>『パリィ支援』</color>発動後、 <IconMap:Icon_Normal> を押して発動：\n飛び上がってから高速斬撃を行った後、さらに前方広範囲になぎ払い斬撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\nスキル発動中、無敵効果を得る。",
+          "potential": []
         },
         {
-          "Name": "クイック支援：<ruby=こくし>黒茨</ruby>",
-          "Param": [
+          "name": "クイック支援：<ruby=こくし>黒茨</ruby>",
+          "param": [
             {
-              "Name": "ダメージ倍率",
-              "Desc": "{Skill:1261019, Prop:1001}",
-              "Param": {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1261019, Prop:1001}",
+              "param": {
                 "1261019": {
-                  "Main": 11920,
-                  "Growth": 1090,
-                  "Format": "%",
-                  "DamagePercentage": 11920,
-                  "DamagePercentageGrowth": 1090,
-                  "StunRatio": 11920,
-                  "StunRatioGrowth": 550,
-                  "SpRecovery": 39000,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 298100,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 10833,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 11920,
+                  "growth": 1090,
+                  "format": "%",
+                  "damagePercentage": 11920,
+                  "damagePercentageGrowth": 1090,
+                  "stunRatio": 11920,
+                  "stunRatioGrowth": 550,
+                  "spRecovery": 39000,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 298100,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 10833,
+                  "spConsume": 0,
+                  "attackData": [
                     158334,
                     0
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 5417
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 5417
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "ブレイク倍率",
-              "Desc": "{Skill:1261019, Prop:1002}",
-              "Param": {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1261019, Prop:1002}",
+              "param": {
                 "1261019": {
-                  "Main": 11920,
-                  "Growth": 550,
-                  "Format": "%",
-                  "DamagePercentage": 11920,
-                  "DamagePercentageGrowth": 1090,
-                  "StunRatio": 11920,
-                  "StunRatioGrowth": 550,
-                  "SpRecovery": 39000,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 298100,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 10833,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 11920,
+                  "growth": 550,
+                  "format": "%",
+                  "damagePercentage": 11920,
+                  "damagePercentageGrowth": 1090,
+                  "stunRatio": 11920,
+                  "stunRatioGrowth": 550,
+                  "spRecovery": 39000,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 298100,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 10833,
+                  "spConsume": 0,
+                  "attackData": [
                     158334,
                     0
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 5417
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 5417
                 }
               },
-              "Potential": []
+              "potential": []
             }
           ],
-          "Potential": []
+          "potential": []
         },
         {
-          "Name": "クイック支援：ルッツ・ジャンプ",
-          "Param": [
+          "name": "クイック支援：ルッツ・ジャンプ",
+          "param": [
             {
-              "Name": "ダメージ倍率",
-              "Desc": "{Skill:1261020, Prop:1001}",
-              "Param": {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1261020, Prop:1001}",
+              "param": {
                 "1261020": {
-                  "Main": 13750,
-                  "Growth": 1250,
-                  "Format": "%",
-                  "DamagePercentage": 13750,
-                  "DamagePercentageGrowth": 1250,
-                  "StunRatio": 13750,
-                  "StunRatioGrowth": 630,
-                  "SpRecovery": 44990,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 343750,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 12496,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 13750,
+                  "growth": 1250,
+                  "format": "%",
+                  "damagePercentage": 13750,
+                  "damagePercentageGrowth": 1250,
+                  "stunRatio": 13750,
+                  "stunRatioGrowth": 630,
+                  "spRecovery": 44990,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 343750,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 12496,
+                  "spConsume": 0,
+                  "attackData": [
                     0,
                     149960
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 6249
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 6249
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "ブレイク倍率",
-              "Desc": "{Skill:1261020, Prop:1002}",
-              "Param": {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1261020, Prop:1002}",
+              "param": {
                 "1261020": {
-                  "Main": 13750,
-                  "Growth": 630,
-                  "Format": "%",
-                  "DamagePercentage": 13750,
-                  "DamagePercentageGrowth": 1250,
-                  "StunRatio": 13750,
-                  "StunRatioGrowth": 630,
-                  "SpRecovery": 44990,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 343750,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 12496,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 13750,
+                  "growth": 630,
+                  "format": "%",
+                  "damagePercentage": 13750,
+                  "damagePercentageGrowth": 1250,
+                  "stunRatio": 13750,
+                  "stunRatioGrowth": 630,
+                  "spRecovery": 44990,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 343750,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 12496,
+                  "spConsume": 0,
+                  "attackData": [
                     0,
                     149960
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 6249
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 6249
                 }
               },
-              "Potential": []
+              "potential": []
             }
           ],
-          "Potential": []
+          "potential": []
         },
         {
-          "Name": "パリィ支援：最後の一線",
-          "Param": [
+          "name": "パリィ支援：最後の一線",
+          "param": [
             {
-              "Name": "パリィ・軽 ブレイク倍率",
-              "Desc": "{Skill:1261021, Prop:1002}",
-              "Param": {
+              "name": "パリィ・軽 ブレイク倍率",
+              "desc": "{Skill:1261021, Prop:1002}",
+              "param": {
                 "1261021": {
-                  "Main": 27130,
-                  "Growth": 1240,
-                  "Format": "%",
-                  "DamagePercentage": 0,
-                  "DamagePercentageGrowth": 0,
-                  "StunRatio": 27130,
-                  "StunRatioGrowth": 1240,
-                  "SpRecovery": 0,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 0,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 0,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 27130,
+                  "growth": 1240,
+                  "format": "%",
+                  "damagePercentage": 0,
+                  "damagePercentageGrowth": 0,
+                  "stunRatio": 27130,
+                  "stunRatioGrowth": 1240,
+                  "spRecovery": 0,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 0,
+                  "spConsume": 0,
+                  "attackData": [
                     0,
                     0
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 36664
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 36664
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "パリィ・重 ブレイク倍率",
-              "Desc": "{Skill:1261022, Prop:1002}",
-              "Param": {
+              "name": "パリィ・重 ブレイク倍率",
+              "desc": "{Skill:1261022, Prop:1002}",
+              "param": {
                 "1261022": {
-                  "Main": 34280,
-                  "Growth": 1560,
-                  "Format": "%",
-                  "DamagePercentage": 0,
-                  "DamagePercentageGrowth": 0,
-                  "StunRatio": 34280,
-                  "StunRatioGrowth": 1560,
-                  "SpRecovery": 0,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 0,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 0,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 34280,
+                  "growth": 1560,
+                  "format": "%",
+                  "damagePercentage": 0,
+                  "damagePercentageGrowth": 0,
+                  "stunRatio": 34280,
+                  "stunRatioGrowth": 1560,
+                  "spRecovery": 0,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 0,
+                  "spConsume": 0,
+                  "attackData": [
                     0,
                     0
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 41664
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 41664
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "パリィ・連続 ブレイク倍率",
-              "Desc": "{Skill:1261023, Prop:1002}",
-              "Param": {
+              "name": "パリィ・連続 ブレイク倍率",
+              "desc": "{Skill:1261023, Prop:1002}",
+              "param": {
                 "1261023": {
-                  "Main": 16680,
-                  "Growth": 760,
-                  "Format": "%",
-                  "DamagePercentage": 0,
-                  "DamagePercentageGrowth": 0,
-                  "StunRatio": 16680,
-                  "StunRatioGrowth": 760,
-                  "SpRecovery": 0,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 0,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 0,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 16680,
+                  "growth": 760,
+                  "format": "%",
+                  "damagePercentage": 0,
+                  "damagePercentageGrowth": 0,
+                  "stunRatio": 16680,
+                  "stunRatioGrowth": 760,
+                  "spRecovery": 0,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 0,
+                  "spConsume": 0,
+                  "attackData": [
                     0,
                     0
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 11664
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 11664
                 }
               },
-              "Potential": []
+              "potential": []
             }
           ],
-          "Potential": []
+          "potential": []
         },
         {
-          "Name": "支援突撃：薙ぎ払う疾風",
-          "Param": [
+          "name": "支援突撃：薙ぎ払う疾風",
+          "param": [
             {
-              "Name": "ダメージ倍率",
-              "Desc": "{Skill:1261024, Prop:1001}",
-              "Param": {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1261024, Prop:1001}",
+              "param": {
                 "1261024": {
-                  "Main": 34550,
-                  "Growth": 3150,
-                  "Format": "%",
-                  "DamagePercentage": 34550,
-                  "DamagePercentageGrowth": 3150,
-                  "StunRatio": 29900,
-                  "StunRatioGrowth": 1360,
-                  "SpRecovery": 0,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 980100,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 29292,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 34550,
+                  "growth": 3150,
+                  "format": "%",
+                  "damagePercentage": 34550,
+                  "damagePercentageGrowth": 3150,
+                  "stunRatio": 29900,
+                  "stunRatioGrowth": 1360,
+                  "spRecovery": 0,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 980100,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 29292,
+                  "spConsume": 0,
+                  "attackData": [
                     407686,
                     173961
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 14497
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 14497
                 }
               },
-              "Potential": []
+              "potential": []
             },
             {
-              "Name": "ブレイク倍率",
-              "Desc": "{Skill:1261024, Prop:1002}",
-              "Param": {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1261024, Prop:1002}",
+              "param": {
                 "1261024": {
-                  "Main": 29900,
-                  "Growth": 1360,
-                  "Format": "%",
-                  "DamagePercentage": 34550,
-                  "DamagePercentageGrowth": 3150,
-                  "StunRatio": 29900,
-                  "StunRatioGrowth": 1360,
-                  "SpRecovery": 0,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 980100,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 29292,
-                  "SpConsume": 0,
-                  "AttackData": [
+                  "main": 29900,
+                  "growth": 1360,
+                  "format": "%",
+                  "damagePercentage": 34550,
+                  "damagePercentageGrowth": 3150,
+                  "stunRatio": 29900,
+                  "stunRatioGrowth": 1360,
+                  "spRecovery": 0,
+                  "spRecoveryGrowth": 0,
+                  "feverRecovery": 980100,
+                  "feverRecoveryGrowth": 0,
+                  "attributeInfliction": 29292,
+                  "spConsume": 0,
+                  "attackData": [
                     407686,
                     173961
                   ],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 14497
+                  "rpRecovery": 0,
+                  "rpRecoveryGrowth": 0,
+                  "etherPurify": 14497
                 }
               },
-              "Potential": []
+              "potential": []
             }
           ],
-          "Potential": []
+          "potential": []
         }
       ],
-      "Material": {
+      "material": {
         "1": {
           "10": 2000,
           "100110": 2
@@ -2005,208 +2005,208 @@
       }
     }
   },
-  "SkillList": {
+  "skillList": {
     "1261001": {
-      "Name": "通常攻撃：ダンシング・ナイフ",
-      "Desc": "<IconMap:Icon_Normal>",
-      "ElementType": 200,
-      "HitType": 101,
-      "Potential": []
+      "name": "通常攻撃：ダンシング・ナイフ",
+      "desc": "<IconMap:Icon_Normal>",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
     },
     "1261002": {
-      "Name": "通常攻撃：サルコウ・ジャンプ",
-      "Desc": "<IconMap:Icon_Normal>（発動可能回数が0でない時に）（長押し）",
-      "ElementType": 200,
-      "HitType": 101,
-      "Potential": []
+      "name": "通常攻撃：サルコウ・ジャンプ",
+      "desc": "<IconMap:Icon_Normal>（発動可能回数が0でない時に）（長押し）",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
     },
     "1261003": {
-      "Name": "特殊スキル：空を掠める",
-      "Desc": "<IconMap:Icon_Special>",
-      "ElementType": 200,
-      "HitType": 101,
-      "Potential": []
+      "name": "特殊スキル：空を掠める",
+      "desc": "<IconMap:Icon_Special>",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
     },
     "1261004": {
-      "Name": "強化特殊スキル：空を掠める・一掃",
-      "Desc": "<IconMap:Icon_SpecialReady>",
-      "ElementType": 200,
-      "HitType": 101,
-      "Potential": []
+      "name": "強化特殊スキル：空を掠める・一掃",
+      "desc": "<IconMap:Icon_SpecialReady>",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
     },
     "1261005": {
-      "Name": "ダッシュ攻撃：エッジ・ジャンプ",
-      "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
-      "ElementType": 200,
-      "HitType": 101,
-      "Potential": []
+      "name": "ダッシュ攻撃：エッジ・ジャンプ",
+      "desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
     },
     "1261006": {
-      "Name": "ダッシュ攻撃：虚像のつらぬき",
-      "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>（熱狂状態）",
-      "ElementType": 200,
-      "HitType": 101,
-      "Potential": []
+      "name": "ダッシュ攻撃：虚像のつらぬき",
+      "desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>（熱狂状態）",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
     },
     "1261007": {
-      "Name": "回避反撃：疾影",
-      "Desc": "<IconMap:Icon_Evade>（極限回避成功） ; <IconMap:Icon_Normal>",
-      "ElementType": 200,
-      "HitType": 101,
-      "Potential": []
+      "name": "回避反撃：疾影",
+      "desc": "<IconMap:Icon_Evade>（極限回避成功） ; <IconMap:Icon_Normal>",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
     },
     "1261008": {
-      "Name": "回避反撃：疾影の舞",
-      "Desc": "<IconMap:Icon_Evade>（極限回避成功） ; <IconMap:Icon_Normal>（熱狂状態）",
-      "ElementType": 200,
-      "HitType": 101,
-      "Potential": []
+      "name": "回避反撃：疾影の舞",
+      "desc": "<IconMap:Icon_Evade>（極限回避成功） ; <IconMap:Icon_Normal>（熱狂状態）",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
     },
     "1261009": {
-      "Name": "連携スキル：罪悪の華",
-      "Desc": "<IconMap:Icon_QTE>",
-      "ElementType": 200,
-      "HitType": 101,
-      "Potential": []
+      "name": "連携スキル：罪悪の華",
+      "desc": "<IconMap:Icon_QTE>",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
     },
     "1261010": {
-      "Name": "終結スキル：フィナーレ",
-      "Desc": "<IconMap:Icon_UltimateReady>",
-      "ElementType": 200,
-      "HitType": 101,
-      "Potential": []
+      "name": "終結スキル：フィナーレ",
+      "desc": "<IconMap:Icon_UltimateReady>",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
     },
     "1261011": {
-      "Name": "クイック支援：黒茨",
-      "Desc": "<IconMap:Icon_Switch>（クイック支援の発動条件を満たした時）",
-      "ElementType": 200,
-      "HitType": 101,
-      "Potential": []
+      "name": "クイック支援：黒茨",
+      "desc": "<IconMap:Icon_Switch>（クイック支援の発動条件を満たした時）",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
     },
     "1261012": {
-      "Name": "クイック支援：ルッツ・ジャンプ",
-      "Desc": "<IconMap:Icon_Switch>（クイック支援の発動条件を満たした時）（熱狂状態）",
-      "ElementType": 200,
-      "HitType": 101,
-      "Potential": []
+      "name": "クイック支援：ルッツ・ジャンプ",
+      "desc": "<IconMap:Icon_Switch>（クイック支援の発動条件を満たした時）（熱狂状態）",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
     },
     "1261013": {
-      "Name": "パリィ支援：最後の一線",
-      "Desc": "<IconMap:Icon_Switch>（パリィ支援の発動条件を満たした時）",
-      "ElementType": 0,
-      "HitType": 0,
-      "Potential": []
+      "name": "パリィ支援：最後の一線",
+      "desc": "<IconMap:Icon_Switch>（パリィ支援の発動条件を満たした時）",
+      "elementType": 0,
+      "hitType": 0,
+      "potential": []
     },
     "1261014": {
-      "Name": "支援突撃：薙ぎ払う疾風",
-      "Desc": "<IconMap:Icon_Normal>（パリィ支援を発動した後に）",
-      "ElementType": 200,
-      "HitType": 101,
-      "Potential": []
+      "name": "支援突撃：薙ぎ払う疾風",
+      "desc": "<IconMap:Icon_Normal>（パリィ支援を発動した後に）",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
     }
   },
-  "Passive": {
-    "Level": {
+  "passive": {
+    "level": {
       "1261501": {
-        "Level": 1,
-        "Id": 1261501,
-        "Name": [
+        "level": 1,
+        "id": 1261501,
+        "name": [
           "コアパッシブ：洞察",
           "追加能力：痛点"
         ],
-        "Desc": [
+        "desc": [
           "ジェーンの攻撃が命中した敵は<color=#FFFFFF>「噛み傷」</color>状態に入る、継続時間10秒。任意のメンバーが<color=#FFFFFF>「噛み傷」</color>状態の敵に<color=#F0D12B>「強撃」</color>効果を発動し、<color=#F0D12B>「畏縮」</color>効果を付与した時、<color=#F0D12B>「畏縮」</color>効果の持続時間が5秒延長される。<color=#FFFFFF>「噛み傷」</color>状態にある敵に与える<color=#F0D12B>「強撃」</color>ダメージが確率で会心を出すようになる、基礎会心率は<color=#2BAD00>20%</color>、会心ダメージは50%。ジェーンの異常マスタリー1Ptにつき、この効果の会心率が追加で+<color=#2BAD00>0.1%</color>。",
           "チームに他の<color=#FFFFFF>[異常]</color>メンバーまたは自身と同じ陣営のメンバーがいる時に発動：\nジェーンの<color=#F0D12B>物理属性の状態異常蓄積効率</color>+20%。状態異常の敵に対し、ジェーンの攻撃による<color=#F0D12B>物理属性の状態異常蓄積値</color>が追加で+15%。"
         ],
-        "ExtraProperty": {},
-        "Potential": []
+        "extraProperty": {},
+        "potential": []
       },
       "1261502": {
-        "Level": 2,
-        "Id": 1261502,
-        "Name": [
+        "level": 2,
+        "id": 1261502,
+        "name": [
           "コアパッシブ：洞察",
           "追加能力：痛点"
         ],
-        "Desc": [
+        "desc": [
           "ジェーンの攻撃が命中した敵は<color=#FFFFFF>「噛み傷」</color>状態に入る、継続時間10秒。任意のメンバーが<color=#FFFFFF>「噛み傷」</color>状態の敵に<color=#F0D12B>「強撃」</color>効果を発動し、<color=#F0D12B>「畏縮」</color>効果を付与した時、<color=#F0D12B>「畏縮」</color>効果の持続時間が5秒延長される。<color=#FFFFFF>「噛み傷」</color>状態にある敵に与える<color=#F0D12B>「強撃」</color>ダメージが確率で会心を出すようになる、基礎会心率は<color=#2BAD00>25%</color>、会心ダメージは50%。ジェーンの異常マスタリー1Ptにつき、この効果の会心率が追加で+<color=#2BAD00>0.11%</color>。",
           "チームに他の<color=#FFFFFF>[異常]</color>メンバーまたは自身と同じ陣営のメンバーがいる時に発動：\nジェーンの<color=#F0D12B>物理属性の状態異常蓄積効率</color>+20%。状態異常の敵に対し、ジェーンの攻撃による<color=#F0D12B>物理属性の状態異常蓄積値</color>が追加で+15%。"
         ],
-        "ExtraProperty": {},
-        "Potential": []
+        "extraProperty": {},
+        "potential": []
       },
       "1261503": {
-        "Level": 3,
-        "Id": 1261503,
-        "Name": [
+        "level": 3,
+        "id": 1261503,
+        "name": [
           "コアパッシブ：洞察",
           "追加能力：痛点"
         ],
-        "Desc": [
+        "desc": [
           "ジェーンの攻撃が命中した敵は<color=#FFFFFF>「噛み傷」</color>状態に入る、継続時間10秒。任意のメンバーが<color=#FFFFFF>「噛み傷」</color>状態の敵に<color=#F0D12B>「強撃」</color>効果を発動し、<color=#F0D12B>「畏縮」</color>効果を付与した時、<color=#F0D12B>「畏縮」</color>効果の持続時間が5秒延長される。<color=#FFFFFF>「噛み傷」</color>状態にある敵に与える<color=#F0D12B>「強撃」</color>ダメージが確率で会心を出すようになる、基礎会心率は<color=#2BAD00>28%</color>、会心ダメージは50%。ジェーンの異常マスタリー1Ptにつき、この効果の会心率が追加で+<color=#2BAD00>0.12%</color>。",
           "チームに他の<color=#FFFFFF>[異常]</color>メンバーまたは自身と同じ陣営のメンバーがいる時に発動：\nジェーンの<color=#F0D12B>物理属性の状態異常蓄積効率</color>+20%。状態異常の敵に対し、ジェーンの攻撃による<color=#F0D12B>物理属性の状態異常蓄積値</color>が追加で+15%。"
         ],
-        "ExtraProperty": {},
-        "Potential": []
+        "extraProperty": {},
+        "potential": []
       },
       "1261504": {
-        "Level": 4,
-        "Id": 1261504,
-        "Name": [
+        "level": 4,
+        "id": 1261504,
+        "name": [
           "コアパッシブ：洞察",
           "追加能力：痛点"
         ],
-        "Desc": [
+        "desc": [
           "ジェーンの攻撃が命中した敵は<color=#FFFFFF>「噛み傷」</color>状態に入る、継続時間10秒。任意のメンバーが<color=#FFFFFF>「噛み傷」</color>状態の敵に<color=#F0D12B>「強撃」</color>効果を発動し、<color=#F0D12B>「畏縮」</color>効果を付与した時、<color=#F0D12B>「畏縮」</color>効果の持続時間が5秒延長される。<color=#FFFFFF>「噛み傷」</color>状態にある敵に与える<color=#F0D12B>「強撃」</color>ダメージが確率で会心を出すようになる、基礎会心率は<color=#2BAD00>31%</color>、会心ダメージは50%。ジェーンの異常マスタリー1Ptにつき、この効果の会心率が追加で+<color=#2BAD00>0.13%</color>。",
           "チームに他の<color=#FFFFFF>[異常]</color>メンバーまたは自身と同じ陣営のメンバーがいる時に発動：\nジェーンの<color=#F0D12B>物理属性の状態異常蓄積効率</color>+20%。状態異常の敵に対し、ジェーンの攻撃による<color=#F0D12B>物理属性の状態異常蓄積値</color>が追加で+15%。"
         ],
-        "ExtraProperty": {},
-        "Potential": []
+        "extraProperty": {},
+        "potential": []
       },
       "1261505": {
-        "Level": 5,
-        "Id": 1261505,
-        "Name": [
+        "level": 5,
+        "id": 1261505,
+        "name": [
           "コアパッシブ：洞察",
           "追加能力：痛点"
         ],
-        "Desc": [
+        "desc": [
           "ジェーンの攻撃が命中した敵は<color=#FFFFFF>「噛み傷」</color>状態に入る、継続時間10秒。任意のメンバーが<color=#FFFFFF>「噛み傷」</color>状態の敵に<color=#F0D12B>「強撃」</color>効果を発動し、<color=#F0D12B>「畏縮」</color>効果を付与した時、<color=#F0D12B>「畏縮」</color>効果の持続時間が5秒延長される。<color=#FFFFFF>「噛み傷」</color>状態にある敵に与える<color=#F0D12B>「強撃」</color>ダメージが確率で会心を出すようになる、基礎会心率は<color=#2BAD00>34%</color>、会心ダメージは50%。ジェーンの異常マスタリー1Ptにつき、この効果の会心率が追加で+<color=#2BAD00>0.14%</color>。",
           "チームに他の<color=#FFFFFF>[異常]</color>メンバーまたは自身と同じ陣営のメンバーがいる時に発動：\nジェーンの<color=#F0D12B>物理属性の状態異常蓄積効率</color>+20%。状態異常の敵に対し、ジェーンの攻撃による<color=#F0D12B>物理属性の状態異常蓄積値</color>が追加で+15%。"
         ],
-        "ExtraProperty": {},
-        "Potential": []
+        "extraProperty": {},
+        "potential": []
       },
       "1261506": {
-        "Level": 6,
-        "Id": 1261506,
-        "Name": [
+        "level": 6,
+        "id": 1261506,
+        "name": [
           "コアパッシブ：洞察",
           "追加能力：痛点"
         ],
-        "Desc": [
+        "desc": [
           "ジェーンの攻撃が命中した敵は<color=#FFFFFF>「噛み傷」</color>状態に入る、継続時間10秒。任意のメンバーが<color=#FFFFFF>「噛み傷」</color>状態の敵に<color=#F0D12B>「強撃」</color>効果を発動し、<color=#F0D12B>「畏縮」</color>効果を付与した時、<color=#F0D12B>「畏縮」</color>効果の持続時間が5秒延長される。<color=#FFFFFF>「噛み傷」</color>状態にある敵に与える<color=#F0D12B>「強撃」</color>ダメージが確率で会心を出すようになる、基礎会心率は<color=#2BAD00>37%</color>、会心ダメージは50%。ジェーンの異常マスタリー1Ptにつき、この効果の会心率が追加で+<color=#2BAD00>0.15%</color>。",
           "チームに他の<color=#FFFFFF>[異常]</color>メンバーまたは自身と同じ陣営のメンバーがいる時に発動：\nジェーンの<color=#F0D12B>物理属性の状態異常蓄積効率</color>+20%。状態異常の敵に対し、ジェーンの攻撃による<color=#F0D12B>物理属性の状態異常蓄積値</color>が追加で+15%。"
         ],
-        "ExtraProperty": {},
-        "Potential": []
+        "extraProperty": {},
+        "potential": []
       },
       "1261507": {
-        "Level": 7,
-        "Id": 1261507,
-        "Name": [
+        "level": 7,
+        "id": 1261507,
+        "name": [
           "コアパッシブ：洞察",
           "追加能力：痛点"
         ],
-        "Desc": [
+        "desc": [
           "ジェーンの攻撃が命中した敵は<color=#FFFFFF>「噛み傷」</color>状態に入る、継続時間10秒。任意のメンバーが<color=#FFFFFF>「噛み傷」</color>状態の敵に<color=#F0D12B>「強撃」</color>効果を発動し、<color=#F0D12B>「畏縮」</color>効果を付与した時、<color=#F0D12B>「畏縮」</color>効果の持続時間が5秒延長される。<color=#FFFFFF>「噛み傷」</color>状態にある敵に与える<color=#F0D12B>「強撃」</color>ダメージが確率で会心を出すようになる、基礎会心率は<color=#2BAD00>40%</color>、会心ダメージは50%。ジェーンの異常マスタリー1Ptにつき、この効果の会心率が追加で+<color=#2BAD00>0.16%</color>。",
           "チームに他の<color=#FFFFFF>[異常]</color>メンバーまたは自身と同じ陣営のメンバーがいる時に発動：\nジェーンの<color=#F0D12B>物理属性の状態異常蓄積効率</color>+20%。状態異常の敵に対し、ジェーンの攻撃による<color=#F0D12B>物理属性の状態異常蓄積値</color>が追加で+15%。"
         ],
-        "ExtraProperty": {},
-        "Potential": []
+        "extraProperty": {},
+        "potential": []
       }
     },
-    "Materials": {
+    "materials": {
       "1": {
         "10": 5000
       },
@@ -2235,74 +2235,74 @@
       }
     }
   },
-  "Talent": {
+  "talent": {
     "1": {
-      "Level": 1,
-      "Name": "犯罪のプロ",
-      "Desc": "ジェーンの<color=#FFFFFF>『通常攻撃：サルコウ・ジャンプ』</color>最大発動可能回数が1回増える。<color=#FFFFFF>「熱狂」</color>状態にある時、ジェーンの<color=#F0D12B>物理属性の状態異常蓄積効率</color>が追加で+15%、また異常マスタリー1Ptにつき、自身の与ダメージ+0.1%、最大+30%。",
-      "Desc2": "「あくまで犯罪行動学のプロだから、悪いことをするプロじゃないの」\nそう言うとふいにジェーンは顔を近づけ、息のかかる距離でまばたきをした。\n「もちろん、アンタが後者だって思いたいなら…アタイは別にいいけど」"
+      "level": 1,
+      "name": "犯罪のプロ",
+      "desc": "ジェーンの<color=#FFFFFF>『通常攻撃：サルコウ・ジャンプ』</color>最大発動可能回数が1回増える。<color=#FFFFFF>「熱狂」</color>状態にある時、ジェーンの<color=#F0D12B>物理属性の状態異常蓄積効率</color>が追加で+15%、また異常マスタリー1Ptにつき、自身の与ダメージ+0.1%、最大+30%。",
+      "desc2": "「あくまで犯罪行動学のプロだから、悪いことをするプロじゃないの」\nそう言うとふいにジェーンは顔を近づけ、息のかかる距離でまばたきをした。\n「もちろん、アンタが後者だって思いたいなら…アタイは別にいいけど」"
     },
     "2": {
-      "Level": 2,
-      "Name": "朱に交われば赤くなる",
-      "Desc": "ジェーンの攻撃が<color=#FFFFFF>「噛み傷」</color>状態の敵に命中、または任意のメンバーが<color=#FFFFFF>「噛み傷」</color>状態の敵に<color=#F0D12B>「強撃」</color>効果を発動した時、ターゲットの防御力を15%無視する。<color=#F0D12B>「強撃」</color>ダメージで会心が出た時、会心ダメージが追加で+50%。",
-      "Desc2": "深淵をのぞくとき、深淵と目が合うのは、ほんの第一歩にすぎない。\n「深淵に近づいて、浸かって、理解するの。これが第二歩」\n「最後の一歩は…深淵に『なって』しまわないこと」"
+      "level": 2,
+      "name": "朱に交われば赤くなる",
+      "desc": "ジェーンの攻撃が<color=#FFFFFF>「噛み傷」</color>状態の敵に命中、または任意のメンバーが<color=#FFFFFF>「噛み傷」</color>状態の敵に<color=#F0D12B>「強撃」</color>効果を発動した時、ターゲットの防御力を15%無視する。<color=#F0D12B>「強撃」</color>ダメージで会心が出た時、会心ダメージが追加で+50%。",
+      "desc2": "深淵をのぞくとき、深淵と目が合うのは、ほんの第一歩にすぎない。\n「深淵に近づいて、浸かって、理解するの。これが第二歩」\n「最後の一歩は…深淵に『なって』しまわないこと」"
     },
     "3": {
-      "Level": 3,
-      "Name": "名無し",
-      "Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
-      "Desc2": "「名前が無いから、誰にだってなれるの。\n例えば、アンタがいちばん好きな人とか…」\n「…いちばん怖い人、とか」"
+      "level": 3,
+      "name": "名無し",
+      "desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+      "desc2": "「名前が無いから、誰にだってなれるの。\n例えば、アンタがいちばん好きな人とか…」\n「…いちばん怖い人、とか」"
     },
     "4": {
-      "Level": 4,
-      "Name": "秤の傾くほう",
-      "Desc": "任意のメンバーが<color=#F0D12B>「強撃」</color>または<color=#FFFFFF>「混沌」</color>効果を発動した時、メンバー全員の与える状態異常ダメージ+18%、継続時間15秒。",
-      "Desc2": "「どっちが獲物で狩人かなんて、そんなの見方によるわ。\nでもアタイは…もっとシンプルに決めたいの」\n「——負けた方が、獲物」"
+      "level": 4,
+      "name": "秤の傾くほう",
+      "desc": "任意のメンバーが<color=#F0D12B>「強撃」</color>または<color=#FFFFFF>「混沌」</color>効果を発動した時、メンバー全員の与える状態異常ダメージ+18%、継続時間15秒。",
+      "desc2": "「どっちが獲物で狩人かなんて、そんなの見方によるわ。\nでもアタイは…もっとシンプルに決めたいの」\n「——負けた方が、獲物」"
     },
     "5": {
-      "Level": 5,
-      "Name": "ためこみ癖",
-      "Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
-      "Desc2": "ジェーンの部屋には、ありとあらゆる物がため込まれている。\nその大半を占めるのはインスタント食品だ。\n「どう？手の届くところに食べ物があるって、すっごくいいわよね～」"
+      "level": 5,
+      "name": "ためこみ癖",
+      "desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+      "desc2": "ジェーンの部屋には、ありとあらゆる物がため込まれている。\nその大半を占めるのはインスタント食品だ。\n「どう？手の届くところに食べ物があるって、すっごくいいわよね～」"
     },
     "6": {
-      "Level": 6,
-      "Name": "「汚い」やり方",
-      "Desc": "<color=#FFFFFF>「熱狂」</color>状態にある時、ジェーンの会心率+20%、会心ダメージ+40%。任意のメンバーが敵に<color=#F0D12B>「強撃」</color>効果を発動した時、ジェーンはそのまま<color=#FFFFFF>「熱狂」</color>状態に入り、<color=#FFFFFF>「熱狂フロウ」</color>が最大まで溜まる。今回の<color=#F0D12B>『強撃』</color>ダメージで会心が出ると、さらにターゲットに対して追加攻撃を1回行い、ジェーンの異常マスタリー1600%分の<color=#F0D12B>物理属性ダメージ</color>を与える。",
-      "Desc2": "ストリートで勝利という結果を掴むためなら、あらゆる手段は肯定される。\n「いちばん暗いところの欲望を見透かしてあげるの…\nだって、そこがいちばん弱いんだから」"
+      "level": 6,
+      "name": "「汚い」やり方",
+      "desc": "<color=#FFFFFF>「熱狂」</color>状態にある時、ジェーンの会心率+20%、会心ダメージ+40%。任意のメンバーが敵に<color=#F0D12B>「強撃」</color>効果を発動した時、ジェーンはそのまま<color=#FFFFFF>「熱狂」</color>状態に入り、<color=#FFFFFF>「熱狂フロウ」</color>が最大まで溜まる。今回の<color=#F0D12B>『強撃』</color>ダメージで会心が出ると、さらにターゲットに対して追加攻撃を1回行い、ジェーンの異常マスタリー1600%分の<color=#F0D12B>物理属性ダメージ</color>を与える。",
+      "desc2": "ストリートで勝利という結果を掴むためなら、あらゆる手段は肯定される。\n「いちばん暗いところの欲望を見透かしてあげるの…\nだって、そこがいちばん弱いんだから」"
     }
   },
-  "FairyRecommend": {
-    "Slot4": 32600,
-    "Slot2": 31300,
-    "SlotSub": 31400,
-    "Part4": {
-      "Prop": 31203,
-      "Name": "異常マスタリー",
-      "Format": "{0:0}",
-      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconElementMystery.png"
+  "fairyRecommend": {
+    "slot4": 32600,
+    "slot2": 31300,
+    "slotSub": 31400,
+    "part4": {
+      "prop": 31203,
+      "name": "異常マスタリー",
+      "format": "{0:0}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconElementMystery.png"
     },
-    "Part5": {
-      "Prop": 31503,
-      "Name": "物理属性ダメージボーナス",
-      "Format": "{0:0.#%}",
-      "Icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconPhysDmg.png"
+    "part5": {
+      "prop": 31503,
+      "name": "物理属性ダメージボーナス",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconPhysDmg.png"
     },
-    "Part6": {
-      "Prop": 12102,
-      "Name": "攻撃力",
-      "Format": "{0:0.#%}",
-      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
+    "part6": {
+      "prop": 12102,
+      "name": "攻撃力",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     },
-    "PartSub": {
-      "Prop": 20103,
-      "Name": "会心率",
-      "Format": "{0:0.#%}",
-      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
+    "partSub": {
+      "prop": 20103,
+      "name": "会心率",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
     }
   },
-  "Potential": [],
-  "PotentialDetail": {},
-  "Live2D": "UISpine_Jian"
+  "potential": [],
+  "potentialDetail": {},
+  "live2D": "UISpine_Jian"
 }
