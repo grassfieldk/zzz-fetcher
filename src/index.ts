@@ -44,12 +44,39 @@ function getString(value: unknown): string | undefined {
   return undefined;
 }
 
+function formatRarity(value: unknown) {
+  if (value === 3 || value === 4) {
+    return value === 3 ? "A" : "S";
+  }
+  return value;
+}
+
+function toLowerCamelCase(key: string) {
+  return key
+    .replace(/[^a-zA-Z0-9]+(.)/g, (_, chr) => chr.toUpperCase())
+    .replace(/^[A-Z]/, (chr) => chr.toLowerCase());
+}
+
+function normalizeKeys(value: unknown): unknown {
+  if (Array.isArray(value)) {
+    return value.map(normalizeKeys);
+  }
+  if (value && typeof value === "object") {
+    const normalized: RawCharacter = {};
+    for (const [key, entry] of Object.entries(value as RawCharacter)) {
+      normalized[toLowerCamelCase(key)] = normalizeKeys(entry);
+    }
+    return normalized;
+  }
+  return value;
+}
+
 function simplifyCharacter(detail: RawCharacter): RawCharacter {
   const simplified: RawCharacter = {
     Id: detail.Id,
     Name: detail.Name,
     CodeName: detail.CodeName,
-    Rarity: detail.Rarity,
+    Rarity: formatRarity(detail.Rarity),
     WeaponType: pickFirstValue(detail.WeaponType as RawCharacter | undefined),
     ElementType: pickFirstValue(detail.ElementType as RawCharacter | undefined),
     SpecialElementType: getString((detail.SpecialElementType as RawCharacter | undefined)?.Name),
@@ -76,7 +103,7 @@ function simplifyCharacter(detail: RawCharacter): RawCharacter {
       simplified[key] = entry;
     }
   }
-  return simplified;
+  return normalizeKeys(simplified) as RawCharacter;
 }
 
 function slugify(name: string) {
@@ -115,20 +142,23 @@ async function main() {
   try {
     const characterIndex = await fetchJson<Record<string, unknown>>(CHARACTER_INDEX_URL);
     await ensureDirectory(OUTPUT_DIR);
+    let fetchedCount = 0;
+    let skippedCount = 0;
     for (const key of Object.keys(characterIndex)) {
       const indexEntry = characterIndex[key] as RawCharacter | undefined;
       const outputName = getIndexFileName(key, indexEntry ?? {});
       const destination = join(OUTPUT_DIR, `${outputName}.json`);
       if (await fileExists(destination)) {
-        console.log(`skip ${key}`);
+        skippedCount += 1;
         continue;
       }
       const detailUrl = `${CHARACTER_DETAIL_URL}/${encodeURIComponent(key)}.json`;
       const detail = await fetchJson<RawCharacter>(detailUrl);
       const simplified = simplifyCharacter(detail);
       await saveSimplified(outputName, simplified);
-      console.log(`saved ${key}`);
+      fetchedCount += 1;
     }
+    console.log(`saved ${fetchedCount} characters, skipped ${skippedCount} already downloaded`);
   } catch (error) {
     console.error("Unable to fetch or save character data:", error);
     process.exitCode = 1;
