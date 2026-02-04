@@ -1,0 +1,2100 @@
+{
+  "Id": 1411,
+  "Name": "浮波柚葉",
+  "CodeName": "Yuzuha",
+  "Rarity": 4,
+  "WeaponType": "支援",
+  "ElementType": "物理",
+  "HitType": "打撃",
+  "Camp": "怪啖屋",
+  "Stats": {
+    "Armor": 0,
+    "ArmorGrowth": 0,
+    "Attack": 109,
+    "AttackGrowth": 64272,
+    "AvatarPieceId": 5411,
+    "BreakStun": 86,
+    "Crit": 500,
+    "CritDamage": 5000,
+    "CritDmgRes": 0,
+    "CritRes": 0,
+    "Defence": 49,
+    "DefenceGrowth": 66882,
+    "ElementAbnormalPower": 88,
+    "ElementMystery": 93,
+    "Endurance": 0,
+    "HpGrowth": 963300,
+    "HpMax": 710,
+    "PenDelta": 0,
+    "PenRate": 0,
+    "Rbl": 1,
+    "RblCorrectionFactor": 10000,
+    "RblProbability": 0,
+    "Shield": 0,
+    "ShieldGrowth": 0,
+    "SpBarPoint": 120,
+    "SpRecover": 120,
+    "Stun": 0,
+    "RpMax": 0,
+    "RpRecover": 0
+  },
+  "Level": {
+    "1": {
+      "HpMax": 0,
+      "Attack": 0,
+      "Defence": 0,
+      "LevelMax": 10,
+      "LevelMin": 0,
+      "Materials": {
+        "10": 24000,
+        "100214": 4
+      }
+    },
+    "2": {
+      "HpMax": 487,
+      "Attack": 39,
+      "Defence": 34,
+      "LevelMax": 20,
+      "LevelMin": 10,
+      "Materials": {
+        "10": 56000,
+        "100224": 12
+      }
+    },
+    "3": {
+      "HpMax": 974,
+      "Attack": 78,
+      "Defence": 68,
+      "LevelMax": 30,
+      "LevelMin": 20,
+      "Materials": {
+        "10": 120000,
+        "100224": 20
+      }
+    },
+    "4": {
+      "HpMax": 1461,
+      "Attack": 117,
+      "Defence": 101,
+      "LevelMax": 40,
+      "LevelMin": 30,
+      "Materials": {
+        "10": 200000,
+        "100234": 10
+      }
+    },
+    "5": {
+      "HpMax": 1949,
+      "Attack": 156,
+      "Defence": 135,
+      "LevelMax": 50,
+      "LevelMin": 40,
+      "Materials": {
+        "10": 400000,
+        "100234": 20
+      }
+    },
+    "6": {
+      "HpMax": 2436,
+      "Attack": 195,
+      "Defence": 169,
+      "LevelMax": 60,
+      "LevelMin": 50,
+      "Materials": {}
+    }
+  },
+  "ExtraLevel": {
+    "1": {
+      "MaxLevel": 15,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "基礎攻撃力",
+          "Format": "{0:0.#}",
+          "Value": 0
+        },
+        "31401": {
+          "Prop": 31401,
+          "Name": "異常掌握",
+          "Format": "{0:0.#}",
+          "Value": 12
+        }
+      }
+    },
+    "2": {
+      "MaxLevel": 25,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "基礎攻撃力",
+          "Format": "{0:0.#}",
+          "Value": 25
+        },
+        "31401": {
+          "Prop": 31401,
+          "Name": "異常掌握",
+          "Format": "{0:0.#}",
+          "Value": 12
+        }
+      }
+    },
+    "3": {
+      "MaxLevel": 35,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "基礎攻撃力",
+          "Format": "{0:0.#}",
+          "Value": 25
+        },
+        "31401": {
+          "Prop": 31401,
+          "Name": "異常掌握",
+          "Format": "{0:0.#}",
+          "Value": 24
+        }
+      }
+    },
+    "4": {
+      "MaxLevel": 45,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "基礎攻撃力",
+          "Format": "{0:0.#}",
+          "Value": 50
+        },
+        "31401": {
+          "Prop": 31401,
+          "Name": "異常掌握",
+          "Format": "{0:0.#}",
+          "Value": 24
+        }
+      }
+    },
+    "5": {
+      "MaxLevel": 55,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "基礎攻撃力",
+          "Format": "{0:0.#}",
+          "Value": 50
+        },
+        "31401": {
+          "Prop": 31401,
+          "Name": "異常掌握",
+          "Format": "{0:0.#}",
+          "Value": 36
+        }
+      }
+    },
+    "6": {
+      "MaxLevel": 60,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "基礎攻撃力",
+          "Format": "{0:0.#}",
+          "Value": 75
+        },
+        "31401": {
+          "Prop": 31401,
+          "Name": "異常掌握",
+          "Format": "{0:0.#}",
+          "Value": 36
+        }
+      }
+    }
+  },
+  "LevelEXP": [
+    50,
+    150,
+    250,
+    400,
+    600,
+    800,
+    1000,
+    1250,
+    1500,
+    1800,
+    1935,
+    2065,
+    2200,
+    2335,
+    2465,
+    2600,
+    2735,
+    2865,
+    3000,
+    4680,
+    4975,
+    5265,
+    5560,
+    5855,
+    6145,
+    6440,
+    6735,
+    7025,
+    7320,
+    10800,
+    11400,
+    12000,
+    12600,
+    13200,
+    13800,
+    14400,
+    15000,
+    15600,
+    16200,
+    17100,
+    18300,
+    19500,
+    20700,
+    21900,
+    23100,
+    24300,
+    25500,
+    26700,
+    27900,
+    34200,
+    36600,
+    39000,
+    41400,
+    43800,
+    46200,
+    48600,
+    51000,
+    53400,
+    55800,
+    0
+  ],
+  "Skill": {
+    "Basic": {
+      "Description": [
+        {
+          "Name": "通常攻撃：狸の爪痕",
+          "Desc": " <IconMap:Icon_Normal> を押して発動：\n前方に最大5段の打撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。",
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：狸の覆い",
+          "Desc": " <IconMap:Icon_Normal> を長押しして発動：\n防御態勢に入る、最大で1.5秒継続。発動中に敵の攻撃を受けた場合、攻撃をパリィし、大量のブレイク値を蓄積させる。\nパリィに成功した時、<color=#FFFFFF>「糖度ポイント」</color>を1Pt獲得する。\nパリィに成功した時、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：キャンディーシュート",
+          "Desc": "柚葉が<color=#FFFFFF>「糖度ポイント」</color>を所持している時、操作している他のメンバーの攻撃が敵に命中すると、柚葉は敵を中心に傘を回転させて攻撃した後、強力な砲弾を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。この攻撃の重撃が敵に命中すると、柚葉は<color=#FFFFFF>「糖度ポイント」</color>を1Pt消費する。\n<color=#FFFFFF>『通常攻撃：キャンディーシュート』</color>は<color=#FFFFFF>『追加攻撃』</color>とみなされる。\n<color=#FFFFFF>『通常攻撃：キャンディーシュート』</color>は8秒に1回のみ発動可能。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：スパークルキャンディー",
+          "Desc": "<color=#FFFFFF>「スイートパニック」</color>状態の敵は1秒ごとに<color=#FFFFFF>『通常攻撃：スパークルキャンディー』</color>を1回受ける。\n<color=#FFFFFF>『通常攻撃：スパークルキャンディー』</color>は初期状態では<color=#F0D12B>物理属性ダメージ</color>を与える。\n<color=#FFFFFF>『通常攻撃：スパークルキャンディー』</color>による状態異常蓄積値は、異常ダメージ計算に含まれない。\n<color=#FFFFFF>『通常攻撃：スパークルキャンディー』</color>の状態異常蓄積効率+<color=#2BAD00>{CAL:0.07+AvatarSkillLevel(0)*0.015,100,4}%</color>。",
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：スパークルキャンディー・極",
+          "Desc": "<color=#FFFFFF>「スイートパニック」</color>状態の敵に<color=#FFFFFF>『通常攻撃：キャンディーシュート』</color>または<color=#FFFFFF>『支援突撃：ミックスキャンディーシュート』</color>の重撃が命中すると、その敵は<color=#FFFFFF>『通常攻撃：スパークルキャンディー・極』</color>を1回受ける。\n<color=#FFFFFF>『通常攻撃：スパークルキャンディー・極』</color>は初期状態では<color=#F0D12B>物理属性ダメージ</color>を与える。\n<color=#FFFFFF>『通常攻撃：スパークルキャンディー・極』</color>による状態異常蓄積値は、異常ダメージの計算に含まれない。\n<color=#FFFFFF>『通常攻撃：スパークルキャンディー・極』</color>の状態異常蓄積効率+<color=#2BAD00>{CAL:0.07+AvatarSkillLevel(0)*0.015,100,4}%</color>。",
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：狸の助け",
+          "Desc": "柚葉が控えにいる時、狸の釜之助は操作中のメンバーの攻撃をサポートし、<color=#F0D12B>物理属性ダメージ</color>を与える。\n柚葉が<color=#FFFFFF>『通常攻撃：狸の覆い』</color>を発動すると、釜之助は柚葉の攻撃をサポートし、<color=#F0D12B>物理属性ダメージ</color>を与える。\n釜之助は柚葉の開幕攻撃力を受け継ぐことができる。",
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：狸の爪痕",
+          "Param": [
+            {
+              "Name": "1段ダメージ倍率",
+              "Desc": "{Skill:1411001, Prop:1001}",
+              "Param": {
+                "1411001": {
+                  "Main": 3770,
+                  "Growth": 350,
+                  "Format": "%",
+                  "DamagePercentage": 3770,
+                  "DamagePercentageGrowth": 350,
+                  "StunRatio": 4400,
+                  "StunRatioGrowth": 200,
+                  "SpRecovery": 14400,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 110000,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 1618,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3998
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "2段ダメージ倍率",
+              "Desc": "{Skill:1411002, Prop:1001}",
+              "Param": {
+                "1411002": {
+                  "Main": 5770,
+                  "Growth": 530,
+                  "Format": "%",
+                  "DamagePercentage": 5770,
+                  "DamagePercentageGrowth": 530,
+                  "StunRatio": 6310,
+                  "StunRatioGrowth": 290,
+                  "SpRecovery": 20640,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 157850,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 2682,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 5734
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "3段ダメージ倍率",
+              "Desc": "{Skill:1411003, Prop:1001}",
+              "Param": {
+                "1411003": {
+                  "Main": 6600,
+                  "Growth": 600,
+                  "Format": "%",
+                  "DamagePercentage": 6600,
+                  "DamagePercentageGrowth": 600,
+                  "StunRatio": 6600,
+                  "StunRatioGrowth": 300,
+                  "SpRecovery": 21570,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 165000,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 3164,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 5992
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "4段ダメージ倍率",
+              "Desc": "{Skill:1411004, Prop:1001}",
+              "Param": {
+                "1411004": {
+                  "Main": 9810,
+                  "Growth": 900,
+                  "Format": "%",
+                  "DamagePercentage": 9810,
+                  "DamagePercentageGrowth": 900,
+                  "StunRatio": 11270,
+                  "StunRatioGrowth": 520,
+                  "SpRecovery": 36860,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 281600,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 6296,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 10239
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "5段ダメージ倍率",
+              "Desc": "{Skill:1411005, Prop:1001}",
+              "Param": {
+                "1411005": {
+                  "Main": 16410,
+                  "Growth": 1500,
+                  "Format": "%",
+                  "DamagePercentage": 16410,
+                  "DamagePercentageGrowth": 1500,
+                  "StunRatio": 16360,
+                  "StunRatioGrowth": 750,
+                  "SpRecovery": 53520,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 408925,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 8839,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 14867
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "1段ブレイク倍率",
+              "Desc": "{Skill:1411001, Prop:1002}",
+              "Param": {
+                "1411001": {
+                  "Main": 4400,
+                  "Growth": 200,
+                  "Format": "%",
+                  "DamagePercentage": 3770,
+                  "DamagePercentageGrowth": 350,
+                  "StunRatio": 4400,
+                  "StunRatioGrowth": 200,
+                  "SpRecovery": 14400,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 110000,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 1618,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3998
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "2段ブレイク倍率",
+              "Desc": "{Skill:1411002, Prop:1002}",
+              "Param": {
+                "1411002": {
+                  "Main": 6310,
+                  "Growth": 290,
+                  "Format": "%",
+                  "DamagePercentage": 5770,
+                  "DamagePercentageGrowth": 530,
+                  "StunRatio": 6310,
+                  "StunRatioGrowth": 290,
+                  "SpRecovery": 20640,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 157850,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 2682,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 5734
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "3段ブレイク倍率",
+              "Desc": "{Skill:1411003, Prop:1002}",
+              "Param": {
+                "1411003": {
+                  "Main": 6600,
+                  "Growth": 300,
+                  "Format": "%",
+                  "DamagePercentage": 6600,
+                  "DamagePercentageGrowth": 600,
+                  "StunRatio": 6600,
+                  "StunRatioGrowth": 300,
+                  "SpRecovery": 21570,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 165000,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 3164,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 5992
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "4段ブレイク倍率",
+              "Desc": "{Skill:1411004, Prop:1002}",
+              "Param": {
+                "1411004": {
+                  "Main": 11270,
+                  "Growth": 520,
+                  "Format": "%",
+                  "DamagePercentage": 9810,
+                  "DamagePercentageGrowth": 900,
+                  "StunRatio": 11270,
+                  "StunRatioGrowth": 520,
+                  "SpRecovery": 36860,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 281600,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 6296,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 10239
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "5段ブレイク倍率",
+              "Desc": "{Skill:1411005, Prop:1002}",
+              "Param": {
+                "1411005": {
+                  "Main": 16360,
+                  "Growth": 750,
+                  "Format": "%",
+                  "DamagePercentage": 16410,
+                  "DamagePercentageGrowth": 1500,
+                  "StunRatio": 16360,
+                  "StunRatioGrowth": 750,
+                  "SpRecovery": 53520,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 408925,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 8839,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 14867
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：狸の覆い",
+          "Param": [
+            {
+              "Name": "パリィ・ブレイク倍率",
+              "Desc": "{Skill:1411019, Prop:1002}",
+              "Param": {
+                "1411019": {
+                  "Main": 16680,
+                  "Growth": 760,
+                  "Format": "%",
+                  "DamagePercentage": 0,
+                  "DamagePercentageGrowth": 0,
+                  "StunRatio": 16680,
+                  "StunRatioGrowth": 760,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 11664
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：キャンディーシュート",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1411018, Prop:1001}",
+              "Param": {
+                "1411018": {
+                  "Main": 13200,
+                  "Growth": 1200,
+                  "Format": "%",
+                  "DamagePercentage": 13200,
+                  "DamagePercentageGrowth": 1200,
+                  "StunRatio": 8800,
+                  "StunRatioGrowth": 400,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1411018, Prop:1002}",
+              "Param": {
+                "1411018": {
+                  "Main": 8800,
+                  "Growth": 400,
+                  "Format": "%",
+                  "DamagePercentage": 13200,
+                  "DamagePercentageGrowth": 1200,
+                  "StunRatio": 8800,
+                  "StunRatioGrowth": 400,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：スパークルキャンディー",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1411020, Prop:1001}",
+              "Param": {
+                "1411020": {
+                  "Main": 2750,
+                  "Growth": 250,
+                  "Format": "%",
+                  "DamagePercentage": 2750,
+                  "DamagePercentageGrowth": 250,
+                  "StunRatio": 0,
+                  "StunRatioGrowth": 0,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 1766,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "状態異常蓄積効率アップ",
+              "Desc": "{CAL:0.07+AvatarSkillLevel(0)*0.015,100,4}%",
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：スパークルキャンディー・極",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1411021, Prop:1001}",
+              "Param": {
+                "1411021": {
+                  "Main": 30800,
+                  "Growth": 2800,
+                  "Format": "%",
+                  "DamagePercentage": 30800,
+                  "DamagePercentageGrowth": 2800,
+                  "StunRatio": 0,
+                  "StunRatioGrowth": 0,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 12000,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "状態異常蓄積効率アップ",
+              "Desc": "{CAL:0.07+AvatarSkillLevel(0)*0.015,100,4}%",
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：狸の助け",
+          "Param": [
+            {
+              "Name": "柚葉への釜之助のサポート攻撃ダメージ倍率",
+              "Desc": "{Skill:1411022, Prop:1001}",
+              "Param": {
+                "1411022": {
+                  "Main": 11000,
+                  "Growth": 1000,
+                  "Format": "%",
+                  "DamagePercentage": 11000,
+                  "DamagePercentageGrowth": 1000,
+                  "StunRatio": 0,
+                  "StunRatioGrowth": 0,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "釜之助のサポート攻撃ダメージ倍率",
+              "Desc": "{Skill:1411023, Prop:1001}",
+              "Param": {
+                "1411023": {
+                  "Main": 11000,
+                  "Growth": 1000,
+                  "Format": "%",
+                  "DamagePercentage": 11000,
+                  "DamagePercentageGrowth": 1000,
+                  "StunRatio": 0,
+                  "StunRatioGrowth": 0,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": {
+          "10": 2000,
+          "100110": 2
+        },
+        "2": {
+          "10": 3000,
+          "100110": 3
+        },
+        "3": {
+          "10": 6000,
+          "100120": 2
+        },
+        "4": {
+          "10": 9000,
+          "100120": 3
+        },
+        "5": {
+          "10": 12000,
+          "100120": 4
+        },
+        "6": {
+          "10": 18000,
+          "100120": 6
+        },
+        "7": {
+          "10": 45000,
+          "100130": 5
+        },
+        "8": {
+          "10": 67500,
+          "100130": 8
+        },
+        "9": {
+          "10": 90000,
+          "100130": 10
+        },
+        "10": {
+          "10": 112500,
+          "100130": 12
+        },
+        "11": {
+          "10": 135000,
+          "100130": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "Dodge": {
+      "Description": [
+        {
+          "Name": "回避：びっくりしたぁ？",
+          "Desc": " <IconMap:Icon_Evade> を押して発動：\nダッシュで高速回避する。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "ダッシュ攻撃：ついてないね～！",
+          "Desc": "回避時に <IconMap:Icon_Normal> を押して発動：\n前方に素早く打撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。",
+          "Potential": []
+        },
+        {
+          "Name": "回避反撃：仕返し、はじめ！",
+          "Desc": "<color=#FFFFFF>『極限回避』</color>後に <IconMap:Icon_Normal> を押して発動：\n前方に素早く打撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "ダッシュ攻撃：ついてないね～！",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1411009, Prop:1001}",
+              "Param": {
+                "1411009": {
+                  "Main": 6980,
+                  "Growth": 640,
+                  "Format": "%",
+                  "DamagePercentage": 6980,
+                  "DamagePercentageGrowth": 640,
+                  "StunRatio": 3490,
+                  "StunRatioGrowth": 160,
+                  "SpRecovery": 11410,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 87175,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 3168,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3169
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1411009, Prop:1002}",
+              "Param": {
+                "1411009": {
+                  "Main": 3490,
+                  "Growth": 160,
+                  "Format": "%",
+                  "DamagePercentage": 6980,
+                  "DamagePercentageGrowth": 640,
+                  "StunRatio": 3490,
+                  "StunRatioGrowth": 160,
+                  "SpRecovery": 11410,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 87175,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 3168,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3169
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "回避反撃：仕返し、はじめ！",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1411010, Prop:1001}",
+              "Param": {
+                "1411010": {
+                  "Main": 27690,
+                  "Growth": 2520,
+                  "Format": "%",
+                  "DamagePercentage": 27690,
+                  "DamagePercentageGrowth": 2520,
+                  "StunRatio": 23840,
+                  "StunRatioGrowth": 1090,
+                  "SpRecovery": 42020,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 320925,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 11669,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 26670
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1411010, Prop:1002}",
+              "Param": {
+                "1411010": {
+                  "Main": 23840,
+                  "Growth": 1090,
+                  "Format": "%",
+                  "DamagePercentage": 27690,
+                  "DamagePercentageGrowth": 2520,
+                  "StunRatio": 23840,
+                  "StunRatioGrowth": 1090,
+                  "SpRecovery": 42020,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 320925,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 11669,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 26670
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": {
+          "10": 2000,
+          "100110": 2
+        },
+        "2": {
+          "10": 3000,
+          "100110": 3
+        },
+        "3": {
+          "10": 6000,
+          "100120": 2
+        },
+        "4": {
+          "10": 9000,
+          "100120": 3
+        },
+        "5": {
+          "10": 12000,
+          "100120": 4
+        },
+        "6": {
+          "10": 18000,
+          "100120": 6
+        },
+        "7": {
+          "10": 45000,
+          "100130": 5
+        },
+        "8": {
+          "10": 67500,
+          "100130": 8
+        },
+        "9": {
+          "10": 90000,
+          "100130": 10
+        },
+        "10": {
+          "10": 112500,
+          "100130": 12
+        },
+        "11": {
+          "10": 135000,
+          "100130": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "Special": {
+      "Description": [
+        {
+          "Name": "特殊スキル：グミ・ブラスト",
+          "Desc": " <IconMap:Icon_Special> を押して発動：\n前方に砲撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。",
+          "Potential": []
+        },
+        {
+          "Name": "強化特殊スキル：虫歯注意報",
+          "Desc": "エネルギーが十分な時、 <IconMap:Icon_SpecialReady> を押して発動：\n敵に爆弾を投げつけ、<color=#F0D12B>物理属性ダメージ</color>を与える。\n重撃が敵に命中すると、ターゲットを<color=#FFFFFF>「スイートパニック」</color>状態にする。\n発動時、<color=#FFFFFF>「糖度ポイント」</color>を2Pt獲得する。\nスキルが敵に命中すると、<color=#FFFFFF>『クイック支援』</color>が発動可能になる。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "強化特殊スキル：虫歯注意報、今がチャンス！",
+          "Desc": "<color=#FFFFFF>『回避反撃：仕返し、はじめ！』</color>、<color=#FFFFFF>『クイック支援：おやつの時間』</color>、<color=#FFFFFF>『支援突撃：クッキーどぞ！』</color>、<color=#FFFFFF>『支援突撃：ミックスキャンディーシュート』</color>攻撃後、または<color=#FFFFFF>『極限回避』</color>発動時に、 <IconMap:Icon_SpecialReady> を押して発動：\n敵に向かって素早く爆弾を投げ、<color=#F0D12B>物理属性ダメージ</color>を与える。\n重撃が敵に命中すると、ターゲットを<color=#FFFFFF>「スイートパニック」</color>状態にする。\n発動時、<color=#FFFFFF>「糖度ポイント」</color>を2Pt獲得する。\nスキルが敵に命中すると、<color=#FFFFFF>『クイック支援』</color>が発動可能になる。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "スイートパニック",
+          "Desc": "<color=#FFFFFF>「スイートパニック」</color>状態の継続時間は<color=#2BAD00>{CAL:16+AvatarSkillLevel(1)*2,1,2}</color>秒、重複して発動すると継続時間が更新される。\n操作中のメンバーが初めて自身と同じ属性の攻撃を<color=#FFFFFF>「スイートパニック」</color>状態の敵に命中させた時、その敵に対して<color=#FFFFFF>「十人十色」</color>を発動させ、その敵に対する<color=#FFFFFF>『通常攻撃：スパークルキャンディー』</color>と<color=#FFFFFF>『通常攻撃：スパークルキャンディー・極』</color>の攻撃属性が今回の「十人十色」を発動させたメンバーの属性に変わる。\n敵の<color=#FFFFFF>「スイートパニック」</color>状態が重複して発動した場合、既存の<color=#FFFFFF>「十人十色」</color>状態は解除され、上記の操作を再度行うことで<color=#FFFFFF>『通常攻撃：スパークルキャンディー』</color>と<color=#FFFFFF>『通常攻撃：スパークルキャンディー・極』</color>の属性を変更できる。",
+          "Potential": []
+        },
+        {
+          "Name": "特殊スキル：グミ・ブラスト",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1411006, Prop:1001}",
+              "Param": {
+                "1411006": {
+                  "Main": 5050,
+                  "Growth": 460,
+                  "Format": "%",
+                  "DamagePercentage": 5050,
+                  "DamagePercentageGrowth": 460,
+                  "StunRatio": 5050,
+                  "StunRatioGrowth": 230,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 126225,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 4583,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4584
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1411006, Prop:1002}",
+              "Param": {
+                "1411006": {
+                  "Main": 5050,
+                  "Growth": 230,
+                  "Format": "%",
+                  "DamagePercentage": 5050,
+                  "DamagePercentageGrowth": 460,
+                  "StunRatio": 5050,
+                  "StunRatioGrowth": 230,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 126225,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 4583,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4584
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "強化特殊スキル：虫歯注意報",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1411007, Prop:1001}",
+              "Param": {
+                "1411007": {
+                  "Main": 42100,
+                  "Growth": 3830,
+                  "Format": "%",
+                  "DamagePercentage": 42100,
+                  "DamagePercentageGrowth": 3830,
+                  "StunRatio": 42100,
+                  "StunRatioGrowth": 1920,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 1888425,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 48208,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 18000
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1411007, Prop:1002}",
+              "Param": {
+                "1411007": {
+                  "Main": 42100,
+                  "Growth": 1920,
+                  "Format": "%",
+                  "DamagePercentage": 42100,
+                  "DamagePercentageGrowth": 3830,
+                  "StunRatio": 42100,
+                  "StunRatioGrowth": 1920,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 1888425,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 48208,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 18000
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "エネルギー消費",
+              "Desc": "60Pt",
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "強化特殊スキル：虫歯注意報、今がチャンス！",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1411008, Prop:1001}",
+              "Param": {
+                "1411008": {
+                  "Main": 24140,
+                  "Growth": 2200,
+                  "Format": "%",
+                  "DamagePercentage": 24140,
+                  "DamagePercentageGrowth": 2200,
+                  "StunRatio": 26700,
+                  "StunRatioGrowth": 1220,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 1407450,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 32462,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 6337
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1411008, Prop:1002}",
+              "Param": {
+                "1411008": {
+                  "Main": 26700,
+                  "Growth": 1220,
+                  "Format": "%",
+                  "DamagePercentage": 24140,
+                  "DamagePercentageGrowth": 2200,
+                  "StunRatio": 26700,
+                  "StunRatioGrowth": 1220,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 1407450,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 32462,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 6337
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "エネルギー消費",
+              "Desc": "60Pt",
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "スイートパニック",
+          "Param": [
+            {
+              "Name": "「スイートパニック」状態の継続時間",
+              "Desc": "{CAL:16+AvatarSkillLevel(1)*2,1,2}秒",
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": {
+          "10": 2000,
+          "100110": 2
+        },
+        "2": {
+          "10": 3000,
+          "100110": 3
+        },
+        "3": {
+          "10": 6000,
+          "100120": 2
+        },
+        "4": {
+          "10": 9000,
+          "100120": 3
+        },
+        "5": {
+          "10": 12000,
+          "100120": 4
+        },
+        "6": {
+          "10": 18000,
+          "100120": 6
+        },
+        "7": {
+          "10": 45000,
+          "100130": 5
+        },
+        "8": {
+          "10": 67500,
+          "100130": 8
+        },
+        "9": {
+          "10": 90000,
+          "100130": 10
+        },
+        "10": {
+          "10": 112500,
+          "100130": 12
+        },
+        "11": {
+          "10": 135000,
+          "100130": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "Chain": {
+      "Description": [
+        {
+          "Name": "連携スキル：いたずら合戦",
+          "Desc": "<color=#FFFFFF>『連携スキル』</color>開始時に、対応するエージェントを選択して発動：\n前方小範囲の敵に強力な打撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を大量に与える。\nスキル発動時、<color=#FFFFFF>「糖度ポイント」</color>を1Pt獲得する。\nスキルが敵に命中すると、<color=#FFFFFF>『クイック支援』</color>が発動可能になる。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "終結スキル：トリック・オア・ギブ",
+          "Desc": "デシベルレートが<color=#FFFFFF>『Maximum』</color>に達した時に <IconMap:Icon_UltimateReady> を押して発動：\n周囲広範囲の敵に強力な打撃を与え、<color=#F0D12B>物理属性ダメージ</color>を大量に与える。\n重撃が敵に命中すると、ターゲットを<color=#FFFFFF>「スイートパニック」</color>状態にする。\nスキル発動時、他のメンバーはエネルギーを<color=#2BAD00>{CAL:7+AvatarSkillLevel(3)*1.5,1,2}</color>Pt回復する。\nスキル発動時、<color=#FFFFFF>「糖度ポイント」</color>を2Pt獲得する。\nスキルが敵に命中すると、<color=#FFFFFF>『クイック支援』</color>が発動可能になる。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "連携スキル：いたずら合戦",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1411011, Prop:1001}",
+              "Param": {
+                "1411011": {
+                  "Main": 59870,
+                  "Growth": 5450,
+                  "Format": "%",
+                  "DamagePercentage": 59870,
+                  "DamagePercentageGrowth": 5450,
+                  "StunRatio": 23290,
+                  "StunRatioGrowth": 1060,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 2410925,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 34469,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 21170
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1411011, Prop:1002}",
+              "Param": {
+                "1411011": {
+                  "Main": 23290,
+                  "Growth": 1060,
+                  "Format": "%",
+                  "DamagePercentage": 59870,
+                  "DamagePercentageGrowth": 5450,
+                  "StunRatio": 23290,
+                  "StunRatioGrowth": 1060,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 2410925,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 34469,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 21170
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "終結スキル：トリック・オア・ギブ",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1411012, Prop:1001}",
+              "Param": {
+                "1411012": {
+                  "Main": 144320,
+                  "Growth": 13120,
+                  "Format": "%",
+                  "DamagePercentage": 144320,
+                  "DamagePercentageGrowth": 13120,
+                  "StunRatio": 28600,
+                  "StunRatioGrowth": 1300,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 25996,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 75997
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1411012, Prop:1002}",
+              "Param": {
+                "1411012": {
+                  "Main": 28600,
+                  "Growth": 1300,
+                  "Format": "%",
+                  "DamagePercentage": 144320,
+                  "DamagePercentageGrowth": 13120,
+                  "StunRatio": 28600,
+                  "StunRatioGrowth": 1300,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 25996,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 75997
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "他のメンバーのエネルギー回復",
+              "Desc": "{CAL:7+AvatarSkillLevel(3)*1.5,1,2}Pt",
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": {
+          "10": 2000,
+          "100110": 2
+        },
+        "2": {
+          "10": 3000,
+          "100110": 3
+        },
+        "3": {
+          "10": 6000,
+          "100120": 2
+        },
+        "4": {
+          "10": 9000,
+          "100120": 3
+        },
+        "5": {
+          "10": 12000,
+          "100120": 4
+        },
+        "6": {
+          "10": 18000,
+          "100120": 6
+        },
+        "7": {
+          "10": 45000,
+          "100130": 5
+        },
+        "8": {
+          "10": 67500,
+          "100130": 8
+        },
+        "9": {
+          "10": 90000,
+          "100130": 10
+        },
+        "10": {
+          "10": 112500,
+          "100130": 12
+        },
+        "11": {
+          "10": 135000,
+          "100130": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "Assist": {
+      "Description": [
+        {
+          "Name": "クイック支援：おやつの時間",
+          "Desc": "操作しているメンバーが吹き飛ばされた時に、 <IconMap:Icon_Switch> を押して発動：\n前方の敵に打撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "パリィ支援：はじける栄養バー",
+          "Desc": "出場中のメンバーが攻撃されそうになった時に、 <IconMap:Icon_Switch> を押して発動：\n敵の攻撃をパリィし、ブレイク値を大量に蓄積させる。\nパリィに成功した時、<color=#FFFFFF>「糖度ポイント」</color>を1Pt獲得する。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "支援突撃：クッキーどぞ！",
+          "Desc": "<color=#FFFFFF>『パリィ支援』</color>を発動、または<color=#FFFFFF>『通常攻撃：狸の覆い』</color>で敵の攻撃をパリィした後、適切なタイミングで <IconMap:Icon_Normal> を押して発動：\n前方の敵に打撃を与え、<color=#F0D12B>物理属性ダメージ</color>を与える。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "支援突撃：ミックスキャンディーシュート",
+          "Desc": "<color=#FFFFFF>『パリィ支援』</color>を発動、または<color=#FFFFFF>『通常攻撃：狸の覆い』</color>で敵の攻撃をパリィした後、適切なタイミングで <IconMap:Icon_Normal> を押して発動：\n傘を回転させて攻撃した後、強力な砲弾を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "クイック支援：おやつの時間",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1411013, Prop:1001}",
+              "Param": {
+                "1411013": {
+                  "Main": 12290,
+                  "Growth": 1120,
+                  "Format": "%",
+                  "DamagePercentage": 12290,
+                  "DamagePercentageGrowth": 1120,
+                  "StunRatio": 6150,
+                  "StunRatioGrowth": 280,
+                  "SpRecovery": 20110,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 153725,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 5584,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 5585
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1411013, Prop:1002}",
+              "Param": {
+                "1411013": {
+                  "Main": 6150,
+                  "Growth": 280,
+                  "Format": "%",
+                  "DamagePercentage": 12290,
+                  "DamagePercentageGrowth": 1120,
+                  "StunRatio": 6150,
+                  "StunRatioGrowth": 280,
+                  "SpRecovery": 20110,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 153725,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 5584,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 5585
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "パリィ支援：はじける栄養バー",
+          "Param": [
+            {
+              "Name": "パリィ・軽 ブレイク倍率",
+              "Desc": "{Skill:1411014, Prop:1002}",
+              "Param": {
+                "1411014": {
+                  "Main": 29520,
+                  "Growth": 1350,
+                  "Format": "%",
+                  "DamagePercentage": 0,
+                  "DamagePercentageGrowth": 0,
+                  "StunRatio": 29520,
+                  "StunRatioGrowth": 1350,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 38334
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "パリィ・重 ブレイク倍率",
+              "Desc": "{Skill:1411015, Prop:1002}",
+              "Param": {
+                "1411015": {
+                  "Main": 34280,
+                  "Growth": 1560,
+                  "Format": "%",
+                  "DamagePercentage": 0,
+                  "DamagePercentageGrowth": 0,
+                  "StunRatio": 34280,
+                  "StunRatioGrowth": 1560,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 41664
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "パリィ・連続 ブレイク倍率",
+              "Desc": "{Skill:1411016, Prop:1002}",
+              "Param": {
+                "1411016": {
+                  "Main": 16680,
+                  "Growth": 760,
+                  "Format": "%",
+                  "DamagePercentage": 0,
+                  "DamagePercentageGrowth": 0,
+                  "StunRatio": 16680,
+                  "StunRatioGrowth": 760,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 11664
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "支援突撃：クッキーどぞ！",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1411017, Prop:1001}",
+              "Param": {
+                "1411017": {
+                  "Main": 29430,
+                  "Growth": 2680,
+                  "Format": "%",
+                  "DamagePercentage": 29430,
+                  "DamagePercentageGrowth": 2680,
+                  "StunRatio": 25140,
+                  "StunRatioGrowth": 1150,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 842875,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 24801,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 11170
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1411017, Prop:1002}",
+              "Param": {
+                "1411017": {
+                  "Main": 25140,
+                  "Growth": 1150,
+                  "Format": "%",
+                  "DamagePercentage": 29430,
+                  "DamagePercentageGrowth": 2680,
+                  "StunRatio": 25140,
+                  "StunRatioGrowth": 1150,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 842875,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 24801,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 11170
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "支援突撃：ミックスキャンディーシュート",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1411024, Prop:1001}",
+              "Param": {
+                "1411024": {
+                  "Main": 46360,
+                  "Growth": 4220,
+                  "Format": "%",
+                  "DamagePercentage": 46360,
+                  "DamagePercentageGrowth": 4220,
+                  "StunRatio": 40870,
+                  "StunRatioGrowth": 1860,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 1296350,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 39642,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 22164
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1411024, Prop:1002}",
+              "Param": {
+                "1411024": {
+                  "Main": 40870,
+                  "Growth": 1860,
+                  "Format": "%",
+                  "DamagePercentage": 46360,
+                  "DamagePercentageGrowth": 4220,
+                  "StunRatio": 40870,
+                  "StunRatioGrowth": 1860,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 1296350,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 39642,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 22164
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": {
+          "10": 2000,
+          "100110": 2
+        },
+        "2": {
+          "10": 3000,
+          "100110": 3
+        },
+        "3": {
+          "10": 6000,
+          "100120": 2
+        },
+        "4": {
+          "10": 9000,
+          "100120": 3
+        },
+        "5": {
+          "10": 12000,
+          "100120": 4
+        },
+        "6": {
+          "10": 18000,
+          "100120": 6
+        },
+        "7": {
+          "10": 45000,
+          "100130": 5
+        },
+        "8": {
+          "10": 67500,
+          "100130": 8
+        },
+        "9": {
+          "10": 90000,
+          "100130": 10
+        },
+        "10": {
+          "10": 112500,
+          "100130": 12
+        },
+        "11": {
+          "10": 135000,
+          "100130": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    }
+  },
+  "SkillList": {
+    "1411001": {
+      "Name": "通常攻撃：狸の爪痕（1、2、3、4、5段）",
+      "Desc": "<IconMap:Icon_Normal>;<IconMap:Icon_Normal>;<IconMap:Icon_Normal>;<IconMap:Icon_Normal>;<IconMap:Icon_Normal>",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1411002": {
+      "Name": "通常攻撃：狸の覆い",
+      "Desc": "<IconMap:Icon_Normal>（長押し）",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1411003": {
+      "Name": "特殊スキル：グミ・ブラスト",
+      "Desc": "<IconMap:Icon_Special>",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1411004": {
+      "Name": "強化特殊スキル：虫歯注意報",
+      "Desc": "<IconMap:Icon_SpecialReady>",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1411005": {
+      "Name": "強化特殊スキル：虫歯注意報、今がチャンス！",
+      "Desc": "<IconMap:Icon_SpecialReady>（『支援突撃：ミックスキャンディーシュート』、『支援突撃：クッキーどぞ！』、『クイック支援：おやつの時間』、『回避反撃：仕返し、はじめ！』発動後、または極限回避発動後）",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1411006": {
+      "Name": "回避：びっくりしたぁ？",
+      "Desc": "<IconMap:Icon_Evade>",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1411007": {
+      "Name": "回避反撃：仕返し、はじめ！",
+      "Desc": "<IconMap:Icon_Evade>（極限回避成功） ; <IconMap:Icon_Normal>",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1411008": {
+      "Name": "連携スキル：いたずら合戦",
+      "Desc": "<IconMap:Icon_QTE>",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1411009": {
+      "Name": "終結スキル：トリック・オア・ギブ",
+      "Desc": "<IconMap:Icon_UltimateReady>",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1411010": {
+      "Name": "クイック支援：おやつの時間",
+      "Desc": "<IconMap:Icon_Switch>（クイック支援の発動条件を満たした時）",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1411011": {
+      "Name": "パリィ支援：はじける栄養バー",
+      "Desc": "<IconMap:Icon_Switch>（パリィ支援の発動条件を満たした時）",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1411012": {
+      "Name": "支援突撃：クッキーどぞ！",
+      "Desc": "<IconMap:Icon_Normal>（パリィ支援を発動後、または『通常攻撃：狸の覆い』で敵の攻撃をパリィした後）",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1411013": {
+      "Name": "支援突撃：ミックスキャンディーシュート",
+      "Desc": "<IconMap:Icon_Normal>（パリィ支援を発動後、または『通常攻撃：狸の覆い』で敵の攻撃をパリィした後に適切なタイミングで）",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    }
+  },
+  "Passive": {
+    "Level": {
+      "1411049": {
+        "Level": 1,
+        "Id": 1411049,
+        "Name": [
+          "コアパッシブ：ビビッド・カラフル",
+          "追加能力：みんなで大騒ぎ！"
+        ],
+        "Desc": [
+          "フィールド入場時、柚葉は即座に<color=#FFFFFF>「糖度ポイント」</color>を3Pt獲得する。\n<color=#FFFFFF>「糖度ポイント」</color>は最大で6Ptまで所持できる。\n柚葉の<color=#FFFFFF>『強化特殊スキル：虫歯注意報』</color>、<color=#FFFFFF>『強化特殊スキル：虫歯注意報、今がチャンス！』</color>と<color=#FFFFFF>『終結スキル：トリック・オア・ギブ』</color>が敵に命中した時、メンバー全員に<color=#FFFFFF>「狸の願い」</color>効果を付与する。\n<color=#FFFFFF>「狸の願い」</color>：所持者の攻撃力が柚葉の開幕攻撃力40%分アップする、最大+<color=#2BAD00>600</color>Pt。さらに所持者の与ダメージ+15%。継続時間40秒、重複して発動すると継続時間が更新される。\n柚葉の開幕攻撃力が1500Ptに達すると、メンバー全員に与える攻撃力アップ効果も最大値に達する。",
+          "チームに<color=#FFFFFF>[異常]</color>のメンバーまたは自身と同じ陣営のメンバーがいる時に発動：\n柚葉の異常掌握が100Ptを超えている場合、1Pt超えるごとに<color=#FFFFFF>「狸の願い」</color>を所持しているメンバーの状態異常蓄積効率+<color=#2BAD00>0.2%</color>、最大+<color=#2BAD00>20%</color>。さらにそのメンバーの全属性の状態異常ダメージと<color=#FFFFFF>「混沌」</color>ダメージ+<color=#2BAD00>0.2%</color>、最大+<color=#2BAD00>20%</color>。柚葉の異常掌握が200Ptに達すると、上記の効果も最大値に達する。"
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1411050": {
+        "Level": 2,
+        "Id": 1411050,
+        "Name": [
+          "コアパッシブ：ビビッド・カラフル",
+          "追加能力：みんなで大騒ぎ！"
+        ],
+        "Desc": [
+          "フィールド入場時、柚葉は即座に<color=#FFFFFF>「糖度ポイント」</color>を3Pt獲得する。\n<color=#FFFFFF>「糖度ポイント」</color>は最大で6Ptまで所持できる。\n柚葉の<color=#FFFFFF>『強化特殊スキル：虫歯注意報』</color>、<color=#FFFFFF>『強化特殊スキル：虫歯注意報、今がチャンス！』</color>と<color=#FFFFFF>『終結スキル：トリック・オア・ギブ』</color>が敵に命中した時、メンバー全員に<color=#FFFFFF>「狸の願い」</color>効果を付与する。\n<color=#FFFFFF>「狸の願い」</color>：所持者の攻撃力が柚葉の開幕攻撃力40%分アップする、最大+<color=#2BAD00>700</color>Pt。さらに所持者の与ダメージ+15%。継続時間40秒、重複して発動すると継続時間が更新される。\n柚葉の開幕攻撃力が1750Ptに達すると、メンバー全員に与える攻撃力アップ効果も最大値に達する。",
+          "チームに<color=#FFFFFF>[異常]</color>のメンバーまたは自身と同じ陣営のメンバーがいる時に発動：\n柚葉の異常掌握が100Ptを超えている場合、1Pt超えるごとに<color=#FFFFFF>「狸の願い」</color>を所持しているメンバーの状態異常蓄積効率+<color=#2BAD00>0.2%</color>、最大+<color=#2BAD00>20%</color>。さらにそのメンバーの全属性の状態異常ダメージと<color=#FFFFFF>「混沌」</color>ダメージ+<color=#2BAD00>0.2%</color>、最大+<color=#2BAD00>20%</color>。柚葉の異常掌握が200Ptに達すると、上記の効果も最大値に達する。"
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1411051": {
+        "Level": 3,
+        "Id": 1411051,
+        "Name": [
+          "コアパッシブ：ビビッド・カラフル",
+          "追加能力：みんなで大騒ぎ！"
+        ],
+        "Desc": [
+          "フィールド入場時、柚葉は即座に<color=#FFFFFF>「糖度ポイント」</color>を3Pt獲得する。\n<color=#FFFFFF>「糖度ポイント」</color>は最大で6Ptまで所持できる。\n柚葉の<color=#FFFFFF>『強化特殊スキル：虫歯注意報』</color>、<color=#FFFFFF>『強化特殊スキル：虫歯注意報、今がチャンス！』</color>と<color=#FFFFFF>『終結スキル：トリック・オア・ギブ』</color>が敵に命中した時、メンバー全員に<color=#FFFFFF>「狸の願い」</color>効果を付与する。\n<color=#FFFFFF>「狸の願い」</color>：所持者の攻撃力が柚葉の開幕攻撃力40%分アップする、最大+<color=#2BAD00>800</color>Pt。さらに所持者の与ダメージ+15%。継続時間40秒、重複して発動すると継続時間が更新される。\n柚葉の開幕攻撃力が2000Ptに達すると、メンバー全員に与える攻撃力アップ効果も最大値に達する。",
+          "チームに<color=#FFFFFF>[異常]</color>のメンバーまたは自身と同じ陣営のメンバーがいる時に発動：\n柚葉の異常掌握が100Ptを超えている場合、1Pt超えるごとに<color=#FFFFFF>「狸の願い」</color>を所持しているメンバーの状態異常蓄積効率+<color=#2BAD00>0.2%</color>、最大+<color=#2BAD00>20%</color>。さらにそのメンバーの全属性の状態異常ダメージと<color=#FFFFFF>「混沌」</color>ダメージ+<color=#2BAD00>0.2%</color>、最大+<color=#2BAD00>20%</color>。柚葉の異常掌握が200Ptに達すると、上記の効果も最大値に達する。"
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1411052": {
+        "Level": 4,
+        "Id": 1411052,
+        "Name": [
+          "コアパッシブ：ビビッド・カラフル",
+          "追加能力：みんなで大騒ぎ！"
+        ],
+        "Desc": [
+          "フィールド入場時、柚葉は即座に<color=#FFFFFF>「糖度ポイント」</color>を3Pt獲得する。\n<color=#FFFFFF>「糖度ポイント」</color>は最大で6Ptまで所持できる。\n柚葉の<color=#FFFFFF>『強化特殊スキル：虫歯注意報』</color>、<color=#FFFFFF>『強化特殊スキル：虫歯注意報、今がチャンス！』</color>と<color=#FFFFFF>『終結スキル：トリック・オア・ギブ』</color>が敵に命中した時、メンバー全員に<color=#FFFFFF>「狸の願い」</color>効果を付与する。\n<color=#FFFFFF>「狸の願い」</color>：所持者の攻撃力が柚葉の開幕攻撃力40%分アップする、最大+<color=#2BAD00>900</color>Pt。さらに所持者の与ダメージ+15%。継続時間40秒、重複して発動すると継続時間が更新される。\n柚葉の開幕攻撃力が2250Ptに達すると、メンバー全員に与える攻撃力アップ効果も最大値に達する。",
+          "チームに<color=#FFFFFF>[異常]</color>のメンバーまたは自身と同じ陣営のメンバーがいる時に発動：\n柚葉の異常掌握が100Ptを超えている場合、1Pt超えるごとに<color=#FFFFFF>「狸の願い」</color>を所持しているメンバーの状態異常蓄積効率+<color=#2BAD00>0.2%</color>、最大+<color=#2BAD00>20%</color>。さらにそのメンバーの全属性の状態異常ダメージと<color=#FFFFFF>「混沌」</color>ダメージ+<color=#2BAD00>0.2%</color>、最大+<color=#2BAD00>20%</color>。柚葉の異常掌握が200Ptに達すると、上記の効果も最大値に達する。"
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1411053": {
+        "Level": 5,
+        "Id": 1411053,
+        "Name": [
+          "コアパッシブ：ビビッド・カラフル",
+          "追加能力：みんなで大騒ぎ！"
+        ],
+        "Desc": [
+          "フィールド入場時、柚葉は即座に<color=#FFFFFF>「糖度ポイント」</color>を3Pt獲得する。\n<color=#FFFFFF>「糖度ポイント」</color>は最大で6Ptまで所持できる。\n柚葉の<color=#FFFFFF>『強化特殊スキル：虫歯注意報』</color>、<color=#FFFFFF>『強化特殊スキル：虫歯注意報、今がチャンス！』</color>と<color=#FFFFFF>『終結スキル：トリック・オア・ギブ』</color>が敵に命中した時、メンバー全員に<color=#FFFFFF>「狸の願い」</color>効果を付与する。\n<color=#FFFFFF>「狸の願い」</color>：所持者の攻撃力が柚葉の開幕攻撃力40%分アップする、最大+<color=#2BAD00>1000</color>Pt。さらに所持者の与ダメージ+15%。継続時間40秒、重複して発動すると継続時間が更新される。\n柚葉の開幕攻撃力が2500Ptに達すると、メンバー全員に与える攻撃力アップ効果も最大値に達する。",
+          "チームに<color=#FFFFFF>[異常]</color>のメンバーまたは自身と同じ陣営のメンバーがいる時に発動：\n柚葉の異常掌握が100Ptを超えている場合、1Pt超えるごとに<color=#FFFFFF>「狸の願い」</color>を所持しているメンバーの状態異常蓄積効率+<color=#2BAD00>0.2%</color>、最大+<color=#2BAD00>20%</color>。さらにそのメンバーの全属性の状態異常ダメージと<color=#FFFFFF>「混沌」</color>ダメージ+<color=#2BAD00>0.2%</color>、最大+<color=#2BAD00>20%</color>。柚葉の異常掌握が200Ptに達すると、上記の効果も最大値に達する。"
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1411054": {
+        "Level": 6,
+        "Id": 1411054,
+        "Name": [
+          "コアパッシブ：ビビッド・カラフル",
+          "追加能力：みんなで大騒ぎ！"
+        ],
+        "Desc": [
+          "フィールド入場時、柚葉は即座に<color=#FFFFFF>「糖度ポイント」</color>を3Pt獲得する。\n<color=#FFFFFF>「糖度ポイント」</color>は最大で6Ptまで所持できる。\n柚葉の<color=#FFFFFF>『強化特殊スキル：虫歯注意報』</color>、<color=#FFFFFF>『強化特殊スキル：虫歯注意報、今がチャンス！』</color>と<color=#FFFFFF>『終結スキル：トリック・オア・ギブ』</color>が敵に命中した時、メンバー全員に<color=#FFFFFF>「狸の願い」</color>効果を付与する。\n<color=#FFFFFF>「狸の願い」</color>：所持者の攻撃力が柚葉の開幕攻撃力40%分アップする、最大+<color=#2BAD00>1100</color>Pt。さらに所持者の与ダメージ+15%。継続時間40秒、重複して発動すると継続時間が更新される。\n柚葉の開幕攻撃力が2750Ptに達すると、メンバー全員に与える攻撃力アップ効果も最大値に達する。",
+          "チームに<color=#FFFFFF>[異常]</color>のメンバーまたは自身と同じ陣営のメンバーがいる時に発動：\n柚葉の異常掌握が100Ptを超えている場合、1Pt超えるごとに<color=#FFFFFF>「狸の願い」</color>を所持しているメンバーの状態異常蓄積効率+<color=#2BAD00>0.2%</color>、最大+<color=#2BAD00>20%</color>。さらにそのメンバーの全属性の状態異常ダメージと<color=#FFFFFF>「混沌」</color>ダメージ+<color=#2BAD00>0.2%</color>、最大+<color=#2BAD00>20%</color>。柚葉の異常掌握が200Ptに達すると、上記の効果も最大値に達する。"
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1411055": {
+        "Level": 7,
+        "Id": 1411055,
+        "Name": [
+          "コアパッシブ：ビビッド・カラフル",
+          "追加能力：みんなで大騒ぎ！"
+        ],
+        "Desc": [
+          "フィールド入場時、柚葉は即座に<color=#FFFFFF>「糖度ポイント」</color>を3Pt獲得する。\n<color=#FFFFFF>「糖度ポイント」</color>は最大で6Ptまで所持できる。\n柚葉の<color=#FFFFFF>『強化特殊スキル：虫歯注意報』</color>、<color=#FFFFFF>『強化特殊スキル：虫歯注意報、今がチャンス！』</color>と<color=#FFFFFF>『終結スキル：トリック・オア・ギブ』</color>が敵に命中した時、メンバー全員に<color=#FFFFFF>「狸の願い」</color>効果を付与する。\n<color=#FFFFFF>「狸の願い」</color>：所持者の攻撃力が柚葉の開幕攻撃力40%分アップする、最大+<color=#2BAD00>1200</color>Pt。さらに所持者の与ダメージ+15%。継続時間40秒、重複して発動すると継続時間が更新される。\n柚葉の開幕攻撃力が3000Ptに達すると、メンバー全員に与える攻撃力アップ効果も最大値に達する。",
+          "チームに<color=#FFFFFF>[異常]</color>のメンバーまたは自身と同じ陣営のメンバーがいる時に発動：\n柚葉の異常掌握が100Ptを超えている場合、1Pt超えるごとに<color=#FFFFFF>「狸の願い」</color>を所持しているメンバーの状態異常蓄積効率+<color=#2BAD00>0.2%</color>、最大+<color=#2BAD00>20%</color>。さらにそのメンバーの全属性の状態異常ダメージと<color=#FFFFFF>「混沌」</color>ダメージ+<color=#2BAD00>0.2%</color>、最大+<color=#2BAD00>20%</color>。柚葉の異常掌握が200Ptに達すると、上記の効果も最大値に達する。"
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      }
+    },
+    "Materials": {
+      "1": {
+        "10": 5000
+      },
+      "2": {
+        "10": 12000,
+        "110511": 2
+      },
+      "3": {
+        "10": 28000,
+        "110511": 4
+      },
+      "4": {
+        "10": 60000,
+        "110005": 2,
+        "110511": 9
+      },
+      "5": {
+        "10": 100000,
+        "110005": 3,
+        "110511": 15
+      },
+      "6": {
+        "10": 200000,
+        "110005": 4,
+        "110511": 30
+      }
+    }
+  },
+  "Talent": {
+    "1": {
+      "Level": 1,
+      "Name": "ラッキー体質",
+      "Desc": "フィールド入場時、柚葉はエネルギーを30Pt回復する。探査モードにおいて、この効果は180秒に1回のみ発動可能。<color=#FFFFFF>「スイートパニック」</color>状態の敵の全属性ダメージ耐性-10%。<color=#FFFFFF>『追加能力』</color>による状態異常ダメージと<color=#FFFFFF>「混沌」</color>ダメージのアップ効果が本来の130%になる。",
+      "Desc2": "「あ～あ、やっちゃったなぁ」\n「柚葉もテストだめだった？…って、92点じゃん！？\nなによ、イヤミなため息なんかついちゃって！」\n「違うって、ラッキーにもバランスが大事なんだから。\nこの科目はあんま高得点とるつもりなかったんだよね…\nこれ勘だけど、午後のテストはもう選択問題ないかも？」"
+    },
+    "2": {
+      "Level": 2,
+      "Name": "柚葉と愉快な仲間たち",
+      "Desc": "柚葉の<color=#FFFFFF>『強化特殊スキル：虫歯注意報』</color>、<color=#FFFFFF>『強化特殊スキル：虫歯注意報、今がチャンス！』</color>と<color=#FFFFFF>『終結スキル：トリック・オア・ギブ』</color>が敵に命中すると、メンバー全員の与ダメージ+15%、状態異常蓄積効率+15%、継続時間40秒、重複して発動すると継続時間が更新される。重撃がブレイク状態でない敵に命中すると、強制的に<color=#FFFFFF>『連携スキル』</color>が発動する。この方法で発動した<color=#FFFFFF>『連携スキル』</color>は中断レベルが下がる。強制発動効果は20秒に1回のみ発動可能。他のメンバーが<color=#FFFFFF>『連携スキル』</color>で入場した時、柚葉は<color=#FFFFFF>「糖度ポイント」</color>を1Pt獲得する。柚葉の<color=#FFFFFF>『通常攻撃：キャンディーシュート』</color>のクールタイムが25%短縮される。",
+      "Desc2": "「{M#釜之助}{F#かまちー}はずっとそこにいたのに、\nどうやって一瞬で何度も入れ替わった{M#んだい}{F#の}？」\n「ふふん、それはね…かまちーにもたくさんお友達がいるんだよ！\nほらほら、みんな出ておいで～？左から順に紹介するね。\n竹之助でしょ、伊之助、それに百之助…」\n「ちょ、ちょっと待っ{M#た}{F#て}。早すぎて覚えら{M#れ}{F#ん}ない{F#よ}…」\n「じゃあもう一回だね。いい？左から信之助でしょ、喜之助、それに春之助…」\n「{M#さっきと全然違うじゃないか…}{F#さっきと全然違うじゃん！}」"
+    },
+    "3": {
+      "Level": 3,
+      "Name": "とあるお城のおとぎ話",
+      "Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+      "Desc2": "「…お姫様は毎日がとても忙しい。\n朝早くから、物静かな侍女たちに手伝われて\n豪華なドレスに着替え、重たい魔法の冠を被る。\n色んなアクセを身につけて、そのまま玉座に座るの。そこでお姫様は\n不思議な力を使って、何の変哲もない石ころを、宝石に変えるんだよ」\n「柚葉おねえちゃん、お姫様ってまいにち石を宝石に変えなきゃいけないの？\nお店番しながら宿題やるより、ずっとつまんないね」\n「うーん…でもそうしないと、王国が貧乏になって滅んじゃうかもでしょ？」\n「お姫様がひとりで頑張らないとだめな王国なんて、\n滅んじゃったほうがいいよ！」\nそれを聞いた彼女は思わず声をあげて笑った。\nそうだね。そんな王国、滅んじゃえばいいよね。"
+    },
+    "4": {
+      "Level": 4,
+      "Name": "奇跡が落ちてきた",
+      "Desc": "柚葉の<color=#FFFFFF>『支援突撃：ミックスキャンディーシュート』</color>と<color=#FFFFFF>『支援突撃：クッキーどぞ！』</color>の与ダメージ+30%、状態異常蓄積効率+20%。このスキルが敵に命中すると、<color=#FFFFFF>『クイック支援』</color>が発動可能になる。",
+      "Desc2": "ダクトの狭い隙間から見えたあの子は、\nまるで童話の世界から抜け出してきたみたいに輝いてた。\nそう、あの子こそが本物のお姫様で、私はただの囚人。\nひどいよ神様。あの子はあんなにたくさん持ってるのに…\n少しくらい、私に分けてくれてもいいじゃん。\nそう思った瞬間だった…あのヘアピンが、音もなく落ちてきたのは。"
+    },
+    "5": {
+      "Level": 5,
+      "Name": "冬の名残り、夢の足跡",
+      "Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+      "Desc2": "TOPSの幹部と調査監督チームが到着したその場に、\nちょうど学校帰りの柚葉と真斗もいた。\nVIPを迎える車のために場所を空けなければならず、\n柚葉たちの乗った飛行船が空中での旋回を強いられたあとだった。\nヘトヘトになりながら歩道橋を渡ると、大勢の報道陣たちが\nVIPを取り囲んで下を通り過ぎる。人だかりの中でも、\nひと目であの子だとわかった。\nその夜、柚葉は夢を見た。記者たちに囲まれて\n歩道橋の下を行くのは、あの子ではなく自分…そして道の果てには、\n柚葉のために用意された「玉座」が……\nもうずいぶん長いこと、こんな夢は見ていなかった。\n起き上がって水分を取りながら、昼間に誰かが言っていたことを思い出す。\n「なにが専門家を集めた調査チームだ！人数合わせか知らんが、\nお金持ちのお嬢様なんか入れやがって！」…\n\n「ねぇかまちー、いる？」\n窓を開けて小声で呼びかけると、\n小さなモフモフが窓の外から顔を覗かせた。\n「ちょっと思いついちゃった。\n明日の夜、面白いことしよっか？」"
+    },
+    "6": {
+      "Level": 6,
+      "Name": "ここに深く根を下ろす",
+      "Desc": "<color=#FFFFFF>『パリィ支援』</color>または<color=#FFFFFF>『通常攻撃：狸の覆い』</color>で敵の攻撃をパリィした時に追加で<color=#FFFFFF>「糖度ポイント」</color>を1Pt獲得する。<color=#FFFFFF>『支援突撃：ミックスキャンディーシュート』</color>発動時に<IconMap:Icon_Normal>を長押しすることでチャージすることができ、最大0.8秒までチャージ可能。<IconMap:Icon_Normal>を離すか、または最大チャージ時間に達すると、柚葉は追加で強力な砲弾を放つ。0.4秒チャージするごとに、柚葉は<color=#FFFFFF>「糖度ポイント」</color>を1Pt消費して追加で1枚の強力な砲弾を放つ。追加の強力な砲弾は柚葉の攻撃力300%分の<color=#F0D12B>物理属性ダメージ</color>を与える。<color=#FFFFFF>『支援突撃：ミックスキャンディーシュート』</color>の任意の強力な砲弾が敵に命中すると、メンバー全員の<color=#FFFFFF>「混沌」</color>ダメージ倍率+105%、継続時間40秒。この効果は最大3重まで重ね掛け可能で、各重の継続時間は別々でカウントされる。追加の強力な砲弾が<color=#FFFFFF>「スイートパニック」</color>状態の敵に命中すると<color=#FFFFFF>『通常攻撃：スパークルキャンディー・極』</color>が1回発動する。チャージ中に敵の攻撃を受けた場合、柚葉は自動で攻撃を回避し、即座に最大チャージ時間に達した攻撃を放つ。",
+      "Desc2": "公聴会が終わったその夜、パパは\n楓が奨学金を貰えるからお祝いだ、と早めに店を閉め、\n家族はみんなで飲茶仙に向かった。\nしばらくするとファヌス区にいるお兄ちゃんからお祝いの電話が来て、\n菫と文は今日のできごとを楽しそうに語る。\n学校にいる三毛猫ママの子猫がいなくなり、みんなで必死に探してたら\n昼になって何事もなかったかのように帰ってきたと――\nお兄ちゃんが電話越しについた溜息が聞こえる。\n「文、おまえ成績の話になるとすぐ話をそらすよな。\n父さんと柚葉は甘やかしてるけど、俺は違うぞ！」\nみんながどっと笑うなか、パパだけがそっと呟いた。\n「戻ってきてくれて、本当によかった…」"
+    }
+  },
+  "FairyRecommend": {
+    "Slot4": 31600,
+    "Slot2": 33000,
+    "SlotSub": 31300,
+    "Part4": {
+      "Prop": 31402,
+      "Name": "異常掌握",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconElementAbnormalPower.png"
+    },
+    "Part5": {
+      "Prop": 12102,
+      "Name": "攻撃力",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
+    },
+    "Part6": {
+      "Prop": 30502,
+      "Name": "エネルギー自動回復",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconSpRecover.png"
+    },
+    "PartSub": {
+      "Prop": 20103,
+      "Name": "会心率",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
+    }
+  },
+  "Potential": [],
+  "PotentialDetail": {},
+  "Live2D": "UISpine_Youye"
+}

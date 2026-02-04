@@ -1,0 +1,2333 @@
+{
+  "Id": 1371,
+  "Name": "儀玄",
+  "CodeName": "YiXuan",
+  "Rarity": 4,
+  "WeaponType": "命破",
+  "ElementType": "エーテル",
+  "SpecialElementType": "玄墨",
+  "HitType": "打撃",
+  "Camp": "雲嶽山",
+  "Stats": {
+    "Armor": 0,
+    "ArmorGrowth": 0,
+    "Attack": 126,
+    "AttackGrowth": 88572,
+    "AvatarPieceId": 5371,
+    "BreakStun": 93,
+    "Crit": 500,
+    "CritDamage": 5000,
+    "CritDmgRes": 0,
+    "CritRes": 0,
+    "Defence": 35,
+    "DefenceGrowth": 48155,
+    "ElementAbnormalPower": 92,
+    "ElementMystery": 90,
+    "Endurance": 0,
+    "HpGrowth": 842519,
+    "HpMax": 673,
+    "PenDelta": 0,
+    "PenRate": 0,
+    "Rbl": 1,
+    "RblCorrectionFactor": 10000,
+    "RblProbability": 0,
+    "Shield": 0,
+    "ShieldGrowth": 0,
+    "SpBarPoint": 0,
+    "SpRecover": 0,
+    "Stun": 0,
+    "RpMax": 120,
+    "RpRecover": 200
+  },
+  "Level": {
+    "1": {
+      "HpMax": 0,
+      "Attack": 0,
+      "Defence": 0,
+      "LevelMax": 10,
+      "LevelMin": 0,
+      "Materials": {
+        "10": 24000,
+        "100216": 4
+      }
+    },
+    "2": {
+      "HpMax": 462,
+      "Attack": 45,
+      "Defence": 24,
+      "LevelMax": 20,
+      "LevelMin": 10,
+      "Materials": {
+        "10": 56000,
+        "100226": 12
+      }
+    },
+    "3": {
+      "HpMax": 924,
+      "Attack": 90,
+      "Defence": 49,
+      "LevelMax": 30,
+      "LevelMin": 20,
+      "Materials": {
+        "10": 120000,
+        "100226": 20
+      }
+    },
+    "4": {
+      "HpMax": 1386,
+      "Attack": 134,
+      "Defence": 73,
+      "LevelMax": 40,
+      "LevelMin": 30,
+      "Materials": {
+        "10": 200000,
+        "100236": 10
+      }
+    },
+    "5": {
+      "HpMax": 1848,
+      "Attack": 179,
+      "Defence": 97,
+      "LevelMax": 50,
+      "LevelMin": 40,
+      "Materials": {
+        "10": 400000,
+        "100236": 20
+      }
+    },
+    "6": {
+      "HpMax": 2310,
+      "Attack": 224,
+      "Defence": 122,
+      "LevelMax": 60,
+      "LevelMin": 50,
+      "Materials": {}
+    }
+  },
+  "ExtraLevel": {
+    "1": {
+      "MaxLevel": 15,
+      "Extra": {
+        "11101": {
+          "Prop": 11101,
+          "Name": "HP",
+          "Format": "{0:0}",
+          "Value": 0
+        },
+        "20101": {
+          "Prop": 20101,
+          "Name": "会心率",
+          "Format": "{0:0.#%}",
+          "Value": 480
+        }
+      }
+    },
+    "2": {
+      "MaxLevel": 25,
+      "Extra": {
+        "11101": {
+          "Prop": 11101,
+          "Name": "HP",
+          "Format": "{0:0}",
+          "Value": 140
+        },
+        "20101": {
+          "Prop": 20101,
+          "Name": "会心率",
+          "Format": "{0:0.#%}",
+          "Value": 480
+        }
+      }
+    },
+    "3": {
+      "MaxLevel": 35,
+      "Extra": {
+        "11101": {
+          "Prop": 11101,
+          "Name": "HP",
+          "Format": "{0:0}",
+          "Value": 140
+        },
+        "20101": {
+          "Prop": 20101,
+          "Name": "会心率",
+          "Format": "{0:0.#%}",
+          "Value": 960
+        }
+      }
+    },
+    "4": {
+      "MaxLevel": 45,
+      "Extra": {
+        "11101": {
+          "Prop": 11101,
+          "Name": "HP",
+          "Format": "{0:0}",
+          "Value": 280
+        },
+        "20101": {
+          "Prop": 20101,
+          "Name": "会心率",
+          "Format": "{0:0.#%}",
+          "Value": 960
+        }
+      }
+    },
+    "5": {
+      "MaxLevel": 55,
+      "Extra": {
+        "11101": {
+          "Prop": 11101,
+          "Name": "HP",
+          "Format": "{0:0}",
+          "Value": 280
+        },
+        "20101": {
+          "Prop": 20101,
+          "Name": "会心率",
+          "Format": "{0:0.#%}",
+          "Value": 1440
+        }
+      }
+    },
+    "6": {
+      "MaxLevel": 60,
+      "Extra": {
+        "11101": {
+          "Prop": 11101,
+          "Name": "HP",
+          "Format": "{0:0}",
+          "Value": 420
+        },
+        "20101": {
+          "Prop": 20101,
+          "Name": "会心率",
+          "Format": "{0:0.#%}",
+          "Value": 1440
+        }
+      }
+    }
+  },
+  "LevelEXP": [
+    50,
+    150,
+    250,
+    400,
+    600,
+    800,
+    1000,
+    1250,
+    1500,
+    1800,
+    1935,
+    2065,
+    2200,
+    2335,
+    2465,
+    2600,
+    2735,
+    2865,
+    3000,
+    4680,
+    4975,
+    5265,
+    5560,
+    5855,
+    6145,
+    6440,
+    6735,
+    7025,
+    7320,
+    10800,
+    11400,
+    12000,
+    12600,
+    13200,
+    13800,
+    14400,
+    15000,
+    15600,
+    16200,
+    17100,
+    18300,
+    19500,
+    20700,
+    21900,
+    23100,
+    24300,
+    25500,
+    26700,
+    27900,
+    34200,
+    36600,
+    39000,
+    41400,
+    43800,
+    46200,
+    48600,
+    51000,
+    53400,
+    55800,
+    0
+  ],
+  "Skill": {
+    "Basic": {
+      "Description": [
+        {
+          "Name": "通常攻撃：雲霄の型",
+          "Desc": " <IconMap:Icon_Normal> を押して発動：\n前方に最大5段の攻撃を放ち、<color=#FE437E>玄墨属性ダメージ</color>を与える。\nスキルの3段目と4段目発動中、中断耐性レベルがアップする。",
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：<ruby=ぼくえい>墨影</ruby>を雲に凝す",
+          "Desc": " <IconMap:Icon_Evade> を長押しして発動：\n太極陣法を展開し、<color=#FE437E>玄墨属性ダメージ</color>を与える。\nスキル終了時に『通常攻撃：雲霄の型』の5段目の攻撃を自動で発動する。\nスキル発動中、中断耐性レベルがアップする、受けるダメージ-40%。",
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：玄墨陣法",
+          "Desc": "「玄墨値」を所持している状態で『回避：碧空随行』発動中に <IconMap:Icon_Normal> を短押し、または「玄墨値」を所持している状態で <IconMap:Icon_Evade> を長押しして発動：\n陣法を展開し、<color=#FE437E>玄墨属性ダメージ</color>を継続的に与える。\nスキル終了時、『通常攻撃：青溟爆震』を自動で発動する。\n陣法展開中、継続的にアドレナリンを回復する、1秒ごとに7Pt回復、最大で3秒継続。\nスキル発動中、無敵効果を獲得し、「極限視界」に入る。",
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：<ruby=せいめいばくしん>青溟爆震</ruby>",
+          "Desc": "『通常攻撃：玄墨陣法』終了時に自動で発動：\n翼を広げて爆発攻撃を仕掛け、<color=#FE437E>玄墨属性ダメージ</color>を大量に与える。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：雲霄の型",
+          "Param": [
+            {
+              "Name": "1段ダメージ倍率",
+              "Desc": "{Skill:1371001, Prop:1001}",
+              "Param": {
+                "1371001": {
+                  "Main": 4580,
+                  "Growth": 420,
+                  "Format": "%",
+                  "DamagePercentage": 4580,
+                  "DamagePercentageGrowth": 420,
+                  "StunRatio": 2860,
+                  "StunRatioGrowth": 130,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 71500,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 2596,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 5200,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 2597
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "2段ダメージ倍率",
+              "Desc": "{Skill:1371002, Prop:1001}",
+              "Param": {
+                "1371002": {
+                  "Main": 6550,
+                  "Growth": 600,
+                  "Format": "%",
+                  "DamagePercentage": 6550,
+                  "DamagePercentageGrowth": 600,
+                  "StunRatio": 6890,
+                  "StunRatioGrowth": 320,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 172425,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 6260,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 12530,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 6261
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "3段ダメージ倍率",
+              "Desc": "{Skill:1371003, Prop:1001}",
+              "Param": {
+                "1371003": {
+                  "Main": 8710,
+                  "Growth": 800,
+                  "Format": "%",
+                  "DamagePercentage": 8710,
+                  "DamagePercentageGrowth": 800,
+                  "StunRatio": 8580,
+                  "StunRatioGrowth": 390,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 214500,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 7791,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 15590,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 7792
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "4段ダメージ倍率",
+              "Desc": "{Skill:1371004, Prop:1001}",
+              "Param": {
+                "1371004": {
+                  "Main": 10480,
+                  "Growth": 960,
+                  "Format": "%",
+                  "DamagePercentage": 10480,
+                  "DamagePercentageGrowth": 960,
+                  "StunRatio": 11180,
+                  "StunRatioGrowth": 510,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 279400,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 10159,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 20320,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 10160
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "5段ダメージ倍率",
+              "Desc": "{Skill:1371006, Prop:1001}",
+              "Param": {
+                "1371006": {
+                  "Main": 11370,
+                  "Growth": 1040,
+                  "Format": "%",
+                  "DamagePercentage": 11370,
+                  "DamagePercentageGrowth": 1040,
+                  "StunRatio": 10570,
+                  "StunRatioGrowth": 490,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 264275,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 9606,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 19220,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 9607
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "1段ブレイク倍率",
+              "Desc": "{Skill:1371001, Prop:1002}",
+              "Param": {
+                "1371001": {
+                  "Main": 2860,
+                  "Growth": 130,
+                  "Format": "%",
+                  "DamagePercentage": 4580,
+                  "DamagePercentageGrowth": 420,
+                  "StunRatio": 2860,
+                  "StunRatioGrowth": 130,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 71500,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 2596,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 5200,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 2597
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "2段ブレイク倍率",
+              "Desc": "{Skill:1371002, Prop:1002}",
+              "Param": {
+                "1371002": {
+                  "Main": 6890,
+                  "Growth": 320,
+                  "Format": "%",
+                  "DamagePercentage": 6550,
+                  "DamagePercentageGrowth": 600,
+                  "StunRatio": 6890,
+                  "StunRatioGrowth": 320,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 172425,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 6260,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 12530,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 6261
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "3段ブレイク倍率",
+              "Desc": "{Skill:1371003, Prop:1002}",
+              "Param": {
+                "1371003": {
+                  "Main": 8580,
+                  "Growth": 390,
+                  "Format": "%",
+                  "DamagePercentage": 8710,
+                  "DamagePercentageGrowth": 800,
+                  "StunRatio": 8580,
+                  "StunRatioGrowth": 390,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 214500,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 7791,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 15590,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 7792
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "4段ブレイク倍率",
+              "Desc": "{Skill:1371004, Prop:1002}",
+              "Param": {
+                "1371004": {
+                  "Main": 11180,
+                  "Growth": 510,
+                  "Format": "%",
+                  "DamagePercentage": 10480,
+                  "DamagePercentageGrowth": 960,
+                  "StunRatio": 11180,
+                  "StunRatioGrowth": 510,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 279400,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 10159,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 20320,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 10160
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "5段ブレイク倍率",
+              "Desc": "{Skill:1371006, Prop:1002}",
+              "Param": {
+                "1371006": {
+                  "Main": 10570,
+                  "Growth": 490,
+                  "Format": "%",
+                  "DamagePercentage": 11370,
+                  "DamagePercentageGrowth": 1040,
+                  "StunRatio": 10570,
+                  "StunRatioGrowth": 490,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 264275,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 9606,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 19220,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 9607
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：<ruby=ぼくえい>墨影</ruby>を雲に凝す",
+          "Param": [
+            {
+              "Name": "『墨影を雲に凝す』の総ダメージ倍率",
+              "Desc": "{Skill:1371005, Prop:1001}",
+              "Param": {
+                "1371005": {
+                  "Main": 23470,
+                  "Growth": 2140,
+                  "Format": "%",
+                  "DamagePercentage": 23470,
+                  "DamagePercentageGrowth": 2140,
+                  "StunRatio": 29340,
+                  "StunRatioGrowth": 1340,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 733700,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 26670,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 53350,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 26671
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "『墨影を雲に凝す』の総ブレイク倍率",
+              "Desc": "{Skill:1371005, Prop:1002}",
+              "Param": {
+                "1371005": {
+                  "Main": 29340,
+                  "Growth": 1340,
+                  "Format": "%",
+                  "DamagePercentage": 23470,
+                  "DamagePercentageGrowth": 2140,
+                  "StunRatio": 29340,
+                  "StunRatioGrowth": 1340,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 733700,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 26670,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 53350,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 26671
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：玄墨陣法",
+          "Param": [
+            {
+              "Name": "『玄墨陣法』の総ダメージ倍率",
+              "Desc": "{Skill:1371021, Prop:1001}",
+              "Param": {
+                "1371021": {
+                  "Main": 30520,
+                  "Growth": 2780,
+                  "Format": "%",
+                  "DamagePercentage": 30520,
+                  "DamagePercentageGrowth": 2780,
+                  "StunRatio": 29340,
+                  "StunRatioGrowth": 1340,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 733700,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 26670,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 26671
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "『玄墨陣法』の総ブレイク倍率",
+              "Desc": "{Skill:1371021, Prop:1002}",
+              "Param": {
+                "1371021": {
+                  "Main": 29340,
+                  "Growth": 1340,
+                  "Format": "%",
+                  "DamagePercentage": 30520,
+                  "DamagePercentageGrowth": 2780,
+                  "StunRatio": 29340,
+                  "StunRatioGrowth": 1340,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 733700,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 26670,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 26671
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：<ruby=せいめいばくしん>青溟爆震</ruby>",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1371007, Prop:1001}",
+              "Param": {
+                "1371007": {
+                  "Main": 11060,
+                  "Growth": 1010,
+                  "Format": "%",
+                  "DamagePercentage": 11060,
+                  "DamagePercentageGrowth": 1010,
+                  "StunRatio": 10630,
+                  "StunRatioGrowth": 490,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 265925,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 9663,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 9664
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1371007, Prop:1002}",
+              "Param": {
+                "1371007": {
+                  "Main": 10630,
+                  "Growth": 490,
+                  "Format": "%",
+                  "DamagePercentage": 11060,
+                  "DamagePercentageGrowth": 1010,
+                  "StunRatio": 10630,
+                  "StunRatioGrowth": 490,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 265925,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 9663,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 9664
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": {
+          "10": 2000,
+          "100115": 2
+        },
+        "2": {
+          "10": 3000,
+          "100115": 3
+        },
+        "3": {
+          "10": 6000,
+          "100125": 2
+        },
+        "4": {
+          "10": 9000,
+          "100125": 3
+        },
+        "5": {
+          "10": 12000,
+          "100125": 4
+        },
+        "6": {
+          "10": 18000,
+          "100125": 6
+        },
+        "7": {
+          "10": 45000,
+          "100135": 5
+        },
+        "8": {
+          "10": 67500,
+          "100135": 8
+        },
+        "9": {
+          "10": 90000,
+          "100135": 10
+        },
+        "10": {
+          "10": 112500,
+          "100135": 12
+        },
+        "11": {
+          "10": 135000,
+          "100135": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "Dodge": {
+      "Description": [
+        {
+          "Name": "回避：雲隠れの術",
+          "Desc": "<IconMap:Icon_Evade> を押して発動：\nダッシュで高速回避する。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "ダッシュ攻撃：凌雲・破壊の術",
+          "Desc": "回避時に <IconMap:Icon_Normal> を押して発動：\n前方に突進攻撃を放ち、<color=#FE437E>玄墨属性ダメージ</color>を与える。",
+          "Potential": []
+        },
+        {
+          "Name": "回避：<ruby=へきくうずいこう>碧空随行</ruby>",
+          "Desc": "{LAYOUT_KEYBOARD#方向キー}{LAYOUT_CONSOLECONTROLLER#スティック}{LAYOUT_FALLBACK#スティック}を入力しながら <IconMap:Icon_Evade> を長押しして発動：\n高速移動が可能な<color=#FFFFFF>「軽身」</color>状態に入り、探査モード中、<color=#FFFFFF>「軽身」</color>状態では一定範囲内の物資を自動で回収できる。\n<color=#FFFFFF>「軽身」</color>状態中は{LAYOUT_KEYBOARD#方向キー}{LAYOUT_CONSOLECONTROLLER#スティック}{LAYOUT_FALLBACK#スティック}で方向を制御し、{LAYOUT_KEYBOARD#方向キー}{LAYOUT_CONSOLECONTROLLER#スティック}{LAYOUT_FALLBACK#スティック}を離すと「軽身」状態が解除される。\nスキルを発動した瞬間、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "回避反撃：祓いの一撃",
+          "Desc": "<color=#FFFFFF>『極限回避』</color>後に <IconMap:Icon_Normal> を押して発動：\n前方の敵に連続攻撃を放ち、<color=#FE437E>玄墨属性ダメージ</color>を与える。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "ダッシュ攻撃：凌雲・破壊の術",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1371010, Prop:1001}",
+              "Param": {
+                "1371010": {
+                  "Main": 4990,
+                  "Growth": 460,
+                  "Format": "%",
+                  "DamagePercentage": 4990,
+                  "DamagePercentageGrowth": 460,
+                  "StunRatio": 3120,
+                  "StunRatioGrowth": 150,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 78100,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 2833,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 5670,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 2834
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1371010, Prop:1002}",
+              "Param": {
+                "1371010": {
+                  "Main": 3120,
+                  "Growth": 150,
+                  "Format": "%",
+                  "DamagePercentage": 4990,
+                  "DamagePercentageGrowth": 460,
+                  "StunRatio": 3120,
+                  "StunRatioGrowth": 150,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 78100,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 2833,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 5670,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 2834
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "回避反撃：祓いの一撃",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1371012, Prop:1001}",
+              "Param": {
+                "1371012": {
+                  "Main": 21960,
+                  "Growth": 2000,
+                  "Format": "%",
+                  "DamagePercentage": 21960,
+                  "DamagePercentageGrowth": 2000,
+                  "StunRatio": 23650,
+                  "StunRatioGrowth": 1080,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 316250,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 11496,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 23000,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 26497
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1371012, Prop:1002}",
+              "Param": {
+                "1371012": {
+                  "Main": 23650,
+                  "Growth": 1080,
+                  "Format": "%",
+                  "DamagePercentage": 21960,
+                  "DamagePercentageGrowth": 2000,
+                  "StunRatio": 23650,
+                  "StunRatioGrowth": 1080,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 316250,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 11496,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 23000,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 26497
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": {
+          "10": 2000,
+          "100115": 2
+        },
+        "2": {
+          "10": 3000,
+          "100115": 3
+        },
+        "3": {
+          "10": 6000,
+          "100125": 2
+        },
+        "4": {
+          "10": 9000,
+          "100125": 3
+        },
+        "5": {
+          "10": 12000,
+          "100125": 4
+        },
+        "6": {
+          "10": 18000,
+          "100125": 6
+        },
+        "7": {
+          "10": 45000,
+          "100135": 5
+        },
+        "8": {
+          "10": 67500,
+          "100135": 8
+        },
+        "9": {
+          "10": 90000,
+          "100135": 10
+        },
+        "10": {
+          "10": 112500,
+          "100135": 12
+        },
+        "11": {
+          "10": 135000,
+          "100135": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "Special": {
+      "Description": [
+        {
+          "Name": "特殊スキル：<ruby=かいめつえいそう>灰滅影葬</ruby>",
+          "Desc": " <IconMap:Icon_Special> を押して発動：\n素早く後ろに下がった後、前方へ攻撃を繰り出し、<color=#FE437E>玄墨属性ダメージ</color>を与える。\n後退中は『極限回避』が発動可能だが、『回避反撃』に繋げることはできない。\nスキル発動中、中断耐性レベルがアップする。",
+          "Potential": []
+        },
+        {
+          "Name": "強化特殊スキル：具現せし墨跡",
+          "Desc": "アドレナリンが十分な時、 <IconMap:Icon_SpecialReady_Rp> を短押しまたは長押しして発動：\n持続的にチャージする。 <IconMap:Icon_SpecialReady_Rp> を離すと翼による打ち上げ攻撃を発動し、<color=#FE437E>玄墨属性ダメージ</color>を大量に与える。\nチャージ中に敵の攻撃を受けた場合、自動でガードし、翼による打ち上げ攻撃を発動する。\nスキル発動の瞬間に敵の攻撃を受けた場合、パーフェクトガード効果が発動し、そのダメージを無効化するほか、スキルの中断レベルが『パリィ支援・重』と同じになり、アドレナリンを10Pt回復する。\n翼による打ち上げ攻撃が赤色または金色の閃光を放つ敵に命中した場合も、パーフェクトガード効果が発動し、そのダメージを無効化するほか、スキルの中断レベルが『パリィ支援・重』と同じになり、アドレナリンを10Pt回復する。\nパーフェクトガード効果は0.5秒に1回のみ発動可能。\n光るまでチャージする、またはパーフェクトガード効果が発動した場合、翼による打ち上げ攻撃の後に追加の呪符攻撃が発生する。\nスキル発動後、 <IconMap:Icon_Special> を短押しすることで『強化特殊スキル：蒼穹突貫・破』を発動できる。\n『強化特殊スキル：蒼穹突貫・破』発動後、アドレナリンが十分な場合、 <IconMap:Icon_SpecialReady_Rp> を短押しすると、追加でアドレナリンを20Pt消費し『強化特殊スキル：青溟爆震・破』を発動できる。\n『強化特殊スキル：青溟爆震・破』発動後、「玄墨値」を所持している場合、 <IconMap:Icon_Evade> を長押しすると、素早く<color=#FFFFFF>『通常攻撃：玄墨陣法』</color>に繋げることが可能。\n翼による打ち上げ攻撃発動中、無敵効果を得る。チャージ中、中断耐性レベルがアップする。",
+          "Potential": []
+        },
+        {
+          "Name": "強化特殊スキル：<ruby=ぎょううん>凝雲</ruby>の術",
+          "Desc": "アドレナリンが十分な時、 <IconMap:Icon_Normal> を長押しして発動：\n持続的にチャージする。敵の周囲にエネルギーを集中させ、持続的にダメージを与える、最大で2秒継続。<color=#FE437E>玄墨属性ダメージ</color>を大量に与える。\n最大チャージ時間に達する、または途中でチャージを中断した場合、自動で『強化特殊スキル：墨散影消』を発動する。\nスキルを発動した瞬間に『極限回避』を発動可能、『極限回避』発動後は「極限視界」に入る。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "強化特殊スキル：<ruby=ぼくさんえいしょう>墨散影消</ruby>",
+          "Desc": "『強化特殊スキル：凝雲の術』発動中に自動で発動：\nエネルギーボールが出現・収縮する時、<color=#FE437E>玄墨属性ダメージ</color>を与える。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "特殊スキル：<ruby=かいめつえいそう>灰滅影葬</ruby>",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1371008, Prop:1001}",
+              "Param": {
+                "1371008": {
+                  "Main": 5210,
+                  "Growth": 480,
+                  "Format": "%",
+                  "DamagePercentage": 5210,
+                  "DamagePercentageGrowth": 480,
+                  "StunRatio": 6510,
+                  "StunRatioGrowth": 300,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 162800,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 5916,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 5917
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1371008, Prop:1002}",
+              "Param": {
+                "1371008": {
+                  "Main": 6510,
+                  "Growth": 300,
+                  "Format": "%",
+                  "DamagePercentage": 5210,
+                  "DamagePercentageGrowth": 480,
+                  "StunRatio": 6510,
+                  "StunRatioGrowth": 300,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 162800,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 5916,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 5917
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "強化特殊スキル：具現せし墨跡",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1371009, Prop:1001}",
+              "Param": {
+                "1371009": {
+                  "Main": 30030,
+                  "Growth": 2730,
+                  "Format": "%",
+                  "DamagePercentage": 30030,
+                  "DamagePercentageGrowth": 2730,
+                  "StunRatio": 17290,
+                  "StunRatioGrowth": 790,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 544225,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 19787,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 10831
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1371009, Prop:1002}",
+              "Param": {
+                "1371009": {
+                  "Main": 17290,
+                  "Growth": 790,
+                  "Format": "%",
+                  "DamagePercentage": 30030,
+                  "DamagePercentageGrowth": 2730,
+                  "StunRatio": 17290,
+                  "StunRatioGrowth": 790,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 544225,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 19787,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 10831
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "チャージ完了時の追加ダメージ倍率",
+              "Desc": "{Skill:1371024, Prop:1001}",
+              "Param": {
+                "1371024": {
+                  "Main": 14960,
+                  "Growth": 1360,
+                  "Format": "%",
+                  "DamagePercentage": 14960,
+                  "DamagePercentageGrowth": 1360,
+                  "StunRatio": 7580,
+                  "StunRatioGrowth": 350,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 301400,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 5583,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 2000
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "チャージ完了時の追加ブレイク倍率",
+              "Desc": "{Skill:1371024, Prop:1002}",
+              "Param": {
+                "1371024": {
+                  "Main": 7580,
+                  "Growth": 350,
+                  "Format": "%",
+                  "DamagePercentage": 14960,
+                  "DamagePercentageGrowth": 1360,
+                  "StunRatio": 7580,
+                  "StunRatioGrowth": 350,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 301400,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 5583,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 2000
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "アドレナリン消費",
+              "Desc": "40Pt",
+              "Potential": []
+            },
+            {
+              "Name": "『強化特殊スキル：蒼穹突貫・破』の総ダメージ倍率",
+              "Desc": "{Skill:1371023, Prop:1001}",
+              "Param": {
+                "1371023": {
+                  "Main": 37060,
+                  "Growth": 3370,
+                  "Format": "%",
+                  "DamagePercentage": 37060,
+                  "DamagePercentageGrowth": 3370,
+                  "StunRatio": 29440,
+                  "StunRatioGrowth": 1340,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 990275,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 29904,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 15671
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "『強化特殊スキル：蒼穹突貫・破』の総ブレイク倍率",
+              "Desc": "{Skill:1371023, Prop:1002}",
+              "Param": {
+                "1371023": {
+                  "Main": 29440,
+                  "Growth": 1340,
+                  "Format": "%",
+                  "DamagePercentage": 37060,
+                  "DamagePercentageGrowth": 3370,
+                  "StunRatio": 29440,
+                  "StunRatioGrowth": 1340,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 990275,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 29904,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 15671
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "『強化特殊スキル：青溟爆震・破』の総ダメージ倍率",
+              "Desc": "{Skill:1371025, Prop:1001}",
+              "Param": {
+                "1371025": {
+                  "Main": 42640,
+                  "Growth": 3880,
+                  "Format": "%",
+                  "DamagePercentage": 42640,
+                  "DamagePercentageGrowth": 3880,
+                  "StunRatio": 28530,
+                  "StunRatioGrowth": 1300,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 1086250,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 30545,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 9664
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "『強化特殊スキル：青溟爆震・破』の総ブレイク倍率",
+              "Desc": "{Skill:1371025, Prop:1002}",
+              "Param": {
+                "1371025": {
+                  "Main": 28530,
+                  "Growth": 1300,
+                  "Format": "%",
+                  "DamagePercentage": 42640,
+                  "DamagePercentageGrowth": 3880,
+                  "StunRatio": 28530,
+                  "StunRatioGrowth": 1300,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 1086250,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 30545,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 9664
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "強化特殊スキル：<ruby=ぎょううん>凝雲</ruby>の術",
+          "Param": [
+            {
+              "Name": "チャージ中の総ダメージ倍率",
+              "Desc": "{Skill:1371022, Prop:1001}",
+              "Param": {
+                "1371022": {
+                  "Main": 67180,
+                  "Growth": 6110,
+                  "Format": "%",
+                  "DamagePercentage": 67180,
+                  "DamagePercentageGrowth": 6110,
+                  "StunRatio": 48000,
+                  "StunRatioGrowth": 2190,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 1741850,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 50333,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 20000
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "チャージ中の総ブレイク倍率",
+              "Desc": "{Skill:1371022, Prop:1002}",
+              "Param": {
+                "1371022": {
+                  "Main": 48000,
+                  "Growth": 2190,
+                  "Format": "%",
+                  "DamagePercentage": 67180,
+                  "DamagePercentageGrowth": 6110,
+                  "StunRatio": 48000,
+                  "StunRatioGrowth": 2190,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 1741850,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 50333,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 20000
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "発動時アドレナリン消費",
+              "Desc": "40Pt",
+              "Potential": []
+            },
+            {
+              "Name": "初期消費",
+              "Desc": "20Pt",
+              "Potential": []
+            },
+            {
+              "Name": "毎秒消費",
+              "Desc": "20Pt",
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "強化特殊スキル：<ruby=ぼくさんえいしょう>墨散影消</ruby>",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1371026, Prop:1001}",
+              "Param": {
+                "1371026": {
+                  "Main": 23430,
+                  "Growth": 2130,
+                  "Format": "%",
+                  "DamagePercentage": 23430,
+                  "DamagePercentageGrowth": 2130,
+                  "StunRatio": 14210,
+                  "StunRatioGrowth": 650,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 582175,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 15716,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3001
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1371026, Prop:1002}",
+              "Param": {
+                "1371026": {
+                  "Main": 14210,
+                  "Growth": 650,
+                  "Format": "%",
+                  "DamagePercentage": 23430,
+                  "DamagePercentageGrowth": 2130,
+                  "StunRatio": 14210,
+                  "StunRatioGrowth": 650,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 582175,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 15716,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3001
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": {
+          "10": 2000,
+          "100115": 2
+        },
+        "2": {
+          "10": 3000,
+          "100115": 3
+        },
+        "3": {
+          "10": 6000,
+          "100125": 2
+        },
+        "4": {
+          "10": 9000,
+          "100125": 3
+        },
+        "5": {
+          "10": 12000,
+          "100125": 4
+        },
+        "6": {
+          "10": 18000,
+          "100125": 6
+        },
+        "7": {
+          "10": 45000,
+          "100135": 5
+        },
+        "8": {
+          "10": 67500,
+          "100135": 8
+        },
+        "9": {
+          "10": 90000,
+          "100135": 10
+        },
+        "10": {
+          "10": 112500,
+          "100135": 12
+        },
+        "11": {
+          "10": 135000,
+          "100135": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "Chain": {
+      "Description": [
+        {
+          "Name": "連携スキル：玄墨迅撃",
+          "Desc": "<color=#FFFFFF>『連携スキル』</color>開始時に、対応するエージェントを選択して発動：\n前方に素早く突進して攻撃を放った後、翼を広げて爆発を起こし、<color=#FE437E>玄墨属性ダメージ</color>を大量に与える。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "終結スキル：青溟雲影",
+          "Desc": "デシベルレートが<color=#FFFFFF>『Maximum』</color>に達した時に <IconMap:Icon_UltimateReady> を押して発動：\n翼による攻撃を連続で繰り出し、その後に無数の呪符を操って攻撃を行い、<color=#FE437E>玄墨属性ダメージ</color>を大量に与える。\nスキル発動時、儀玄は自身を含むメンバー全員のHPを均等に振り分ける。\nスキル発動後、「玄墨値」を所持している場合、<IconMap:Icon_Evade> を長押しすることで素早く<color=#FFFFFF>『通常攻撃：玄墨陣法』</color>に繋げることが可能。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "終結スキル：術法千万",
+          "Desc": "「術法値」が十分な時、 <IconMap:Icon_UltimateReady> を押して発動：\n「術法値」を120Pt消費し、翼を広げ、無数の呪符を操って攻撃を繰り出し、<color=#FE437E>玄墨属性ダメージ</color>を大量に与える。\n「術法値」と「デシベル値」が同時に満タンになった時、このスキルが優先的に発動される。\nスキル発動後、「玄墨値」を所持している場合、<IconMap:Icon_Evade> を長押しすることで素早く<color=#FFFFFF>『通常攻撃：玄墨陣法』</color>に繋げることが可能。\nスキル発動時、儀玄は自身を含むメンバー全員のHPを均等に振り分ける。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "連携スキル：玄墨迅撃",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1371013, Prop:1001}",
+              "Param": {
+                "1371013": {
+                  "Main": 53310,
+                  "Growth": 4850,
+                  "Format": "%",
+                  "DamagePercentage": 53310,
+                  "DamagePercentageGrowth": 4850,
+                  "StunRatio": 22740,
+                  "StunRatioGrowth": 1040,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 2397450,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 40620,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 20671
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1371013, Prop:1002}",
+              "Param": {
+                "1371013": {
+                  "Main": 22740,
+                  "Growth": 1040,
+                  "Format": "%",
+                  "DamagePercentage": 53310,
+                  "DamagePercentageGrowth": 4850,
+                  "StunRatio": 22740,
+                  "StunRatioGrowth": 1040,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 2397450,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 40620,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 20671
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "終結スキル：青溟雲影",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1371014, Prop:1001}",
+              "Param": {
+                "1371014": {
+                  "Main": 185340,
+                  "Growth": 16850,
+                  "Format": "%",
+                  "DamagePercentage": 185340,
+                  "DamagePercentageGrowth": 16850,
+                  "StunRatio": 40710,
+                  "StunRatioGrowth": 1860,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 37003,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 87004
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1371014, Prop:1002}",
+              "Param": {
+                "1371014": {
+                  "Main": 40710,
+                  "Growth": 1860,
+                  "Format": "%",
+                  "DamagePercentage": 185340,
+                  "DamagePercentageGrowth": 16850,
+                  "StunRatio": 40710,
+                  "StunRatioGrowth": 1860,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 37003,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 87004
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "終結スキル：術法千万",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1371020, Prop:1001}",
+              "Param": {
+                "1371020": {
+                  "Main": 146620,
+                  "Growth": 13330,
+                  "Format": "%",
+                  "DamagePercentage": 146620,
+                  "DamagePercentageGrowth": 13330,
+                  "StunRatio": 24940,
+                  "StunRatioGrowth": 1140,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 22670,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 72671
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1371020, Prop:1002}",
+              "Param": {
+                "1371020": {
+                  "Main": 24940,
+                  "Growth": 1140,
+                  "Format": "%",
+                  "DamagePercentage": 146620,
+                  "DamagePercentageGrowth": 13330,
+                  "StunRatio": 24940,
+                  "StunRatioGrowth": 1140,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 22670,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 72671
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": {
+          "10": 2000,
+          "100115": 2
+        },
+        "2": {
+          "10": 3000,
+          "100115": 3
+        },
+        "3": {
+          "10": 6000,
+          "100125": 2
+        },
+        "4": {
+          "10": 9000,
+          "100125": 3
+        },
+        "5": {
+          "10": 12000,
+          "100125": 4
+        },
+        "6": {
+          "10": 18000,
+          "100125": 6
+        },
+        "7": {
+          "10": 45000,
+          "100135": 5
+        },
+        "8": {
+          "10": 67500,
+          "100135": 8
+        },
+        "9": {
+          "10": 90000,
+          "100135": 10
+        },
+        "10": {
+          "10": 112500,
+          "100135": 12
+        },
+        "11": {
+          "10": 135000,
+          "100135": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "Assist": {
+      "Description": [
+        {
+          "Name": "クイック支援：<ruby=りゅううんえいしん>流雲影身</ruby>",
+          "Desc": "操作しているメンバーが吹き飛ばされた時に、 <IconMap:Icon_Switch> を押して発動：\n前方の敵に連続攻撃を放ち、<color=#FE437E>玄墨属性ダメージ</color>を与える。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "パリィ支援：<ruby=せいしょう>清霄</ruby>の型",
+          "Desc": "出場中のメンバーが攻撃されそうになった時に、 <IconMap:Icon_Switch> を押して発動：\n敵の攻撃をパリィし、ブレイク値を大量に蓄積させる。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "支援突撃：<ruby=そうきゅうとっかん>蒼穹突貫</ruby>",
+          "Desc": "<color=#FFFFFF>『パリィ支援』</color>発動後、 <IconMap:Icon_Normal> を押して発動：\n高速で突進し、攻撃を放ち、<color=#FE437E>玄墨属性ダメージ</color>を与える。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "クイック支援：<ruby=りゅううんえいしん>流雲影身</ruby>",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1371015, Prop:1001}",
+              "Param": {
+                "1371015": {
+                  "Main": 10120,
+                  "Growth": 920,
+                  "Format": "%",
+                  "DamagePercentage": 10120,
+                  "DamagePercentageGrowth": 920,
+                  "StunRatio": 6330,
+                  "StunRatioGrowth": 290,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 158125,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 5748,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 11500,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 5749
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1371015, Prop:1002}",
+              "Param": {
+                "1371015": {
+                  "Main": 6330,
+                  "Growth": 290,
+                  "Format": "%",
+                  "DamagePercentage": 10120,
+                  "DamagePercentageGrowth": 920,
+                  "StunRatio": 6330,
+                  "StunRatioGrowth": 290,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 158125,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 5748,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 11500,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 5749
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "パリィ支援：<ruby=せいしょう>清霄</ruby>の型",
+          "Param": [
+            {
+              "Name": "パリィ・軽 ブレイク倍率",
+              "Desc": "{Skill:1371016, Prop:1002}",
+              "Param": {
+                "1371016": {
+                  "Main": 27130,
+                  "Growth": 1240,
+                  "Format": "%",
+                  "DamagePercentage": 0,
+                  "DamagePercentageGrowth": 0,
+                  "StunRatio": 27130,
+                  "StunRatioGrowth": 1240,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 36664
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "パリィ・重 ブレイク倍率",
+              "Desc": "{Skill:1371017, Prop:1002}",
+              "Param": {
+                "1371017": {
+                  "Main": 34280,
+                  "Growth": 1560,
+                  "Format": "%",
+                  "DamagePercentage": 0,
+                  "DamagePercentageGrowth": 0,
+                  "StunRatio": 34280,
+                  "StunRatioGrowth": 1560,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 41664
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "パリィ・連続 ブレイク倍率",
+              "Desc": "{Skill:1371018, Prop:1002}",
+              "Param": {
+                "1371018": {
+                  "Main": 16680,
+                  "Growth": 760,
+                  "Format": "%",
+                  "DamagePercentage": 0,
+                  "DamagePercentageGrowth": 0,
+                  "StunRatio": 16680,
+                  "StunRatioGrowth": 760,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 11664
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "支援突撃：<ruby=そうきゅうとっかん>蒼穹突貫</ruby>",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1371019, Prop:1001}",
+              "Param": {
+                "1371019": {
+                  "Main": 29700,
+                  "Growth": 2700,
+                  "Format": "%",
+                  "DamagePercentage": 29700,
+                  "DamagePercentageGrowth": 2700,
+                  "StunRatio": 32290,
+                  "StunRatioGrowth": 1470,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 1049125,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 31551,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 16171
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1371019, Prop:1002}",
+              "Param": {
+                "1371019": {
+                  "Main": 32290,
+                  "Growth": 1470,
+                  "Format": "%",
+                  "DamagePercentage": 29700,
+                  "DamagePercentageGrowth": 2700,
+                  "StunRatio": 32290,
+                  "StunRatioGrowth": 1470,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 1049125,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 31551,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 16171
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": {
+          "10": 2000,
+          "100115": 2
+        },
+        "2": {
+          "10": 3000,
+          "100115": 3
+        },
+        "3": {
+          "10": 6000,
+          "100125": 2
+        },
+        "4": {
+          "10": 9000,
+          "100125": 3
+        },
+        "5": {
+          "10": 12000,
+          "100125": 4
+        },
+        "6": {
+          "10": 18000,
+          "100125": 6
+        },
+        "7": {
+          "10": 45000,
+          "100135": 5
+        },
+        "8": {
+          "10": 67500,
+          "100135": 8
+        },
+        "9": {
+          "10": 90000,
+          "100135": 10
+        },
+        "10": {
+          "10": 112500,
+          "100135": 12
+        },
+        "11": {
+          "10": 135000,
+          "100135": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    }
+  },
+  "SkillList": {
+    "1371001": {
+      "Name": "通常攻撃：雲霄の型（1、2、3、4、5段）",
+      "Desc": "<IconMap:Icon_Normal>;<IconMap:Icon_Normal>;<IconMap:Icon_Normal>;<IconMap:Icon_Normal>;<IconMap:Icon_Normal>",
+      "ElementType": 205,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1371002": {
+      "Name": "通常攻撃：墨影を雲に凝す",
+      "Desc": "<IconMap:Icon_Evade>（長押し）",
+      "ElementType": 205,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1371003": {
+      "Name": "通常攻撃：玄墨陣法",
+      "Desc": "<IconMap:Icon_Evade>（「玄墨値」所持時に長押し）",
+      "ElementType": 205,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1371004": {
+      "Name": "特殊スキル：灰滅影葬",
+      "Desc": "<IconMap:Icon_Special>",
+      "ElementType": 205,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1371005": {
+      "Name": "強化特殊スキル：具現せし墨跡",
+      "Desc": "<IconMap:Icon_SpecialReady_Rp>",
+      "ElementType": 205,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1371006": {
+      "Name": "強化特殊スキル：凝雲の術",
+      "Desc": "<IconMap:Icon_Normal>（長押し）",
+      "ElementType": 205,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1371007": {
+      "Name": "回避：雲隠れの術",
+      "Desc": "<IconMap:Icon_Evade>",
+      "ElementType": 205,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1371008": {
+      "Name": "回避：碧空随行",
+      "Desc": "<IconMap:Icon_Evade>（エージェントを動かす時に長押し）",
+      "ElementType": 205,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1371009": {
+      "Name": "回避反撃：祓いの一撃",
+      "Desc": "<IconMap:Icon_Evade>（極限回避成功） ; <IconMap:Icon_Normal>",
+      "ElementType": 205,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1371010": {
+      "Name": "連携スキル：玄墨迅撃",
+      "Desc": "<IconMap:Icon_QTE>",
+      "ElementType": 205,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1371011": {
+      "Name": "終結スキル：術法千万",
+      "Desc": "<IconMap:Icon_UltimateReady>（「術法値」が溜まっている時）",
+      "ElementType": 205,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1371012": {
+      "Name": "終結スキル：青溟雲影",
+      "Desc": "<IconMap:Icon_UltimateReady>",
+      "ElementType": 205,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1371013": {
+      "Name": "クイック支援：流雲影身",
+      "Desc": "<IconMap:Icon_Switch>（クイック支援の発動条件を満たした時）",
+      "ElementType": 205,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1371014": {
+      "Name": "パリィ支援：清霄の型",
+      "Desc": "<IconMap:Icon_Switch>（パリィ支援の発動条件を満たした時）",
+      "ElementType": 205,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1371015": {
+      "Name": "支援突撃：蒼穹突貫",
+      "Desc": "<IconMap:Icon_Normal>（パリィ支援を発動した後に）",
+      "ElementType": 205,
+      "HitType": 102,
+      "Potential": []
+    }
+  },
+  "Passive": {
+    "Level": {
+      "1371501": {
+        "Level": 1,
+        "Id": 1371501,
+        "Name": [
+          "コアパッシブ：術法の第一人者",
+          "追加能力：玄墨の暗流"
+        ],
+        "Desc": [
+          "儀玄は自身の最大HPに応じて追加で透徹力をアップさせる。最大HP1Ptにつき、透徹力+0.1Pt。\n儀玄のスキルによる<color=#FE437E>玄墨属性ダメージ</color>は全て透徹ダメージとみなされ、敵の防御力を無視するほか、透徹力を基にスキルダメージを計算する。\n儀玄が<color=#FE437E>玄墨属性の状態異常蓄積値</color>を蓄積させると、専用の状態異常ゲージが溜まる。状態異常効果発動時、追加でアドレナリンを10Pt回復する。この効果は10秒に1回のみ発動可能。\n儀玄は戦闘開始時、すべてのアドレナリンを回復する。探査モードにおいて、この効果は180秒に1回のみ発動可能。極限回避発動時、追加でアドレナリンを5Pt回復する、この効果は1秒に1回のみ発動可能。\nアドレナリンを消費すると、儀玄の「術法値」が溜まる。消費したアドレナリン1Ptにつき、「術法値」を0.667Pt蓄積する。「術法値」が十分な時、追加で『終結スキル：術法千万』を発動できる。「術法値」の上限は120Pt。\n儀玄の『通常攻撃：玄墨陣法』、『通常攻撃：青溟爆震』、『強化特殊スキル』、『支援突撃』、『連携スキル』、『終結スキル』の与ダメージ+<color=#2BAD00>30%</color>。\n『終結スキル：術法千万』発動後、儀玄は「玄墨値」を1Pt獲得する。儀玄は「玄墨値」を1Pt消費して『通常攻撃：玄墨陣法』を発動できる。",
+          "チームに<color=#FFFFFF>[撃破]</color>、<color=#FFFFFF>[支援]</color>または<color=#FFFFFF>[防護]</color>のメンバーがいる時に発動：\n他のメンバーが終結スキルを発動すると、儀玄は持続的にアドレナリンを2Pt回復する、継続時間10秒。儀玄が『極限支援』で控えに交代された際、自動で追加の落雷を発生させ、儀玄の透徹力225%分のダメージを与え、さらにアドレナリンを5Pt回復する。\n『強化特殊スキル：凝雲の術』と『強化特殊スキル：墨散影消』がブレイク状態の敵に命中した時、与えるダメージ+30%。\n『終結スキル』発動後、儀玄は「凝神」状態に入る。「凝神」状態にある時、会心ダメージ+40%、継続時間15秒。"
+        ],
+        "ExtraProperty": {
+          "111": {
+            "Target": 123,
+            "Value": 1000
+          },
+          "121": {
+            "Target": 123,
+            "Value": 3000
+          }
+        },
+        "Potential": []
+      },
+      "1371502": {
+        "Level": 2,
+        "Id": 1371502,
+        "Name": [
+          "コアパッシブ：術法の第一人者",
+          "追加能力：玄墨の暗流"
+        ],
+        "Desc": [
+          "儀玄は自身の最大HPに応じて追加で透徹力をアップさせる。最大HP1Ptにつき、透徹力+0.1Pt。\n儀玄のスキルによる<color=#FE437E>玄墨属性ダメージ</color>は全て透徹ダメージとみなされ、敵の防御力を無視するほか、透徹力を基にスキルダメージを計算する。\n儀玄が<color=#FE437E>玄墨属性の状態異常蓄積値</color>を蓄積させると、専用の状態異常ゲージが溜まる。状態異常効果発動時、追加でアドレナリンを10Pt回復する。この効果は10秒に1回のみ発動可能。\n儀玄は戦闘開始時、すべてのアドレナリンを回復する。探査モードにおいて、この効果は180秒に1回のみ発動可能。極限回避発動時、追加でアドレナリンを5Pt回復する、この効果は1秒に1回のみ発動可能。\nアドレナリンを消費すると、儀玄の「術法値」が溜まる。消費したアドレナリン1Ptにつき、「術法値」を0.667Pt蓄積する。「術法値」が十分な時、追加で『終結スキル：術法千万』を発動できる。「術法値」の上限は120Pt。\n儀玄の『通常攻撃：玄墨陣法』、『通常攻撃：青溟爆震』、『強化特殊スキル』、『支援突撃』、『連携スキル』、『終結スキル』の与ダメージ+<color=#2BAD00>35%</color>。\n『終結スキル：術法千万』発動後、儀玄は「玄墨値」を1Pt獲得する。儀玄は「玄墨値」を1Pt消費して『通常攻撃：玄墨陣法』を発動できる。",
+          "チームに<color=#FFFFFF>[撃破]</color>、<color=#FFFFFF>[支援]</color>または<color=#FFFFFF>[防護]</color>のメンバーがいる時に発動：\n他のメンバーが終結スキルを発動すると、儀玄は持続的にアドレナリンを2Pt回復する、継続時間10秒。儀玄が『極限支援』で控えに交代された際、自動で追加の落雷を発生させ、儀玄の透徹力225%分のダメージを与え、さらにアドレナリンを5Pt回復する。\n『強化特殊スキル：凝雲の術』と『強化特殊スキル：墨散影消』がブレイク状態の敵に命中した時、与えるダメージ+30%。\n『終結スキル』発動後、儀玄は「凝神」状態に入る。「凝神」状態にある時、会心ダメージ+40%、継続時間15秒。"
+        ],
+        "ExtraProperty": {
+          "111": {
+            "Target": 123,
+            "Value": 1000
+          },
+          "121": {
+            "Target": 123,
+            "Value": 3000
+          }
+        },
+        "Potential": []
+      },
+      "1371503": {
+        "Level": 3,
+        "Id": 1371503,
+        "Name": [
+          "コアパッシブ：術法の第一人者",
+          "追加能力：玄墨の暗流"
+        ],
+        "Desc": [
+          "儀玄は自身の最大HPに応じて追加で透徹力をアップさせる。最大HP1Ptにつき、透徹力+0.1Pt。\n儀玄のスキルによる<color=#FE437E>玄墨属性ダメージ</color>は全て透徹ダメージとみなされ、敵の防御力を無視するほか、透徹力を基にスキルダメージを計算する。\n儀玄が<color=#FE437E>玄墨属性の状態異常蓄積値</color>を蓄積させると、専用の状態異常ゲージが溜まる。状態異常効果発動時、追加でアドレナリンを10Pt回復する。この効果は10秒に1回のみ発動可能。\n儀玄は戦闘開始時、すべてのアドレナリンを回復する。探査モードにおいて、この効果は180秒に1回のみ発動可能。極限回避発動時、追加でアドレナリンを5Pt回復する、この効果は1秒に1回のみ発動可能。\nアドレナリンを消費すると、儀玄の「術法値」が溜まる。消費したアドレナリン1Ptにつき、「術法値」を0.667Pt蓄積する。「術法値」が十分な時、追加で『終結スキル：術法千万』を発動できる。「術法値」の上限は120Pt。\n儀玄の『通常攻撃：玄墨陣法』、『通常攻撃：青溟爆震』、『強化特殊スキル』、『支援突撃』、『連携スキル』、『終結スキル』の与ダメージ+<color=#2BAD00>40%</color>。\n『終結スキル：術法千万』発動後、儀玄は「玄墨値」を1Pt獲得する。儀玄は「玄墨値」を1Pt消費して『通常攻撃：玄墨陣法』を発動できる。",
+          "チームに<color=#FFFFFF>[撃破]</color>、<color=#FFFFFF>[支援]</color>または<color=#FFFFFF>[防護]</color>のメンバーがいる時に発動：\n他のメンバーが終結スキルを発動すると、儀玄は持続的にアドレナリンを2Pt回復する、継続時間10秒。儀玄が『極限支援』で控えに交代された際、自動で追加の落雷を発生させ、儀玄の透徹力225%分のダメージを与え、さらにアドレナリンを5Pt回復する。\n『強化特殊スキル：凝雲の術』と『強化特殊スキル：墨散影消』がブレイク状態の敵に命中した時、与えるダメージ+30%。\n『終結スキル』発動後、儀玄は「凝神」状態に入る。「凝神」状態にある時、会心ダメージ+40%、継続時間15秒。"
+        ],
+        "ExtraProperty": {
+          "111": {
+            "Target": 123,
+            "Value": 1000
+          },
+          "121": {
+            "Target": 123,
+            "Value": 3000
+          }
+        },
+        "Potential": []
+      },
+      "1371504": {
+        "Level": 4,
+        "Id": 1371504,
+        "Name": [
+          "コアパッシブ：術法の第一人者",
+          "追加能力：玄墨の暗流"
+        ],
+        "Desc": [
+          "儀玄は自身の最大HPに応じて追加で透徹力をアップさせる。最大HP1Ptにつき、透徹力+0.1Pt。\n儀玄のスキルによる<color=#FE437E>玄墨属性ダメージ</color>は全て透徹ダメージとみなされ、敵の防御力を無視するほか、透徹力を基にスキルダメージを計算する。\n儀玄が<color=#FE437E>玄墨属性の状態異常蓄積値</color>を蓄積させると、専用の状態異常ゲージが溜まる。状態異常効果発動時、追加でアドレナリンを10Pt回復する。この効果は10秒に1回のみ発動可能。\n儀玄は戦闘開始時、すべてのアドレナリンを回復する。探査モードにおいて、この効果は180秒に1回のみ発動可能。極限回避発動時、追加でアドレナリンを5Pt回復する、この効果は1秒に1回のみ発動可能。\nアドレナリンを消費すると、儀玄の「術法値」が溜まる。消費したアドレナリン1Ptにつき、「術法値」を0.667Pt蓄積する。「術法値」が十分な時、追加で『終結スキル：術法千万』を発動できる。「術法値」の上限は120Pt。\n儀玄の『通常攻撃：玄墨陣法』、『通常攻撃：青溟爆震』、『強化特殊スキル』、『支援突撃』、『連携スキル』、『終結スキル』の与ダメージ+<color=#2BAD00>45%</color>。\n『終結スキル：術法千万』発動後、儀玄は「玄墨値」を1Pt獲得する。儀玄は「玄墨値」を1Pt消費して『通常攻撃：玄墨陣法』を発動できる。",
+          "チームに<color=#FFFFFF>[撃破]</color>、<color=#FFFFFF>[支援]</color>または<color=#FFFFFF>[防護]</color>のメンバーがいる時に発動：\n他のメンバーが終結スキルを発動すると、儀玄は持続的にアドレナリンを2Pt回復する、継続時間10秒。儀玄が『極限支援』で控えに交代された際、自動で追加の落雷を発生させ、儀玄の透徹力225%分のダメージを与え、さらにアドレナリンを5Pt回復する。\n『強化特殊スキル：凝雲の術』と『強化特殊スキル：墨散影消』がブレイク状態の敵に命中した時、与えるダメージ+30%。\n『終結スキル』発動後、儀玄は「凝神」状態に入る。「凝神」状態にある時、会心ダメージ+40%、継続時間15秒。"
+        ],
+        "ExtraProperty": {
+          "111": {
+            "Target": 123,
+            "Value": 1000
+          },
+          "121": {
+            "Target": 123,
+            "Value": 3000
+          }
+        },
+        "Potential": []
+      },
+      "1371505": {
+        "Level": 5,
+        "Id": 1371505,
+        "Name": [
+          "コアパッシブ：術法の第一人者",
+          "追加能力：玄墨の暗流"
+        ],
+        "Desc": [
+          "儀玄は自身の最大HPに応じて追加で透徹力をアップさせる。最大HP1Ptにつき、透徹力+0.1Pt。\n儀玄のスキルによる<color=#FE437E>玄墨属性ダメージ</color>は全て透徹ダメージとみなされ、敵の防御力を無視するほか、透徹力を基にスキルダメージを計算する。\n儀玄が<color=#FE437E>玄墨属性の状態異常蓄積値</color>を蓄積させると、専用の状態異常ゲージが溜まる。状態異常効果発動時、追加でアドレナリンを10Pt回復する。この効果は10秒に1回のみ発動可能。\n儀玄は戦闘開始時、すべてのアドレナリンを回復する。探査モードにおいて、この効果は180秒に1回のみ発動可能。極限回避発動時、追加でアドレナリンを5Pt回復する、この効果は1秒に1回のみ発動可能。\nアドレナリンを消費すると、儀玄の「術法値」が溜まる。消費したアドレナリン1Ptにつき、「術法値」を0.667Pt蓄積する。「術法値」が十分な時、追加で『終結スキル：術法千万』を発動できる。「術法値」の上限は120Pt。\n儀玄の『通常攻撃：玄墨陣法』、『通常攻撃：青溟爆震』、『強化特殊スキル』、『支援突撃』、『連携スキル』、『終結スキル』の与ダメージ+<color=#2BAD00>50%</color>。\n『終結スキル：術法千万』発動後、儀玄は「玄墨値」を1Pt獲得する。儀玄は「玄墨値」を1Pt消費して『通常攻撃：玄墨陣法』を発動できる。",
+          "チームに<color=#FFFFFF>[撃破]</color>、<color=#FFFFFF>[支援]</color>または<color=#FFFFFF>[防護]</color>のメンバーがいる時に発動：\n他のメンバーが終結スキルを発動すると、儀玄は持続的にアドレナリンを2Pt回復する、継続時間10秒。儀玄が『極限支援』で控えに交代された際、自動で追加の落雷を発生させ、儀玄の透徹力225%分のダメージを与え、さらにアドレナリンを5Pt回復する。\n『強化特殊スキル：凝雲の術』と『強化特殊スキル：墨散影消』がブレイク状態の敵に命中した時、与えるダメージ+30%。\n『終結スキル』発動後、儀玄は「凝神」状態に入る。「凝神」状態にある時、会心ダメージ+40%、継続時間15秒。"
+        ],
+        "ExtraProperty": {
+          "111": {
+            "Target": 123,
+            "Value": 1000
+          },
+          "121": {
+            "Target": 123,
+            "Value": 3000
+          }
+        },
+        "Potential": []
+      },
+      "1371506": {
+        "Level": 6,
+        "Id": 1371506,
+        "Name": [
+          "コアパッシブ：術法の第一人者",
+          "追加能力：玄墨の暗流"
+        ],
+        "Desc": [
+          "儀玄は自身の最大HPに応じて追加で透徹力をアップさせる。最大HP1Ptにつき、透徹力+0.1Pt。\n儀玄のスキルによる<color=#FE437E>玄墨属性ダメージ</color>は全て透徹ダメージとみなされ、敵の防御力を無視するほか、透徹力を基にスキルダメージを計算する。\n儀玄が<color=#FE437E>玄墨属性の状態異常蓄積値</color>を蓄積させると、専用の状態異常ゲージが溜まる。状態異常効果発動時、追加でアドレナリンを10Pt回復する。この効果は10秒に1回のみ発動可能。\n儀玄は戦闘開始時、すべてのアドレナリンを回復する。探査モードにおいて、この効果は180秒に1回のみ発動可能。極限回避発動時、追加でアドレナリンを5Pt回復する、この効果は1秒に1回のみ発動可能。\nアドレナリンを消費すると、儀玄の「術法値」が溜まる。消費したアドレナリン1Ptにつき、「術法値」を0.667Pt蓄積する。「術法値」が十分な時、追加で『終結スキル：術法千万』を発動できる。「術法値」の上限は120Pt。\n儀玄の『通常攻撃：玄墨陣法』、『通常攻撃：青溟爆震』、『強化特殊スキル』、『支援突撃』、『連携スキル』、『終結スキル』の与ダメージ+<color=#2BAD00>55%</color>。\n『終結スキル：術法千万』発動後、儀玄は「玄墨値」を1Pt獲得する。儀玄は「玄墨値」を1Pt消費して『通常攻撃：玄墨陣法』を発動できる。",
+          "チームに<color=#FFFFFF>[撃破]</color>、<color=#FFFFFF>[支援]</color>または<color=#FFFFFF>[防護]</color>のメンバーがいる時に発動：\n他のメンバーが終結スキルを発動すると、儀玄は持続的にアドレナリンを2Pt回復する、継続時間10秒。儀玄が『極限支援』で控えに交代された際、自動で追加の落雷を発生させ、儀玄の透徹力225%分のダメージを与え、さらにアドレナリンを5Pt回復する。\n『強化特殊スキル：凝雲の術』と『強化特殊スキル：墨散影消』がブレイク状態の敵に命中した時、与えるダメージ+30%。\n『終結スキル』発動後、儀玄は「凝神」状態に入る。「凝神」状態にある時、会心ダメージ+40%、継続時間15秒。"
+        ],
+        "ExtraProperty": {
+          "111": {
+            "Target": 123,
+            "Value": 1000
+          },
+          "121": {
+            "Target": 123,
+            "Value": 3000
+          }
+        },
+        "Potential": []
+      },
+      "1371507": {
+        "Level": 7,
+        "Id": 1371507,
+        "Name": [
+          "コアパッシブ：術法の第一人者",
+          "追加能力：玄墨の暗流"
+        ],
+        "Desc": [
+          "儀玄は自身の最大HPに応じて追加で透徹力をアップさせる。最大HP1Ptにつき、透徹力+0.1Pt。\n儀玄のスキルによる<color=#FE437E>玄墨属性ダメージ</color>は全て透徹ダメージとみなされ、敵の防御力を無視するほか、透徹力を基にスキルダメージを計算する。\n儀玄が<color=#FE437E>玄墨属性の状態異常蓄積値</color>を蓄積させると、専用の状態異常ゲージが溜まる。状態異常効果発動時、追加でアドレナリンを10Pt回復する。この効果は10秒に1回のみ発動可能。\n儀玄は戦闘開始時、すべてのアドレナリンを回復する。探査モードにおいて、この効果は180秒に1回のみ発動可能。極限回避発動時、追加でアドレナリンを5Pt回復する、この効果は1秒に1回のみ発動可能。\nアドレナリンを消費すると、儀玄の「術法値」が溜まる。消費したアドレナリン1Ptにつき、「術法値」を0.667Pt蓄積する。「術法値」が十分な時、追加で『終結スキル：術法千万』を発動できる。「術法値」の上限は120Pt。\n儀玄の『通常攻撃：玄墨陣法』、『通常攻撃：青溟爆震』、『強化特殊スキル』、『支援突撃』、『連携スキル』、『終結スキル』の与ダメージ+<color=#2BAD00>60%</color>。\n『終結スキル：術法千万』発動後、儀玄は「玄墨値」を1Pt獲得する。儀玄は「玄墨値」を1Pt消費して『通常攻撃：玄墨陣法』を発動できる。",
+          "チームに<color=#FFFFFF>[撃破]</color>、<color=#FFFFFF>[支援]</color>または<color=#FFFFFF>[防護]</color>のメンバーがいる時に発動：\n他のメンバーが終結スキルを発動すると、儀玄は持続的にアドレナリンを2Pt回復する、継続時間10秒。儀玄が『極限支援』で控えに交代された際、自動で追加の落雷を発生させ、儀玄の透徹力225%分のダメージを与え、さらにアドレナリンを5Pt回復する。\n『強化特殊スキル：凝雲の術』と『強化特殊スキル：墨散影消』がブレイク状態の敵に命中した時、与えるダメージ+30%。\n『終結スキル』発動後、儀玄は「凝神」状態に入る。「凝神」状態にある時、会心ダメージ+40%、継続時間15秒。"
+        ],
+        "ExtraProperty": {
+          "111": {
+            "Target": 123,
+            "Value": 1000
+          },
+          "121": {
+            "Target": 123,
+            "Value": 3000
+          }
+        },
+        "Potential": []
+      }
+    },
+    "Materials": {
+      "1": {
+        "10": 5000
+      },
+      "2": {
+        "10": 12000,
+        "110510": 2
+      },
+      "3": {
+        "10": 28000,
+        "110510": 4
+      },
+      "4": {
+        "10": 60000,
+        "110006": 2,
+        "110510": 9
+      },
+      "5": {
+        "10": 100000,
+        "110006": 3,
+        "110510": 15
+      },
+      "6": {
+        "10": 200000,
+        "110006": 4,
+        "110510": 30
+      }
+    }
+  },
+  "Talent": {
+    "1": {
+      "Level": 1,
+      "Name": "清き道術の心",
+      "Desc": "フィールド入場時、会心率+10%、即座に<color=#FFFFFF>「術法値」</color>を120Pt獲得する。探査モードにおいて、この効果は180秒に1回のみ発動可能。任意のメンバーの攻撃が敵に命中した時、儀玄は追加の落雷を自動で1回発生させ、儀玄の透徹力50%分のダメージを与え、さらにアドレナリンを5Pt回復する。追加の落雷は6秒に1回のみ発動可能。",
+      "Desc2": "「運命というやつはいつだって移ろい、道は定まらない。\n変わらずにいられるのは、泰然とした心のみ…世界がどうなろうと、\n後悔のない選択をしろ」\n「術法は数多とあれど、その本質はどれも変わらん。\n道が険しくとも、志だけは変わらないように…」\n「どんな危機にあろうと、手強い敵だろうと…臨機応変に、平常心でいけ」"
+    },
+    "2": {
+      "Level": 2,
+      "Name": "災いを滅し魔を払う",
+      "Desc": "<color=#FFFFFF>『終結スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>でダメージを与えた時、ターゲットの<color=#FE437E>エーテル属性ダメージ耐性</color>を15%無視する。<color=#FFFFFF>『終結スキル：青溟雲影』</color>発動時、ブレイク状態にある全ての敵のブレイク継続時間が3秒延長される。敵は1回のブレイク中、この効果を1回しか受けられず、同じ効果は重ね掛け不可。また、<color=#FFFFFF>『終結スキル：術法千万』</color>発動時、<color=#FFFFFF>「墨力」</color>を1重獲得する。<color=#FFFFFF>『通常攻撃：青溟爆震』</color>、<color=#FFFFFF>『強化特殊スキル：墨散影消』</color>発動後に通常攻撃ボタンを短押し、または<color=#FFFFFF>『強化特殊スキル：青溟爆震・破』</color>発動後に特殊スキルボタンを短押しすると、<color=#FFFFFF>「墨力」</color>を1重消費して、<color=#FFFFFF>『強化特殊スキル：術法千万・破』</color>を発動し、最大で透徹力1200%分のダメージを与える。<color=#FFFFFF>「墨力」</color>は最大1重まで所持可能。",
+      "Desc2": "「この世はなんとも予測がつかん。占いができたとて、\n垣間見えるのはほんの少しだ」\n「厄払いやら開運やらは、流れに逆らわない範囲で、\nなるべく利を求めて災いを避けるということに尽きるからな」\n「とはいえ災いを避ける術を知ってるなら、それを敵に向けるのは容易い…\n向こうがまだ知りもしない災厄に遭わせてやろう」"
+    },
+    "3": {
+      "Level": 3,
+      "Name": "陰陽相生",
+      "Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+      "Desc2": "「この世の万物は何もかも相互関係にある。そいつを見極めれば、\nいわゆる陰と陽を調和させ、敵に勝つことができる」\n「簡単なやり方で最大の効果を得る…別に近道ってわけじゃない、\nそれが流れに従った結果というやつだ」"
+    },
+    "4": {
+      "Level": 4,
+      "Name": "道術一如",
+      "Desc": "<color=#FFFFFF>『終結スキル』</color>発動時、<color=#FFFFFF>「静心」</color>を1重獲得する、最大2重まで所持可能。<color=#FFFFFF>「静心」</color>1重につき、次の<color=#FFFFFF>『強化特殊スキル：凝雲の術』</color>および<color=#FFFFFF>『強化特殊スキル：墨散影消』</color>の与ダメージ+30%。",
+      "Desc2": "「百の物事も、元をたどれば始まりは一つということもある。\n術法を学ぶなら形にとらわれず、その意味を理解しろ」\n「さすれば一の技が百の技にもなる。\nこれを術法の道、万変帰一という」"
+    },
+    "5": {
+      "Level": 5,
+      "Name": "流れ行く雲を眺めて",
+      "Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+      "Desc2": "「勤勉に学び、深く考えるのもまあ大事だ。だが\n風の声に耳を澄ませ、雲の動きを静かに眺めることも大事だぞ。\n忘我の境地に至れば、エーテルの扱いなんて自然とうまくなる」\n「そうしていれば、いかなる時も心を乱さず、\nどんな変化にも顔色ひとつ変えずについていけるさ」"
+    },
+    "6": {
+      "Level": 6,
+      "Name": "動と静の調和",
+      "Desc": "<color=#FFFFFF>『終結スキル：青溟雲影』</color>発動後、<color=#FFFFFF>「調和」</color>を1重獲得する。<color=#FFFFFF>「調和」</color>状態にある時、<color=#FFFFFF>「術法値」</color>を消費せずに<color=#FFFFFF>『終結スキル：術法千万』</color>を1回発動可能。<color=#FFFFFF>『終結スキル：術法千万』</color>発動後、<color=#FFFFFF>「調和」</color>状態が終了する。<color=#FFFFFF>「調和」</color>は30秒に1回のみ獲得できる、最大1重まで所持可能。また、<color=#FFFFFF>「凝神」</color>状態にある時、儀玄の透徹ダメージ+20%。",
+      "Desc2": "「静をもって動を制する…洒落じゃないぞ。\n動の中には静があり、静の中にもまた動がある」\n「どうだ？わかったか」\n「…わからなくてもいい、精進していれば悟りは開けるさ。\nそれもまた『動と静の調和』というものだからな」"
+    }
+  },
+  "FairyRecommend": {
+    "Slot4": 33100,
+    "Slot2": 31000,
+    "SlotSub": 32700,
+    "Part4": {
+      "Prop": 20103,
+      "Name": "会心率",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
+    },
+    "Part5": {
+      "Prop": 21103,
+      "Name": "会心ダメージ",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png"
+    },
+    "Part6": {
+      "Prop": 11102,
+      "Name": "HP",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconHpMax.png"
+    },
+    "PartSub": {
+      "Prop": 31903,
+      "Name": "エーテル属性ダメージボーナス",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconDungeonBuffEther.png"
+    }
+  },
+  "Potential": [],
+  "PotentialDetail": {},
+  "Live2D": "UISpine_Yixuan"
+}

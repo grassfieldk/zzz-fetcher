@@ -1,0 +1,2987 @@
+{
+  "Id": 1431,
+  "Name": "葉瞬光",
+  "CodeName": "Ye Shunguang",
+  "Rarity": 4,
+  "WeaponType": "強攻",
+  "ElementType": "物理",
+  "SpecialElementType": "凛刃",
+  "HitType": "斬撃",
+  "Camp": "雲嶽山",
+  "Stats": {
+    "Armor": 0,
+    "ArmorGrowth": 0,
+    "Attack": 135,
+    "AttackGrowth": 82578,
+    "AvatarPieceId": 5431,
+    "BreakStun": 83,
+    "Crit": 500,
+    "CritDamage": 5000,
+    "CritDmgRes": 0,
+    "CritRes": 0,
+    "Defence": 49,
+    "DefenceGrowth": 66203,
+    "ElementAbnormalPower": 94,
+    "ElementMystery": 93,
+    "Endurance": 0,
+    "HpGrowth": 837238,
+    "HpMax": 617,
+    "PenDelta": 0,
+    "PenRate": 0,
+    "Rbl": 1,
+    "RblCorrectionFactor": 10000,
+    "RblProbability": 0,
+    "Shield": 0,
+    "ShieldGrowth": 0,
+    "SpBarPoint": 120,
+    "SpRecover": 120,
+    "Stun": 0,
+    "RpMax": 0,
+    "RpRecover": 0
+  },
+  "Level": {
+    "1": {
+      "HpMax": 0,
+      "Attack": 0,
+      "Defence": 0,
+      "LevelMax": 10,
+      "LevelMin": 0,
+      "Materials": {
+        "10": 24000,
+        "100211": 4
+      }
+    },
+    "2": {
+      "HpMax": 423,
+      "Attack": 48,
+      "Defence": 33,
+      "LevelMax": 20,
+      "LevelMin": 10,
+      "Materials": {
+        "10": 56000,
+        "100221": 12
+      }
+    },
+    "3": {
+      "HpMax": 847,
+      "Attack": 96,
+      "Defence": 67,
+      "LevelMax": 30,
+      "LevelMin": 20,
+      "Materials": {
+        "10": 120000,
+        "100221": 20
+      }
+    },
+    "4": {
+      "HpMax": 1270,
+      "Attack": 145,
+      "Defence": 100,
+      "LevelMax": 40,
+      "LevelMin": 30,
+      "Materials": {
+        "10": 200000,
+        "100231": 10
+      }
+    },
+    "5": {
+      "HpMax": 1694,
+      "Attack": 193,
+      "Defence": 134,
+      "LevelMax": 50,
+      "LevelMin": 40,
+      "Materials": {
+        "10": 400000,
+        "100231": 20
+      }
+    },
+    "6": {
+      "HpMax": 2117,
+      "Attack": 241,
+      "Defence": 167,
+      "LevelMax": 60,
+      "LevelMin": 50,
+      "Materials": {}
+    }
+  },
+  "ExtraLevel": {
+    "1": {
+      "MaxLevel": 15,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "基礎攻撃力",
+          "Format": "{0:0.#}",
+          "Value": 0
+        },
+        "20101": {
+          "Prop": 20101,
+          "Name": "会心率",
+          "Format": "{0:0.#%}",
+          "Value": 480
+        }
+      }
+    },
+    "2": {
+      "MaxLevel": 25,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "基礎攻撃力",
+          "Format": "{0:0.#}",
+          "Value": 25
+        },
+        "20101": {
+          "Prop": 20101,
+          "Name": "会心率",
+          "Format": "{0:0.#%}",
+          "Value": 480
+        }
+      }
+    },
+    "3": {
+      "MaxLevel": 35,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "基礎攻撃力",
+          "Format": "{0:0.#}",
+          "Value": 25
+        },
+        "20101": {
+          "Prop": 20101,
+          "Name": "会心率",
+          "Format": "{0:0.#%}",
+          "Value": 960
+        }
+      }
+    },
+    "4": {
+      "MaxLevel": 45,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "基礎攻撃力",
+          "Format": "{0:0.#}",
+          "Value": 50
+        },
+        "20101": {
+          "Prop": 20101,
+          "Name": "会心率",
+          "Format": "{0:0.#%}",
+          "Value": 960
+        }
+      }
+    },
+    "5": {
+      "MaxLevel": 55,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "基礎攻撃力",
+          "Format": "{0:0.#}",
+          "Value": 50
+        },
+        "20101": {
+          "Prop": 20101,
+          "Name": "会心率",
+          "Format": "{0:0.#%}",
+          "Value": 1440
+        }
+      }
+    },
+    "6": {
+      "MaxLevel": 60,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "基礎攻撃力",
+          "Format": "{0:0.#}",
+          "Value": 75
+        },
+        "20101": {
+          "Prop": 20101,
+          "Name": "会心率",
+          "Format": "{0:0.#%}",
+          "Value": 1440
+        }
+      }
+    }
+  },
+  "LevelEXP": [
+    50,
+    150,
+    250,
+    400,
+    600,
+    800,
+    1000,
+    1250,
+    1500,
+    1800,
+    1935,
+    2065,
+    2200,
+    2335,
+    2465,
+    2600,
+    2735,
+    2865,
+    3000,
+    4680,
+    4975,
+    5265,
+    5560,
+    5855,
+    6145,
+    6440,
+    6735,
+    7025,
+    7320,
+    10800,
+    11400,
+    12000,
+    12600,
+    13200,
+    13800,
+    14400,
+    15000,
+    15600,
+    16200,
+    17100,
+    18300,
+    19500,
+    20700,
+    21900,
+    23100,
+    24300,
+    25500,
+    26700,
+    27900,
+    34200,
+    36600,
+    39000,
+    41400,
+    43800,
+    46200,
+    48600,
+    51000,
+    53400,
+    55800,
+    0
+  ],
+  "Skill": {
+    "Basic": {
+      "Description": [
+        {
+          "Name": "通常攻撃：<ruby=そっけん>速剣</ruby>",
+          "Desc": " <IconMap:Icon_Normal> を押して発動：\n前方に最大4段の斬撃を繰り出し、<color=#F0D12B>物理属性ダメージ</color>を与える。\n4段目発動後、そのまま<color=#FFFFFF>『ダッシュ攻撃：流影』</color>に繋げることが可能。",
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：流雲の剣意",
+          "Desc": " <IconMap:Icon_Normal> を長押しして発動：\n素早く複数の剣気を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。長押しで攻撃を延長できる。\nスキル発動中、中断耐性レベルがアップする。",
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：<ruby=ちょうしんきょう>澄心境</ruby>・<ruby=はろう>破浪</ruby>",
+          "Desc": "<color=#FFFFFF>「澄心境」</color>状態中、かつ地面にいる時、 <IconMap:Icon_Normal> を押して発動：\n前方に最大3段の斬撃を繰り出し、<color=#F0D12B>物理属性ダメージ</color>を与える。\n3段目発動時に敵の攻撃を受けるとガード効果が発動し、そのダメージを無効化する。\n<color=#FFFFFF>「青溟剣勢」</color>を所持している場合、3段目の攻撃は<color=#FFFFFF>『通常攻撃：澄心境・昇舞』</color>に変わる。",
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：澄心境・<ruby=しょうぶ>昇舞</ruby>",
+          "Desc": "<color=#FFFFFF>「澄心境」</color>状態中、かつ<color=#FFFFFF>「青溟剣勢」</color>を所持している時、<color=#FFFFFF>『通常攻撃：澄心境・破浪』</color>2段目の後に <IconMap:Icon_Normal> を押して発動：\n素早く打ち上げ攻撃を繰り出し、敵に<color=#F0D12B>物理属性ダメージ</color>を与え、空中状態に入る。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：澄心境・光刃斬・極",
+          "Desc": "<color=#FFFFFF>『通常攻撃：澄心境・光刃斬・滅』</color>発動後、<color=#FFFFFF>「青溟剣勢」</color>を所持している時に <IconMap:Icon_Normal> を押して発動：\n前方に広範囲の斬撃を繰り出し、<color=#F0D12B>物理属性ダメージ</color>を大量に与える。敵に命中すると<color=#FFFFFF>「青溟剣勢」</color>を1Pt消費する。\nスキル発動時に敵の攻撃を受けるとガード効果が発動し、そのダメージを無効化して、スキル中断レベルがアップする。\nスキル発動後、<color=#FFFFFF>「青溟剣勢」</color>を所持している場合、 <IconMap:Icon_SpecialReady> を押すことで<color=#FFFFFF>「青溟剣勢」</color>を1Pt消費し、<color=#FFFFFF>『強化特殊スキル：澄心境・飛光』</color>を1段発動できる。発動後は自動で<color=#FFFFFF>『通常攻撃：澄心境・昇舞』</color>に繋げ、空中状態に入る。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：澄心境・<ruby=こうじんざん>光刃斬</ruby>",
+          "Desc": "<color=#FFFFFF>「澄心境」</color>状態中、かつ空中にいる時、 <IconMap:Icon_Normal> を押して発動：\n斜め下へ最大2段の斬撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\n発動中、<color=#FFFFFF>「澄心境」</color>状態は解除されない。\n <IconMap:Icon_SpecialReady> または <IconMap:Icon_Evade> を押すと、そのまま<color=#FFFFFF>『通常攻撃：澄心境・光刃斬・滅』</color>を発動できる。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：澄心境・光刃斬・滅",
+          "Desc": "<color=#FFFFFF>『通常攻撃：澄心境・光刃斬』</color>2段目発動後、 <IconMap:Icon_Normal> を押して発動：\n斜め下へ落下攻撃を放った後に地面状態に入り、<color=#F0D12B>物理属性ダメージ</color>を与える。\n発動時に<color=#FFFFFF>「青溟剣勢」</color>を2Pt以上所持している場合、斜め下へ広範囲の落下攻撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を大量に与える。敵に命中した時、<color=#FFFFFF>「青溟剣勢」</color>を2Pt消費し、<color=#FFFFFF>「圧巻」</color>効果を獲得する。スキル発動後、<color=#FFFFFF>「青溟剣勢」</color>を所持している場合、 <IconMap:Icon_SpecialReady> を押すことで<color=#FFFFFF>「青溟剣勢」</color>を1Pt消費し、<color=#FFFFFF>『強化特殊スキル：澄心境・飛光』</color>を1段発動できる。発動後は<color=#FFFFFF>『通常攻撃：澄心境・光刃斬・極』</color>に素早く繋げることが可能。\n発動中、<color=#FFFFFF>「澄心境」</color>状態は解除されない。\nスキル発動時に敵の攻撃を受けるとガード効果が発動し、そのダメージを無効化する。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "圧巻",
+          "Desc": "<color=#FFFFFF>『強化特殊スキル：澄心境・飛光』</color>発動中、<color=#FFFFFF>「青溟剣勢」</color>を消費する時に<color=#FFFFFF>「圧巻」</color>効果を所持している場合、<color=#FFFFFF>「青溟剣勢」</color>の代わりに<color=#FFFFFF>「圧巻」</color>効果を消費する。この効果は重ね掛け不可、今回の<color=#FFFFFF>「澄心境」</color>状態終了時まで継続する。",
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：<ruby=そっけん>速剣</ruby>",
+          "Param": [
+            {
+              "Name": "1段ダメージ倍率",
+              "Desc": "{Skill:1431001, Prop:1001}",
+              "Param": {
+                "1431001": {
+                  "Main": 7940,
+                  "Growth": 730,
+                  "Format": "%",
+                  "DamagePercentage": 7940,
+                  "DamagePercentageGrowth": 730,
+                  "StunRatio": 2650,
+                  "StunRatioGrowth": 130,
+                  "SpRecovery": 17340,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 106150,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    1397
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4817
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "2段ダメージ倍率",
+              "Desc": "{Skill:1431002, Prop:1001}",
+              "Param": {
+                "1431002": {
+                  "Main": 24410,
+                  "Growth": 2220,
+                  "Format": "%",
+                  "DamagePercentage": 24410,
+                  "DamagePercentageGrowth": 2220,
+                  "StunRatio": 7750,
+                  "StunRatioGrowth": 360,
+                  "SpRecovery": 50700,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 309925,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    3374
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 14084
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "3段ダメージ倍率",
+              "Desc": "{Skill:1431003, Prop:1001}",
+              "Param": {
+                "1431003": {
+                  "Main": 12460,
+                  "Growth": 1140,
+                  "Format": "%",
+                  "DamagePercentage": 12460,
+                  "DamagePercentageGrowth": 1140,
+                  "StunRatio": 3540,
+                  "StunRatioGrowth": 170,
+                  "SpRecovery": 23150,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 141625,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    1246
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 6431
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "4段ダメージ倍率",
+              "Desc": "{Skill:1431005, Prop:1001}",
+              "Param": {
+                "1431005": {
+                  "Main": 36800,
+                  "Growth": 3350,
+                  "Format": "%",
+                  "DamagePercentage": 36800,
+                  "DamagePercentageGrowth": 3350,
+                  "StunRatio": 10730,
+                  "StunRatioGrowth": 490,
+                  "SpRecovery": 70190,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 429000,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    3996
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 19497
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "1段ブレイク倍率",
+              "Desc": "{Skill:1431001, Prop:1002}",
+              "Param": {
+                "1431001": {
+                  "Main": 2650,
+                  "Growth": 130,
+                  "Format": "%",
+                  "DamagePercentage": 7940,
+                  "DamagePercentageGrowth": 730,
+                  "StunRatio": 2650,
+                  "StunRatioGrowth": 130,
+                  "SpRecovery": 17340,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 106150,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    1397
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4817
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "2段ブレイク倍率",
+              "Desc": "{Skill:1431002, Prop:1002}",
+              "Param": {
+                "1431002": {
+                  "Main": 7750,
+                  "Growth": 360,
+                  "Format": "%",
+                  "DamagePercentage": 24410,
+                  "DamagePercentageGrowth": 2220,
+                  "StunRatio": 7750,
+                  "StunRatioGrowth": 360,
+                  "SpRecovery": 50700,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 309925,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    3374
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 14084
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "3段ブレイク倍率",
+              "Desc": "{Skill:1431003, Prop:1002}",
+              "Param": {
+                "1431003": {
+                  "Main": 3540,
+                  "Growth": 170,
+                  "Format": "%",
+                  "DamagePercentage": 12460,
+                  "DamagePercentageGrowth": 1140,
+                  "StunRatio": 3540,
+                  "StunRatioGrowth": 170,
+                  "SpRecovery": 23150,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 141625,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    1246
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 6431
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "4段ブレイク倍率",
+              "Desc": "{Skill:1431005, Prop:1002}",
+              "Param": {
+                "1431005": {
+                  "Main": 10730,
+                  "Growth": 490,
+                  "Format": "%",
+                  "DamagePercentage": 36800,
+                  "DamagePercentageGrowth": 3350,
+                  "StunRatio": 10730,
+                  "StunRatioGrowth": 490,
+                  "SpRecovery": 70190,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 429000,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    3996
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 19497
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：流雲の剣意",
+          "Param": [
+            {
+              "Name": "剣気ごとのダメージ倍率",
+              "Desc": "{{Skill:1431004, Prop:1001}/7}",
+              "Param": {
+                "1431004": {
+                  "Main": 11670,
+                  "Growth": 1070,
+                  "Format": "%",
+                  "DamagePercentage": 11670,
+                  "DamagePercentageGrowth": 1070,
+                  "StunRatio": 3670,
+                  "StunRatioGrowth": 170,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 91850,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    917
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4166
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "剣気ごとのブレイク倍率",
+              "Desc": "{{Skill:1431004, Prop:1002}/7}",
+              "Param": {
+                "1431004": {
+                  "Main": 3670,
+                  "Growth": 170,
+                  "Format": "%",
+                  "DamagePercentage": 11670,
+                  "DamagePercentageGrowth": 1070,
+                  "StunRatio": 3670,
+                  "StunRatioGrowth": 170,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 91850,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    917
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4166
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：<ruby=ちょうしんきょう>澄心境</ruby>・<ruby=はろう>破浪</ruby>",
+          "Param": [
+            {
+              "Name": "1段ダメージ倍率",
+              "Desc": "{Skill:1431006, Prop:1001}",
+              "Param": {
+                "1431006": {
+                  "Main": 11260,
+                  "Growth": 1030,
+                  "Format": "%",
+                  "DamagePercentage": 11260,
+                  "DamagePercentageGrowth": 1030,
+                  "StunRatio": 3580,
+                  "StunRatioGrowth": 170,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 143000,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 6500,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 6500
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "2段ダメージ倍率",
+              "Desc": "{Skill:1431007, Prop:1001}",
+              "Param": {
+                "1431007": {
+                  "Main": 15590,
+                  "Growth": 1420,
+                  "Format": "%",
+                  "DamagePercentage": 15590,
+                  "DamagePercentageGrowth": 1420,
+                  "StunRatio": 4950,
+                  "StunRatioGrowth": 230,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 198000,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 9000,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 9000
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "3段ダメージ倍率",
+              "Desc": "{Skill:1431008, Prop:1001}",
+              "Param": {
+                "1431008": {
+                  "Main": 21660,
+                  "Growth": 1970,
+                  "Format": "%",
+                  "DamagePercentage": 21660,
+                  "DamagePercentageGrowth": 1970,
+                  "StunRatio": 6880,
+                  "StunRatioGrowth": 320,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 275275,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 12500,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 12501
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "1段ブレイク倍率",
+              "Desc": "{Skill:1431006, Prop:1002}",
+              "Param": {
+                "1431006": {
+                  "Main": 3580,
+                  "Growth": 170,
+                  "Format": "%",
+                  "DamagePercentage": 11260,
+                  "DamagePercentageGrowth": 1030,
+                  "StunRatio": 3580,
+                  "StunRatioGrowth": 170,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 143000,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 6500,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 6500
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "2段ブレイク倍率",
+              "Desc": "{Skill:1431007, Prop:1002}",
+              "Param": {
+                "1431007": {
+                  "Main": 4950,
+                  "Growth": 230,
+                  "Format": "%",
+                  "DamagePercentage": 15590,
+                  "DamagePercentageGrowth": 1420,
+                  "StunRatio": 4950,
+                  "StunRatioGrowth": 230,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 198000,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 9000,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 9000
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "3段ブレイク倍率",
+              "Desc": "{Skill:1431008, Prop:1002}",
+              "Param": {
+                "1431008": {
+                  "Main": 6880,
+                  "Growth": 320,
+                  "Format": "%",
+                  "DamagePercentage": 21660,
+                  "DamagePercentageGrowth": 1970,
+                  "StunRatio": 6880,
+                  "StunRatioGrowth": 320,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 275275,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 12500,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 12501
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：澄心境・<ruby=しょうぶ>昇舞</ruby>",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1431017, Prop:1001}",
+              "Param": {
+                "1431017": {
+                  "Main": 9100,
+                  "Growth": 830,
+                  "Format": "%",
+                  "DamagePercentage": 9100,
+                  "DamagePercentageGrowth": 830,
+                  "StunRatio": 3580,
+                  "StunRatioGrowth": 170,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 71500,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 3250,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3250
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1431017, Prop:1002}",
+              "Param": {
+                "1431017": {
+                  "Main": 3580,
+                  "Growth": 170,
+                  "Format": "%",
+                  "DamagePercentage": 9100,
+                  "DamagePercentageGrowth": 830,
+                  "StunRatio": 3580,
+                  "StunRatioGrowth": 170,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 71500,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 3250,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3250
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：澄心境・光刃斬・極",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1431009, Prop:1001}",
+              "Param": {
+                "1431009": {
+                  "Main": 60480,
+                  "Growth": 5500,
+                  "Format": "%",
+                  "DamagePercentage": 60480,
+                  "DamagePercentageGrowth": 5500,
+                  "StunRatio": 7700,
+                  "StunRatioGrowth": 350,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 308000,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 14000,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 14000
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1431009, Prop:1002}",
+              "Param": {
+                "1431009": {
+                  "Main": 7700,
+                  "Growth": 350,
+                  "Format": "%",
+                  "DamagePercentage": 60480,
+                  "DamagePercentageGrowth": 5500,
+                  "StunRatio": 7700,
+                  "StunRatioGrowth": 350,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 308000,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 14000,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 14000
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：澄心境・<ruby=こうじんざん>光刃斬</ruby>",
+          "Param": [
+            {
+              "Name": "1段ダメージ倍率",
+              "Desc": "{Skill:1431010, Prop:1001}",
+              "Param": {
+                "1431010": {
+                  "Main": 12070,
+                  "Growth": 1100,
+                  "Format": "%",
+                  "DamagePercentage": 12070,
+                  "DamagePercentageGrowth": 1100,
+                  "StunRatio": 3400,
+                  "StunRatioGrowth": 160,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 135850,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 6166,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 6167
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "2段ダメージ倍率",
+              "Desc": "{Skill:1431011, Prop:1001}",
+              "Param": {
+                "1431011": {
+                  "Main": 15650,
+                  "Growth": 1430,
+                  "Format": "%",
+                  "DamagePercentage": 15650,
+                  "DamagePercentageGrowth": 1430,
+                  "StunRatio": 4400,
+                  "StunRatioGrowth": 200,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 176000,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 8000,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 8000
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "1段ブレイク倍率",
+              "Desc": "{Skill:1431010, Prop:1002}",
+              "Param": {
+                "1431010": {
+                  "Main": 3400,
+                  "Growth": 160,
+                  "Format": "%",
+                  "DamagePercentage": 12070,
+                  "DamagePercentageGrowth": 1100,
+                  "StunRatio": 3400,
+                  "StunRatioGrowth": 160,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 135850,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 6166,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 6167
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "2段ブレイク倍率",
+              "Desc": "{Skill:1431011, Prop:1002}",
+              "Param": {
+                "1431011": {
+                  "Main": 4400,
+                  "Growth": 200,
+                  "Format": "%",
+                  "DamagePercentage": 15650,
+                  "DamagePercentageGrowth": 1430,
+                  "StunRatio": 4400,
+                  "StunRatioGrowth": 200,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 176000,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 8000,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 8000
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：澄心境・光刃斬・滅",
+          "Param": [
+            {
+              "Name": "「青溟剣勢」所持時のダメージ倍率",
+              "Desc": "{Skill:1431013, Prop:1001}",
+              "Param": {
+                "1431013": {
+                  "Main": 89120,
+                  "Growth": 8110,
+                  "Format": "%",
+                  "DamagePercentage": 89120,
+                  "DamagePercentageGrowth": 8110,
+                  "StunRatio": 5780,
+                  "StunRatioGrowth": 270,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 231275,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 10503,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 15000
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "「青溟剣勢」所持時のブレイク倍率",
+              "Desc": "{Skill:1431013, Prop:1002}",
+              "Param": {
+                "1431013": {
+                  "Main": 5780,
+                  "Growth": 270,
+                  "Format": "%",
+                  "DamagePercentage": 89120,
+                  "DamagePercentageGrowth": 8110,
+                  "StunRatio": 5780,
+                  "StunRatioGrowth": 270,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 231275,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 10503,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 15000
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "「青溟剣勢」未所持のダメージ倍率",
+              "Desc": "{Skill:1431012, Prop:1001}",
+              "Param": {
+                "1431012": {
+                  "Main": 15990,
+                  "Growth": 1460,
+                  "Format": "%",
+                  "DamagePercentage": 15990,
+                  "DamagePercentageGrowth": 1460,
+                  "StunRatio": 4500,
+                  "StunRatioGrowth": 210,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 179850,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 8169,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 8170
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "「青溟剣勢」未所持のブレイク倍率",
+              "Desc": "{Skill:1431012, Prop:1002}",
+              "Param": {
+                "1431012": {
+                  "Main": 4500,
+                  "Growth": 210,
+                  "Format": "%",
+                  "DamagePercentage": 15990,
+                  "DamagePercentageGrowth": 1460,
+                  "StunRatio": 4500,
+                  "StunRatioGrowth": 210,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 179850,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 8169,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 8170
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": {
+          "10": 2000,
+          "100110": 2
+        },
+        "2": {
+          "10": 3000,
+          "100110": 3
+        },
+        "3": {
+          "10": 6000,
+          "100120": 2
+        },
+        "4": {
+          "10": 9000,
+          "100120": 3
+        },
+        "5": {
+          "10": 12000,
+          "100120": 4
+        },
+        "6": {
+          "10": 18000,
+          "100120": 6
+        },
+        "7": {
+          "10": 45000,
+          "100130": 5
+        },
+        "8": {
+          "10": 67500,
+          "100130": 8
+        },
+        "9": {
+          "10": 90000,
+          "100130": 10
+        },
+        "10": {
+          "10": 112500,
+          "100130": 12
+        },
+        "11": {
+          "10": 135000,
+          "100130": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "Dodge": {
+      "Description": [
+        {
+          "Name": "回避：無痕",
+          "Desc": " <IconMap:Icon_Evade> を押して発動：\nダッシュで高速回避する。\nスキル発動中、無敵効果を得る。\n<color=#FFFFFF>「澄心境」</color>状態中、<color=#FFFFFF>『極限回避』</color>が発動した時、 <IconMap:Icon_Normal> を押すと<color=#FFFFFF>『通常攻撃：澄心境・昇舞』</color>を発動できる。",
+          "Potential": []
+        },
+        {
+          "Name": "回避：<ruby=しょうよううんせき>逍遥雲跡</ruby>",
+          "Desc": "方向を入力しながら <IconMap:Icon_Evade> を長押しして発動：\n高速移動状態に入り、{LAYOUT_KEYBOARD#方向キー}{LAYOUT_CONSOLECONTROLLER#スティック}{LAYOUT_FALLBACK#スティック}で方向を制御できる。{LAYOUT_KEYBOARD#方向キー}{LAYOUT_CONSOLECONTROLLER#スティック}{LAYOUT_FALLBACK#スティック}を離すと止まる。",
+          "Potential": []
+        },
+        {
+          "Name": "ダッシュ攻撃：<ruby=りゅうえい>流影</ruby>",
+          "Desc": "回避時に <IconMap:Icon_Normal> を押して発動：\n前方に斬撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。",
+          "Potential": []
+        },
+        {
+          "Name": "回避反撃：<ruby=えんしゅう>燕襲</ruby>",
+          "Desc": "<color=#FFFFFF>『極限回避』</color>後に <IconMap:Icon_Normal> を押して発動：\n跳び上がって前方に一突きを放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "ダッシュ攻撃：<ruby=りゅうえい>流影</ruby>",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1431020, Prop:1001}",
+              "Param": {
+                "1431020": {
+                  "Main": 10500,
+                  "Growth": 960,
+                  "Format": "%",
+                  "DamagePercentage": 10500,
+                  "DamagePercentageGrowth": 960,
+                  "StunRatio": 2070,
+                  "StunRatioGrowth": 100,
+                  "SpRecovery": 13500,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 82500,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    825
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3750
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1431020, Prop:1002}",
+              "Param": {
+                "1431020": {
+                  "Main": 2070,
+                  "Growth": 100,
+                  "Format": "%",
+                  "DamagePercentage": 10500,
+                  "DamagePercentageGrowth": 960,
+                  "StunRatio": 2070,
+                  "StunRatioGrowth": 100,
+                  "SpRecovery": 13500,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 82500,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    825
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3750
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "回避反撃：<ruby=えんしゅう>燕襲</ruby>",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1431022, Prop:1001}",
+              "Param": {
+                "1431022": {
+                  "Main": 34630,
+                  "Growth": 3150,
+                  "Format": "%",
+                  "DamagePercentage": 34630,
+                  "DamagePercentageGrowth": 3150,
+                  "StunRatio": 11740,
+                  "StunRatioGrowth": 540,
+                  "SpRecovery": 40800,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 249425,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    2494
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 26334
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1431022, Prop:1002}",
+              "Param": {
+                "1431022": {
+                  "Main": 11740,
+                  "Growth": 540,
+                  "Format": "%",
+                  "DamagePercentage": 34630,
+                  "DamagePercentageGrowth": 3150,
+                  "StunRatio": 11740,
+                  "StunRatioGrowth": 540,
+                  "SpRecovery": 40800,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 249425,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    2494
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 26334
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": {
+          "10": 2000,
+          "100110": 2
+        },
+        "2": {
+          "10": 3000,
+          "100110": 3
+        },
+        "3": {
+          "10": 6000,
+          "100120": 2
+        },
+        "4": {
+          "10": 9000,
+          "100120": 3
+        },
+        "5": {
+          "10": 12000,
+          "100120": 4
+        },
+        "6": {
+          "10": 18000,
+          "100120": 6
+        },
+        "7": {
+          "10": 45000,
+          "100130": 5
+        },
+        "8": {
+          "10": 67500,
+          "100130": 8
+        },
+        "9": {
+          "10": 90000,
+          "100130": 10
+        },
+        "10": {
+          "10": 112500,
+          "100130": 12
+        },
+        "11": {
+          "10": 135000,
+          "100130": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "Special": {
+      "Description": [
+        {
+          "Name": "特殊スキル：滄海を招き",
+          "Desc": " <IconMap:Icon_Special> を押して発動：\n回避回数を所持している場合、回避回数を1回消費し、同時に<color=#FFFFFF>[回避]</color>を発動したとみなされる。\n回避回数を所持していない、または<color=#FFFFFF>『極限回避』</color>が発動しなかった場合、敵に素早い剣気攻撃を仕掛け、<color=#F0D12B>物理属性ダメージ</color>を与える。\n<color=#FFFFFF>『極限回避』</color>が発動した場合、敵に飛剣攻撃を仕掛け、<color=#F0D12B>物理属性ダメージ</color>を与え、そのまま<color=#FFFFFF>『通常攻撃：速剣』</color>の2段目に繋げることが可能。\nスキル発動中、わずかの間無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "強化特殊スキル：薙ぎて凪ぐ",
+          "Desc": "エネルギーが十分な時、 <IconMap:Icon_SpecialReady> を押して発動：\n敵に向かって突進斬撃と飛剣攻撃を繰り出し、<color=#F0D12B>物理属性ダメージ</color>を大量に与える。\n発動時、敵の攻撃を回避できる。\n発動後、<color=#FFFFFF>「青溟剣勢」</color>を1Pt獲得する。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "特殊スキル：澄心境・去れど跡を濁さず",
+          "Desc": "<color=#FFFFFF>「澄心境」</color>状態中、かつ地面にいる時、 <IconMap:Icon_SpecialReady> を押して発動：\n素早い後退斬撃を繰り出し、<color=#F0D12B>物理属性ダメージ</color>を与える。\n回避回数を所持している場合、回避回数を1回消費し、同時に<color=#FFFFFF>「回避」</color>を発動したとみなされる。\nこの時に<color=#FFFFFF>『極限回避』</color>が発動した場合、 <IconMap:Icon_Normal> を押すことで素早く<color=#FFFFFF>『通常攻撃：澄心境・光刃斬・極』</color>を発動し、<color=#FFFFFF>「極限視界」</color>に入ることができる。\nさらに、この<color=#FFFFFF>『通常攻撃：澄心境・光刃斬・極』</color>を発動した後、そのまま<color=#FFFFFF>『通常攻撃：澄心境・昇舞』</color>に繋げることが可能。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "強化特殊スキル：澄心境・飛光",
+          "Desc": "<color=#FFFFFF>「澄心境」</color>状態中、<color=#FFFFFF>「青溟剣勢」</color>を所持している時に <IconMap:Icon_SpecialReady> を長押しして発動：\n<color=#FFFFFF>「青溟剣勢」</color>を継続的に消費して高速斬撃を繰り出し、<color=#F0D12B>物理属性ダメージ</color>を大量に与える。<color=#FFFFFF>「青溟剣勢」</color>が尽きるとスキルは終了する。\n<color=#FFFFFF>「青溟剣勢」</color>が不足、または <IconMap:Icon_SpecialReady> を離した時、スキルはその時点で終了する。\n発動中、<color=#FFFFFF>「澄心境」</color>状態は解除されない。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "強化特殊スキル：澄心境・回燼",
+          "Desc": "<color=#FFFFFF>「澄心境」</color>状態中、 <IconMap:Icon_UltimateReady> を短押し、または<color=#FFFFFF>「青溟剣勢」</color>が尽きた時に <IconMap:Icon_SpecialReady> を長押しして発動：\n広範囲の敵に<color=#F0D12B>物理属性ダメージ</color>を大量に与える。\n発動中、<color=#FFFFFF>「澄心境」</color>状態は解除されない。\nスキル発動後、<color=#FFFFFF>「エーテルベール・決裁」</color>が終了し、<color=#FFFFFF>「澄心境」</color>状態が解除される。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "特殊スキル：滄海を招き",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1431014, Prop:1001}",
+              "Param": {
+                "1431014": {
+                  "Main": 9890,
+                  "Growth": 900,
+                  "Format": "%",
+                  "DamagePercentage": 9890,
+                  "DamagePercentageGrowth": 900,
+                  "StunRatio": 2430,
+                  "StunRatioGrowth": 120,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 97350,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    0
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4415
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1431014, Prop:1002}",
+              "Param": {
+                "1431014": {
+                  "Main": 2430,
+                  "Growth": 120,
+                  "Format": "%",
+                  "DamagePercentage": 9890,
+                  "DamagePercentageGrowth": 900,
+                  "StunRatio": 2430,
+                  "StunRatioGrowth": 120,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 97350,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    0
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4415
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "極限回避発動時のダメージ倍率",
+              "Desc": "{Skill:1431015, Prop:1001}",
+              "Param": {
+                "1431015": {
+                  "Main": 31590,
+                  "Growth": 2880,
+                  "Format": "%",
+                  "DamagePercentage": 31590,
+                  "DamagePercentageGrowth": 2880,
+                  "StunRatio": 13210,
+                  "StunRatioGrowth": 610,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 308275,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    6081
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 29001
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "極限回避発動時のブレイク倍率",
+              "Desc": "{Skill:1431015, Prop:1002}",
+              "Param": {
+                "1431015": {
+                  "Main": 13210,
+                  "Growth": 610,
+                  "Format": "%",
+                  "DamagePercentage": 31590,
+                  "DamagePercentageGrowth": 2880,
+                  "StunRatio": 13210,
+                  "StunRatioGrowth": 610,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 308275,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    6081
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 29001
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "強化特殊スキル：薙ぎて凪ぐ",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1431016, Prop:1001}",
+              "Param": {
+                "1431016": {
+                  "Main": 117840,
+                  "Growth": 10720,
+                  "Format": "%",
+                  "DamagePercentage": 117840,
+                  "DamagePercentageGrowth": 10720,
+                  "StunRatio": 34010,
+                  "StunRatioGrowth": 1550,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 1851850,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    0
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 28334
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1431016, Prop:1002}",
+              "Param": {
+                "1431016": {
+                  "Main": 34010,
+                  "Growth": 1550,
+                  "Format": "%",
+                  "DamagePercentage": 117840,
+                  "DamagePercentageGrowth": 10720,
+                  "StunRatio": 34010,
+                  "StunRatioGrowth": 1550,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 1851850,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    0
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 28334
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "エネルギー消費",
+              "Desc": "60",
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "特殊スキル：澄心境・去れど跡を濁さず",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1431021, Prop:1001}",
+              "Param": {
+                "1431021": {
+                  "Main": 7100,
+                  "Growth": 650,
+                  "Format": "%",
+                  "DamagePercentage": 7100,
+                  "DamagePercentageGrowth": 650,
+                  "StunRatio": 1750,
+                  "StunRatioGrowth": 80,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 69850,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 3166,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3167
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1431021, Prop:1002}",
+              "Param": {
+                "1431021": {
+                  "Main": 1750,
+                  "Growth": 80,
+                  "Format": "%",
+                  "DamagePercentage": 7100,
+                  "DamagePercentageGrowth": 650,
+                  "StunRatio": 1750,
+                  "StunRatioGrowth": 80,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 69850,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 3166,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3167
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "強化特殊スキル：澄心境・飛光",
+          "Param": [
+            {
+              "Name": "青溟剣勢を1Pt消費した際のダメージ倍率",
+              "Desc": "{{Skill:1431018, Prop:1001}/6}",
+              "Param": {
+                "1431018": {
+                  "Main": 105800,
+                  "Growth": 9620,
+                  "Format": "%",
+                  "DamagePercentage": 105800,
+                  "DamagePercentageGrowth": 9620,
+                  "StunRatio": 10820,
+                  "StunRatioGrowth": 500,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 432850,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 19666,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 19667
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "青溟剣勢を1Pt消費した際のブレイク倍率",
+              "Desc": "{{Skill:1431018, Prop:1002}/6}",
+              "Param": {
+                "1431018": {
+                  "Main": 10820,
+                  "Growth": 500,
+                  "Format": "%",
+                  "DamagePercentage": 105800,
+                  "DamagePercentageGrowth": 9620,
+                  "StunRatio": 10820,
+                  "StunRatioGrowth": 500,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 432850,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 19666,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 19667
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "青溟剣勢を6Pt消費した際のダメージ倍率",
+              "Desc": "{Skill:1431018, Prop:1001}",
+              "Param": {
+                "1431018": {
+                  "Main": 105800,
+                  "Growth": 9620,
+                  "Format": "%",
+                  "DamagePercentage": 105800,
+                  "DamagePercentageGrowth": 9620,
+                  "StunRatio": 10820,
+                  "StunRatioGrowth": 500,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 432850,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 19666,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 19667
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "青溟剣勢を6Pt消費した際のブレイク倍率",
+              "Desc": "{Skill:1431018, Prop:1002}",
+              "Param": {
+                "1431018": {
+                  "Main": 10820,
+                  "Growth": 500,
+                  "Format": "%",
+                  "DamagePercentage": 105800,
+                  "DamagePercentageGrowth": 9620,
+                  "StunRatio": 10820,
+                  "StunRatioGrowth": 500,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 432850,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 19666,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 19667
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "強化特殊スキル：澄心境・回燼",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1431019, Prop:1001}",
+              "Param": {
+                "1431019": {
+                  "Main": 116110,
+                  "Growth": 10560,
+                  "Format": "%",
+                  "DamagePercentage": 116110,
+                  "DamagePercentageGrowth": 10560,
+                  "StunRatio": 13940,
+                  "StunRatioGrowth": 640,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 557425,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 25333,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 25334
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1431019, Prop:1002}",
+              "Param": {
+                "1431019": {
+                  "Main": 13940,
+                  "Growth": 640,
+                  "Format": "%",
+                  "DamagePercentage": 116110,
+                  "DamagePercentageGrowth": 10560,
+                  "StunRatio": 13940,
+                  "StunRatioGrowth": 640,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 557425,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 25333,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 25334
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": {
+          "10": 2000,
+          "100110": 2
+        },
+        "2": {
+          "10": 3000,
+          "100110": 3
+        },
+        "3": {
+          "10": 6000,
+          "100120": 2
+        },
+        "4": {
+          "10": 9000,
+          "100120": 3
+        },
+        "5": {
+          "10": 12000,
+          "100120": 4
+        },
+        "6": {
+          "10": 18000,
+          "100120": 6
+        },
+        "7": {
+          "10": 45000,
+          "100130": 5
+        },
+        "8": {
+          "10": 67500,
+          "100130": 8
+        },
+        "9": {
+          "10": 90000,
+          "100130": 10
+        },
+        "10": {
+          "10": 112500,
+          "100130": 12
+        },
+        "11": {
+          "10": 135000,
+          "100130": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "Chain": {
+      "Description": [
+        {
+          "Name": "連携スキル：邪祟斬り",
+          "Desc": "<color=#FFFFFF>『連携スキル』</color>開始時に、対応するエージェントを選択して発動：\n前方広範囲の敵に強力な斬撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を大量に与える。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "終結スキル：雲雷よ慄け",
+          "Desc": "デシベルレートが<color=#FFFFFF>『Maximum』</color>に達した時に <IconMap:Icon_UltimateReady> を押して発動：\n剣の陣を召喚し、<color=#FFFFFF>「澄心境」</color>状態に入り、<color=#FFFFFF>「エーテルベール・決裁」</color>を展開し、<color=#FFFFFF>「青溟剣勢」</color>を6Pt獲得する。敵に<color=#F0D12B>物理属性ダメージ</color>を大量に与える。\nスキル発動時、デシベル値を消費した場合、今回の<color=#FFFFFF>「澄心境」</color>状態中に <IconMap:Icon_UltimateReady> を押すことで、デシベル値を消費せず<color=#FFFFFF>『終結スキル：慧剣よ天を開け』</color>を発動できる。\nスキル発動後、空中状態に入る。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "連携スキル：澄心境・<ruby=きょうらいげき>驚雷撃</ruby>",
+          "Desc": "<color=#FFFFFF>「澄心境」</color>状態中、<color=#FFFFFF>『連携スキル』</color>開始時に、対応するエージェントを選択して発動：\n前方広範囲の敵に強力な斬撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を大量に与える。\n発動中、<color=#FFFFFF>「澄心境」</color>状態は解除されない。\nスキル発動後、空中状態に入る。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "終結スキル：慧剣よ天を開け",
+          "Desc": "デシベル値を消費して<color=#FFFFFF>『終結スキル：雲雷よ慄け』</color>を発動した後、<color=#FFFFFF>「澄心境」</color>状態中、 <IconMap:Icon_UltimateReady> を短押し、または<color=#FFFFFF>「青溟剣勢」</color>をすべて消費した後に <IconMap:Icon_SpecialReady> を長押しして発動：\n巨大な剣を召喚し、敵に<color=#F0D12B>物理属性ダメージ</color>を大量に与える。\n発動中、<color=#FFFFFF>「澄心境」</color>状態は解除されない。\nスキル発動後、<color=#FFFFFF>「澄心境」</color>状態は解除され、<color=#FFFFFF>「エーテルベール・決裁」</color>が終了する。\nこのスキルはデシベル値を消費しない。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "連携スキル：邪祟斬り",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1431024, Prop:1001}",
+              "Param": {
+                "1431024": {
+                  "Main": 87160,
+                  "Growth": 7930,
+                  "Format": "%",
+                  "DamagePercentage": 87160,
+                  "DamagePercentageGrowth": 7930,
+                  "StunRatio": 18150,
+                  "StunRatioGrowth": 830,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 2189000,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    2541
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 32997
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1431024, Prop:1002}",
+              "Param": {
+                "1431024": {
+                  "Main": 18150,
+                  "Growth": 830,
+                  "Format": "%",
+                  "DamagePercentage": 87160,
+                  "DamagePercentageGrowth": 7930,
+                  "StunRatio": 18150,
+                  "StunRatioGrowth": 830,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 2189000,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    2541
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 32997
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "終結スキル：雲雷よ慄け",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1431025, Prop:1001}",
+              "Param": {
+                "1431025": {
+                  "Main": 192500,
+                  "Growth": 17500,
+                  "Format": "%",
+                  "DamagePercentage": 192500,
+                  "DamagePercentageGrowth": 17500,
+                  "StunRatio": 5500,
+                  "StunRatioGrowth": 250,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 10000,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 60000
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1431025, Prop:1002}",
+              "Param": {
+                "1431025": {
+                  "Main": 5500,
+                  "Growth": 250,
+                  "Format": "%",
+                  "DamagePercentage": 192500,
+                  "DamagePercentageGrowth": 17500,
+                  "StunRatio": 5500,
+                  "StunRatioGrowth": 250,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 10000,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 60000
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "連携スキル：澄心境・<ruby=きょうらいげき>驚雷撃</ruby>",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1431026, Prop:1001}",
+              "Param": {
+                "1431026": {
+                  "Main": 90860,
+                  "Growth": 8260,
+                  "Format": "%",
+                  "DamagePercentage": 90860,
+                  "DamagePercentageGrowth": 8260,
+                  "StunRatio": 13750,
+                  "StunRatioGrowth": 630,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 2013000,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 44950,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 25000
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1431026, Prop:1002}",
+              "Param": {
+                "1431026": {
+                  "Main": 13750,
+                  "Growth": 630,
+                  "Format": "%",
+                  "DamagePercentage": 90860,
+                  "DamagePercentageGrowth": 8260,
+                  "StunRatio": 13750,
+                  "StunRatioGrowth": 630,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 2013000,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 44950,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 25000
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "終結スキル：慧剣よ天を開け",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1431027, Prop:1001}",
+              "Param": {
+                "1431027": {
+                  "Main": 308430,
+                  "Growth": 28040,
+                  "Format": "%",
+                  "DamagePercentage": 308430,
+                  "DamagePercentageGrowth": 28040,
+                  "StunRatio": 15130,
+                  "StunRatioGrowth": 690,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 27500,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 27500
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1431027, Prop:1002}",
+              "Param": {
+                "1431027": {
+                  "Main": 15130,
+                  "Growth": 690,
+                  "Format": "%",
+                  "DamagePercentage": 308430,
+                  "DamagePercentageGrowth": 28040,
+                  "StunRatio": 15130,
+                  "StunRatioGrowth": 690,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 27500,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 27500
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": {
+          "10": 2000,
+          "100110": 2
+        },
+        "2": {
+          "10": 3000,
+          "100110": 3
+        },
+        "3": {
+          "10": 6000,
+          "100120": 2
+        },
+        "4": {
+          "10": 9000,
+          "100120": 3
+        },
+        "5": {
+          "10": 12000,
+          "100120": 4
+        },
+        "6": {
+          "10": 18000,
+          "100120": 6
+        },
+        "7": {
+          "10": 45000,
+          "100130": 5
+        },
+        "8": {
+          "10": 67500,
+          "100130": 8
+        },
+        "9": {
+          "10": 90000,
+          "100130": 10
+        },
+        "10": {
+          "10": 112500,
+          "100130": 12
+        },
+        "11": {
+          "10": 135000,
+          "100130": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "Assist": {
+      "Description": [
+        {
+          "Name": "入場スキル：<ruby=きょうえい>鏡影</ruby>",
+          "Desc": "<color=#FFFFFF>「青溟剣勢」</color>を6Pt所持している、かつ<color=#FFFFFF>「澄心境」</color>状態でない時に、 <IconMap:Icon_Normal> を長押し、または接敵状態で <IconMap:Icon_Switch> を短押しして控えから出場させると発動：\n<color=#FFFFFF>「澄心境」</color>状態に入り、<color=#FFFFFF>「エーテルベール・決裁」</color>を展開する。\n前方広範囲の敵に<color=#F0D12B>物理属性ダメージ</color>を与える。\nスキル発動時、<color=#FFFFFF>『クイック支援』</color>を発動したとみなされる。\nスキル発動後、空中状態に入る。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "クイック支援：<ruby=えんしゅ>援守</ruby>",
+          "Desc": "操作しているメンバーが吹き飛ばされた時に、 <IconMap:Icon_Switch> を押して発動：\n跳び上がって前方に一突きを放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "支援突撃：<ruby=しか>止戈</ruby>",
+          "Desc": "<color=#FFFFFF>『パリィ支援』</color>発動後、 <IconMap:Icon_Normal> を押して発動：\n<color=#F0D12B>物理属性ダメージ</color>を大量に与える。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "パリィ支援：<ruby=ききょ>帰去</ruby>",
+          "Desc": "出場中のメンバーが攻撃されそうになった時に、 <IconMap:Icon_Switch> を押して発動：\n敵の攻撃をパリィし、ブレイク値を大量に蓄積させる。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "クイック支援：澄心境・<ruby=さくおう>策応</ruby>",
+          "Desc": "<color=#FFFFFF>「澄心境」</color>状態中、操作しているメンバーが吹き飛ばされた時に、 <IconMap:Icon_Switch> を押して発動：\n前方に斬撃を1回放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "支援突撃：澄心境・<ruby=しゅいつ>守一</ruby>",
+          "Desc": "<color=#FFFFFF>「澄心境」</color>状態中、<color=#FFFFFF>『パリィ支援』</color>発動後、 <IconMap:Icon_Normal> を押して発動：\n<color=#F0D12B>物理属性ダメージ</color>を大量に与える。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "入場スキル：<ruby=きょうえい>鏡影</ruby>",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1431028, Prop:1001}",
+              "Param": {
+                "1431028": {
+                  "Main": 40040,
+                  "Growth": 3640,
+                  "Format": "%",
+                  "DamagePercentage": 40040,
+                  "DamagePercentageGrowth": 3640,
+                  "StunRatio": 12100,
+                  "StunRatioGrowth": 550,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 484000,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 22000,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 22000
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1431028, Prop:1002}",
+              "Param": {
+                "1431028": {
+                  "Main": 12100,
+                  "Growth": 550,
+                  "Format": "%",
+                  "DamagePercentage": 40040,
+                  "DamagePercentageGrowth": 3640,
+                  "StunRatio": 12100,
+                  "StunRatioGrowth": 550,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 484000,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 22000,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 22000
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "クイック支援：<ruby=えんしゅ>援守</ruby>",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1431029, Prop:1001}",
+              "Param": {
+                "1431029": {
+                  "Main": 8050,
+                  "Growth": 740,
+                  "Format": "%",
+                  "DamagePercentage": 8050,
+                  "DamagePercentageGrowth": 740,
+                  "StunRatio": 3170,
+                  "StunRatioGrowth": 150,
+                  "SpRecovery": 20700,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 126500,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    0
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 5750
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1431029, Prop:1002}",
+              "Param": {
+                "1431029": {
+                  "Main": 3170,
+                  "Growth": 150,
+                  "Format": "%",
+                  "DamagePercentage": 8050,
+                  "DamagePercentageGrowth": 740,
+                  "StunRatio": 3170,
+                  "StunRatioGrowth": 150,
+                  "SpRecovery": 20700,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 126500,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    0
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 5750
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "支援突撃：<ruby=しか>止戈</ruby>",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1431033, Prop:1001}",
+              "Param": {
+                "1431033": {
+                  "Main": 41370,
+                  "Growth": 3770,
+                  "Format": "%",
+                  "DamagePercentage": 41370,
+                  "DamagePercentageGrowth": 3770,
+                  "StunRatio": 14000,
+                  "StunRatioGrowth": 640,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 740300,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    0
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 13167
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1431033, Prop:1002}",
+              "Param": {
+                "1431033": {
+                  "Main": 14000,
+                  "Growth": 640,
+                  "Format": "%",
+                  "DamagePercentage": 41370,
+                  "DamagePercentageGrowth": 3770,
+                  "StunRatio": 14000,
+                  "StunRatioGrowth": 640,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 740300,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    0
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 13167
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "パリィ支援：<ruby=ききょ>帰去</ruby>",
+          "Param": [
+            {
+              "Name": "パリィ・軽 ブレイク倍率",
+              "Desc": "{Skill:1431030, Prop:1002}",
+              "Param": {
+                "1431030": {
+                  "Main": 19530,
+                  "Growth": 890,
+                  "Format": "%",
+                  "DamagePercentage": 0,
+                  "DamagePercentageGrowth": 0,
+                  "StunRatio": 19530,
+                  "StunRatioGrowth": 890,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 45004
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "パリィ・重 ブレイク倍率",
+              "Desc": "{Skill:1431031, Prop:1002}",
+              "Param": {
+                "1431031": {
+                  "Main": 20720,
+                  "Growth": 950,
+                  "Format": "%",
+                  "DamagePercentage": 0,
+                  "DamagePercentageGrowth": 0,
+                  "StunRatio": 20720,
+                  "StunRatioGrowth": 950,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 46664
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "パリィ・連続 ブレイク倍率",
+              "Desc": "{Skill:1431032, Prop:1002}",
+              "Param": {
+                "1431032": {
+                  "Main": 11920,
+                  "Growth": 550,
+                  "Format": "%",
+                  "DamagePercentage": 0,
+                  "DamagePercentageGrowth": 0,
+                  "StunRatio": 11920,
+                  "StunRatioGrowth": 550,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 16664
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "クイック支援：澄心境・<ruby=さくおう>策応</ruby>",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1431035, Prop:1001}",
+              "Param": {
+                "1431035": {
+                  "Main": 6730,
+                  "Growth": 620,
+                  "Format": "%",
+                  "DamagePercentage": 6730,
+                  "DamagePercentageGrowth": 620,
+                  "StunRatio": 3310,
+                  "StunRatioGrowth": 160,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 132275,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 6000,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    0
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 6001
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1431035, Prop:1002}",
+              "Param": {
+                "1431035": {
+                  "Main": 3310,
+                  "Growth": 160,
+                  "Format": "%",
+                  "DamagePercentage": 6730,
+                  "DamagePercentageGrowth": 620,
+                  "StunRatio": 3310,
+                  "StunRatioGrowth": 160,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 132275,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 6000,
+                  "SpConsume": 0,
+                  "AttackData": [
+                    0
+                  ],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 6001
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "支援突撃：澄心境・<ruby=しゅいつ>守一</ruby>",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1431034, Prop:1001}",
+              "Param": {
+                "1431034": {
+                  "Main": 43000,
+                  "Growth": 3910,
+                  "Format": "%",
+                  "DamagePercentage": 43000,
+                  "DamagePercentageGrowth": 3910,
+                  "StunRatio": 14600,
+                  "StunRatioGrowth": 670,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 767800,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 28622,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 14000
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1431034, Prop:1002}",
+              "Param": {
+                "1431034": {
+                  "Main": 14600,
+                  "Growth": 670,
+                  "Format": "%",
+                  "DamagePercentage": 43000,
+                  "DamagePercentageGrowth": 3910,
+                  "StunRatio": 14600,
+                  "StunRatioGrowth": 670,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 767800,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 28622,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 14000
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": {
+          "10": 2000,
+          "100110": 2
+        },
+        "2": {
+          "10": 3000,
+          "100110": 3
+        },
+        "3": {
+          "10": 6000,
+          "100120": 2
+        },
+        "4": {
+          "10": 9000,
+          "100120": 3
+        },
+        "5": {
+          "10": 12000,
+          "100120": 4
+        },
+        "6": {
+          "10": 18000,
+          "100120": 6
+        },
+        "7": {
+          "10": 45000,
+          "100130": 5
+        },
+        "8": {
+          "10": 67500,
+          "100130": 8
+        },
+        "9": {
+          "10": 90000,
+          "100130": 10
+        },
+        "10": {
+          "10": 112500,
+          "100130": 12
+        },
+        "11": {
+          "10": 135000,
+          "100130": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    }
+  },
+  "SkillList": {
+    "1431001": {
+      "Name": "通常攻撃：速剣",
+      "Desc": "<IconMap:Icon_Normal>",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1431002": {
+      "Name": "通常攻撃：流雲の剣意",
+      "Desc": "<IconMap:Icon_Normal>（長押し）",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1431003": {
+      "Name": "通常攻撃：澄心境・破浪",
+      "Desc": "<IconMap:Icon_Normal>（澄心境）",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1431004": {
+      "Name": "通常攻撃：澄心境・昇舞",
+      "Desc": "<IconMap:Icon_Normal>;<IconMap:Icon_Normal>;<IconMap:Icon_Normal>（澄心境）（「青溟剣勢」を1Pt以上所持している時）",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1431005": {
+      "Name": "通常攻撃：澄心境・光刃斬",
+      "Desc": "<IconMap:Icon_Normal>（澄心境）（空中）",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1431006": {
+      "Name": "通常攻撃：澄心境・光刃斬・滅",
+      "Desc": "<IconMap:Icon_Normal>;<IconMap:Icon_Normal>;<IconMap:Icon_Normal>（澄心境）（空中）",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1431007": {
+      "Name": "通常攻撃：澄心境・光刃斬・極",
+      "Desc": "<IconMap:Icon_Normal>（「通常攻撃：澄心境・光刃斬・滅」発動後）（「青溟剣勢」を1Pt以上所持している時）",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1431008": {
+      "Name": "特殊スキル：滄海を招き",
+      "Desc": "<IconMap:Icon_Special>",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1431009": {
+      "Name": "強化特殊スキル：薙ぎて凪ぐ",
+      "Desc": "<IconMap:Icon_SpecialReady>",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1431010": {
+      "Name": "特殊スキル：澄心境・去れど跡を濁さず",
+      "Desc": "<IconMap:Icon_SpecialReady>（澄心境）",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1431011": {
+      "Name": "強化特殊スキル：澄心境・飛光",
+      "Desc": "<IconMap:Icon_SpecialReady>（長押し）（「青溟剣勢」を1Pt以上所持している時）",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1431012": {
+      "Name": "強化特殊スキル：澄心境・回燼",
+      "Desc": "<IconMap:Icon_SpecialReady>（「青溟剣勢」消費時）（長押し）",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1431013": {
+      "Name": "回避反撃：燕襲",
+      "Desc": "<IconMap:Icon_Evade>（極限回避成功） ; <IconMap:Icon_Normal>",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1431014": {
+      "Name": "ダッシュ攻撃：流影",
+      "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1431015": {
+      "Name": "連携スキル：邪祟斬り",
+      "Desc": "<IconMap:Icon_QTE>",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1431016": {
+      "Name": "連携スキル：澄心境・驚雷撃",
+      "Desc": "<IconMap:Icon_QTE>（澄心境）",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1431017": {
+      "Name": "終結スキル：雲雷よ慄け",
+      "Desc": "<IconMap:Icon_UltimateReady>",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1431018": {
+      "Name": "終結スキル：慧剣よ天を開け",
+      "Desc": "<IconMap:Icon_UltimateReady>（澄心境）",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1431019": {
+      "Name": "入場スキル：鏡影",
+      "Desc": "<IconMap:Icon_Normal>（長押し）（「青溟剣勢」満タン時）",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1431020": {
+      "Name": "クイック支援：援守",
+      "Desc": "<IconMap:Icon_Switch>（クイック支援の発動条件を満たした時）",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1431021": {
+      "Name": "クイック支援：澄心境・策応",
+      "Desc": "<IconMap:Icon_Switch>（澄心境）（クイック支援の発動条件を満たした時）",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1431022": {
+      "Name": "パリィ支援：帰去",
+      "Desc": "<IconMap:Icon_Switch>（パリィ支援の発動条件を満たした時）",
+      "ElementType": 0,
+      "HitType": 0,
+      "Potential": []
+    },
+    "1431023": {
+      "Name": "支援突撃：止戈",
+      "Desc": "<IconMap:Icon_Normal>（パリィ支援を発動した後に）",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1431024": {
+      "Name": "支援突撃：澄心境・守一",
+      "Desc": "<IconMap:Icon_Normal>（澄心境）（パリィ支援を発動した後に）",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    }
+  },
+  "Passive": {
+    "Level": {
+      "1431501": {
+        "Level": 1,
+        "Id": 1431501,
+        "Name": [
+          "コアパッシブ：<ruby=むみょうしょうは>無明照破</ruby>",
+          "追加能力：残影の光"
+        ],
+        "Desc": [
+          "<color=#FFFFFF>「澄心境」</color>状態でない、かつ<color=#FFFFFF>「青溟剣勢」</color>を6Pt所持していない時、一部の攻撃を発動すると<color=#FFFFFF>「青溟剣勢」</color>が徐々に溜まる。任意の方法で<color=#FFFFFF>「青溟剣勢」</color>を獲得した時、上限を超えた<color=#FFFFFF>「青溟剣勢」</color>1Ptにつき、<color=#FFFFFF>「器量」</color>を1重獲得する、最大3重まで重ね掛け可能。<color=#FFFFFF>「澄心境」</color>状態終了時、すべての<color=#FFFFFF>「器量」</color>を消費し、その重数に応じた<color=#FFFFFF>「青溟剣勢」</color>を獲得する。\nフィールド入場時、<color=#FFFFFF>「合一」</color>効果を獲得し、会心率+<color=#2BAD00>15%</color>、与ダメージ+<color=#2BAD00>10%</color>。\n<color=#FFFFFF>『終結スキル：雲雷よ慄け』</color>または<color=#FFFFFF>『入場スキル：鏡影』</color>発動後、葉瞬光は<color=#FFFFFF>「澄心境」</color>状態に入り、<color=#FFFFFF>「エーテルベール・決裁」</color>を展開する。<color=#FFFFFF>「エーテルベール・決裁」</color>と<color=#FFFFFF>「澄心境」</color>の継続時間は同じく16秒、控えにいる時、継続時間は減少しなくなる。<color=#FFFFFF>「澄心境」</color>状態中、葉瞬光はより強力なスキルを使用し、与える<color=#F0D12B>物理属性ダメージ</color>はすべて<color=#F0D12B>凛刃属性ダメージ</color>になる。\n<color=#FFFFFF>「エーテルベール・決裁」</color>継続中、敵が<color=#FFFFFF>「エーテルベール・決裁」</color>に入った時、その時点のブレイク弱体倍率をもとに「ベール弱体効果」を付与される。期間中、葉瞬光のスキルが敵にダメージを与えた時、敵のブレイク弱体倍率の代わりにベール弱体倍率が適用される。ベール弱体倍率の上限は110%。<color=#FFFFFF>「エーテルベール・決裁」</color>が終了すると、ベール弱体効果は解除される。",
+          "チームに<color=#FFFFFF>[支援]</color>または<color=#FFFFFF>[防護]</color>のメンバーがいる時に発動：\n他のメンバーが任意の<color=#FFFFFF>「エーテルベール」</color>を展開した時、<color=#FFFFFF>「青溟剣勢」</color>を3Pt獲得する。すでに<color=#FFFFFF>「澄心境」</color>状態にある場合、<color=#FFFFFF>「青溟剣勢」</color>は3重の<color=#FFFFFF>「器量」</color>に変換される。"
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1431502": {
+        "Level": 2,
+        "Id": 1431502,
+        "Name": [
+          "コアパッシブ：<ruby=むみょうしょうは>無明照破</ruby>",
+          "追加能力：残影の光"
+        ],
+        "Desc": [
+          "<color=#FFFFFF>「澄心境」</color>状態でない、かつ<color=#FFFFFF>「青溟剣勢」</color>を6Pt所持していない時、一部の攻撃を発動すると<color=#FFFFFF>「青溟剣勢」</color>が徐々に溜まる。任意の方法で<color=#FFFFFF>「青溟剣勢」</color>を獲得した時、上限を超えた<color=#FFFFFF>「青溟剣勢」</color>1Ptにつき、<color=#FFFFFF>「器量」</color>を1重獲得する、最大3重まで重ね掛け可能。<color=#FFFFFF>「澄心境」</color>状態終了時、すべての<color=#FFFFFF>「器量」</color>を消費し、その重数に応じた<color=#FFFFFF>「青溟剣勢」</color>を獲得する。\nフィールド入場時、<color=#FFFFFF>「合一」</color>効果を獲得し、会心率+<color=#2BAD00>17.5%</color>、与ダメージ+<color=#2BAD00>12.5%</color>。\n<color=#FFFFFF>『終結スキル：雲雷よ慄け』</color>または<color=#FFFFFF>『入場スキル：鏡影』</color>発動後、葉瞬光は<color=#FFFFFF>「澄心境」</color>状態に入り、<color=#FFFFFF>「エーテルベール・決裁」</color>を展開する。<color=#FFFFFF>「エーテルベール・決裁」</color>と<color=#FFFFFF>「澄心境」</color>の継続時間は同じく16秒、控えにいる時、継続時間は減少しなくなる。<color=#FFFFFF>「澄心境」</color>状態中、葉瞬光はより強力なスキルを使用し、与える<color=#F0D12B>物理属性ダメージ</color>はすべて<color=#F0D12B>凛刃属性ダメージ</color>になる。\n<color=#FFFFFF>「エーテルベール・決裁」</color>継続中、敵が<color=#FFFFFF>「エーテルベール・決裁」</color>に入った時、その時点のブレイク弱体倍率をもとに「ベール弱体効果」を付与される。期間中、葉瞬光のスキルが敵にダメージを与えた時、敵のブレイク弱体倍率の代わりにベール弱体倍率が適用される。ベール弱体倍率の上限は110%。<color=#FFFFFF>「エーテルベール・決裁」</color>が終了すると、ベール弱体効果は解除される。",
+          "チームに<color=#FFFFFF>[支援]</color>または<color=#FFFFFF>[防護]</color>のメンバーがいる時に発動：\n他のメンバーが任意の<color=#FFFFFF>「エーテルベール」</color>を展開した時、<color=#FFFFFF>「青溟剣勢」</color>を3Pt獲得する。すでに<color=#FFFFFF>「澄心境」</color>状態にある場合、<color=#FFFFFF>「青溟剣勢」</color>は3重の<color=#FFFFFF>「器量」</color>に変換される。"
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1431503": {
+        "Level": 3,
+        "Id": 1431503,
+        "Name": [
+          "コアパッシブ：<ruby=むみょうしょうは>無明照破</ruby>",
+          "追加能力：残影の光"
+        ],
+        "Desc": [
+          "<color=#FFFFFF>「澄心境」</color>状態でない、かつ<color=#FFFFFF>「青溟剣勢」</color>を6Pt所持していない時、一部の攻撃を発動すると<color=#FFFFFF>「青溟剣勢」</color>が徐々に溜まる。任意の方法で<color=#FFFFFF>「青溟剣勢」</color>を獲得した時、上限を超えた<color=#FFFFFF>「青溟剣勢」</color>1Ptにつき、<color=#FFFFFF>「器量」</color>を1重獲得する、最大3重まで重ね掛け可能。<color=#FFFFFF>「澄心境」</color>状態終了時、すべての<color=#FFFFFF>「器量」</color>を消費し、その重数に応じた<color=#FFFFFF>「青溟剣勢」</color>を獲得する。\nフィールド入場時、<color=#FFFFFF>「合一」</color>効果を獲得し、会心率+<color=#2BAD00>20%</color>、与ダメージ+<color=#2BAD00>15%</color>。\n<color=#FFFFFF>『終結スキル：雲雷よ慄け』</color>または<color=#FFFFFF>『入場スキル：鏡影』</color>発動後、葉瞬光は<color=#FFFFFF>「澄心境」</color>状態に入り、<color=#FFFFFF>「エーテルベール・決裁」</color>を展開する。<color=#FFFFFF>「エーテルベール・決裁」</color>と<color=#FFFFFF>「澄心境」</color>の継続時間は同じく16秒、控えにいる時、継続時間は減少しなくなる。<color=#FFFFFF>「澄心境」</color>状態中、葉瞬光はより強力なスキルを使用し、与える<color=#F0D12B>物理属性ダメージ</color>はすべて<color=#F0D12B>凛刃属性ダメージ</color>になる。\n<color=#FFFFFF>「エーテルベール・決裁」</color>継続中、敵が<color=#FFFFFF>「エーテルベール・決裁」</color>に入った時、その時点のブレイク弱体倍率をもとに「ベール弱体効果」を付与される。期間中、葉瞬光のスキルが敵にダメージを与えた時、敵のブレイク弱体倍率の代わりにベール弱体倍率が適用される。ベール弱体倍率の上限は110%。<color=#FFFFFF>「エーテルベール・決裁」</color>が終了すると、ベール弱体効果は解除される。",
+          "チームに<color=#FFFFFF>[支援]</color>または<color=#FFFFFF>[防護]</color>のメンバーがいる時に発動：\n他のメンバーが任意の<color=#FFFFFF>「エーテルベール」</color>を展開した時、<color=#FFFFFF>「青溟剣勢」</color>を3Pt獲得する。すでに<color=#FFFFFF>「澄心境」</color>状態にある場合、<color=#FFFFFF>「青溟剣勢」</color>は3重の<color=#FFFFFF>「器量」</color>に変換される。"
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1431504": {
+        "Level": 4,
+        "Id": 1431504,
+        "Name": [
+          "コアパッシブ：<ruby=むみょうしょうは>無明照破</ruby>",
+          "追加能力：残影の光"
+        ],
+        "Desc": [
+          "<color=#FFFFFF>「澄心境」</color>状態でない、かつ<color=#FFFFFF>「青溟剣勢」</color>を6Pt所持していない時、一部の攻撃を発動すると<color=#FFFFFF>「青溟剣勢」</color>が徐々に溜まる。任意の方法で<color=#FFFFFF>「青溟剣勢」</color>を獲得した時、上限を超えた<color=#FFFFFF>「青溟剣勢」</color>1Ptにつき、<color=#FFFFFF>「器量」</color>を1重獲得する、最大3重まで重ね掛け可能。<color=#FFFFFF>「澄心境」</color>状態終了時、すべての<color=#FFFFFF>「器量」</color>を消費し、その重数に応じた<color=#FFFFFF>「青溟剣勢」</color>を獲得する。\nフィールド入場時、<color=#FFFFFF>「合一」</color>効果を獲得し、会心率+<color=#2BAD00>22.5%</color>、与ダメージ+<color=#2BAD00>17.5%</color>。\n<color=#FFFFFF>『終結スキル：雲雷よ慄け』</color>または<color=#FFFFFF>『入場スキル：鏡影』</color>発動後、葉瞬光は<color=#FFFFFF>「澄心境」</color>状態に入り、<color=#FFFFFF>「エーテルベール・決裁」</color>を展開する。<color=#FFFFFF>「エーテルベール・決裁」</color>と<color=#FFFFFF>「澄心境」</color>の継続時間は同じく16秒、控えにいる時、継続時間は減少しなくなる。<color=#FFFFFF>「澄心境」</color>状態中、葉瞬光はより強力なスキルを使用し、与える<color=#F0D12B>物理属性ダメージ</color>はすべて<color=#F0D12B>凛刃属性ダメージ</color>になる。\n<color=#FFFFFF>「エーテルベール・決裁」</color>継続中、敵が<color=#FFFFFF>「エーテルベール・決裁」</color>に入った時、その時点のブレイク弱体倍率をもとに「ベール弱体効果」を付与される。期間中、葉瞬光のスキルが敵にダメージを与えた時、敵のブレイク弱体倍率の代わりにベール弱体倍率が適用される。ベール弱体倍率の上限は110%。<color=#FFFFFF>「エーテルベール・決裁」</color>が終了すると、ベール弱体効果は解除される。",
+          "チームに<color=#FFFFFF>[支援]</color>または<color=#FFFFFF>[防護]</color>のメンバーがいる時に発動：\n他のメンバーが任意の<color=#FFFFFF>「エーテルベール」</color>を展開した時、<color=#FFFFFF>「青溟剣勢」</color>を3Pt獲得する。すでに<color=#FFFFFF>「澄心境」</color>状態にある場合、<color=#FFFFFF>「青溟剣勢」</color>は3重の<color=#FFFFFF>「器量」</color>に変換される。"
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1431505": {
+        "Level": 5,
+        "Id": 1431505,
+        "Name": [
+          "コアパッシブ：<ruby=むみょうしょうは>無明照破</ruby>",
+          "追加能力：残影の光"
+        ],
+        "Desc": [
+          "<color=#FFFFFF>「澄心境」</color>状態でない、かつ<color=#FFFFFF>「青溟剣勢」</color>を6Pt所持していない時、一部の攻撃を発動すると<color=#FFFFFF>「青溟剣勢」</color>が徐々に溜まる。任意の方法で<color=#FFFFFF>「青溟剣勢」</color>を獲得した時、上限を超えた<color=#FFFFFF>「青溟剣勢」</color>1Ptにつき、<color=#FFFFFF>「器量」</color>を1重獲得する、最大3重まで重ね掛け可能。<color=#FFFFFF>「澄心境」</color>状態終了時、すべての<color=#FFFFFF>「器量」</color>を消費し、その重数に応じた<color=#FFFFFF>「青溟剣勢」</color>を獲得する。\nフィールド入場時、<color=#FFFFFF>「合一」</color>効果を獲得し、会心率+<color=#2BAD00>25%</color>、与ダメージ+<color=#2BAD00>20%</color>。\n<color=#FFFFFF>『終結スキル：雲雷よ慄け』</color>または<color=#FFFFFF>『入場スキル：鏡影』</color>発動後、葉瞬光は<color=#FFFFFF>「澄心境」</color>状態に入り、<color=#FFFFFF>「エーテルベール・決裁」</color>を展開する。<color=#FFFFFF>「エーテルベール・決裁」</color>と<color=#FFFFFF>「澄心境」</color>の継続時間は同じく16秒、控えにいる時、継続時間は減少しなくなる。<color=#FFFFFF>「澄心境」</color>状態中、葉瞬光はより強力なスキルを使用し、与える<color=#F0D12B>物理属性ダメージ</color>はすべて<color=#F0D12B>凛刃属性ダメージ</color>になる。\n<color=#FFFFFF>「エーテルベール・決裁」</color>継続中、敵が<color=#FFFFFF>「エーテルベール・決裁」</color>に入った時、その時点のブレイク弱体倍率をもとに「ベール弱体効果」を付与される。期間中、葉瞬光のスキルが敵にダメージを与えた時、敵のブレイク弱体倍率の代わりにベール弱体倍率が適用される。ベール弱体倍率の上限は110%。<color=#FFFFFF>「エーテルベール・決裁」</color>が終了すると、ベール弱体効果は解除される。",
+          "チームに<color=#FFFFFF>[支援]</color>または<color=#FFFFFF>[防護]</color>のメンバーがいる時に発動：\n他のメンバーが任意の<color=#FFFFFF>「エーテルベール」</color>を展開した時、<color=#FFFFFF>「青溟剣勢」</color>を3Pt獲得する。すでに<color=#FFFFFF>「澄心境」</color>状態にある場合、<color=#FFFFFF>「青溟剣勢」</color>は3重の<color=#FFFFFF>「器量」</color>に変換される。"
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1431506": {
+        "Level": 6,
+        "Id": 1431506,
+        "Name": [
+          "コアパッシブ：<ruby=むみょうしょうは>無明照破</ruby>",
+          "追加能力：残影の光"
+        ],
+        "Desc": [
+          "<color=#FFFFFF>「澄心境」</color>状態でない、かつ<color=#FFFFFF>「青溟剣勢」</color>を6Pt所持していない時、一部の攻撃を発動すると<color=#FFFFFF>「青溟剣勢」</color>が徐々に溜まる。任意の方法で<color=#FFFFFF>「青溟剣勢」</color>を獲得した時、上限を超えた<color=#FFFFFF>「青溟剣勢」</color>1Ptにつき、<color=#FFFFFF>「器量」</color>を1重獲得する、最大3重まで重ね掛け可能。<color=#FFFFFF>「澄心境」</color>状態終了時、すべての<color=#FFFFFF>「器量」</color>を消費し、その重数に応じた<color=#FFFFFF>「青溟剣勢」</color>を獲得する。\nフィールド入場時、<color=#FFFFFF>「合一」</color>効果を獲得し、会心率+<color=#2BAD00>27.5%</color>、与ダメージ+<color=#2BAD00>22.5%</color>。\n<color=#FFFFFF>『終結スキル：雲雷よ慄け』</color>または<color=#FFFFFF>『入場スキル：鏡影』</color>発動後、葉瞬光は<color=#FFFFFF>「澄心境」</color>状態に入り、<color=#FFFFFF>「エーテルベール・決裁」</color>を展開する。<color=#FFFFFF>「エーテルベール・決裁」</color>と<color=#FFFFFF>「澄心境」</color>の継続時間は同じく16秒、控えにいる時、継続時間は減少しなくなる。<color=#FFFFFF>「澄心境」</color>状態中、葉瞬光はより強力なスキルを使用し、与える<color=#F0D12B>物理属性ダメージ</color>はすべて<color=#F0D12B>凛刃属性ダメージ</color>になる。\n<color=#FFFFFF>「エーテルベール・決裁」</color>継続中、敵が<color=#FFFFFF>「エーテルベール・決裁」</color>に入った時、その時点のブレイク弱体倍率をもとに「ベール弱体効果」を付与される。期間中、葉瞬光のスキルが敵にダメージを与えた時、敵のブレイク弱体倍率の代わりにベール弱体倍率が適用される。ベール弱体倍率の上限は110%。<color=#FFFFFF>「エーテルベール・決裁」</color>が終了すると、ベール弱体効果は解除される。",
+          "チームに<color=#FFFFFF>[支援]</color>または<color=#FFFFFF>[防護]</color>のメンバーがいる時に発動：\n他のメンバーが任意の<color=#FFFFFF>「エーテルベール」</color>を展開した時、<color=#FFFFFF>「青溟剣勢」</color>を3Pt獲得する。すでに<color=#FFFFFF>「澄心境」</color>状態にある場合、<color=#FFFFFF>「青溟剣勢」</color>は3重の<color=#FFFFFF>「器量」</color>に変換される。"
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1431507": {
+        "Level": 7,
+        "Id": 1431507,
+        "Name": [
+          "コアパッシブ：<ruby=むみょうしょうは>無明照破</ruby>",
+          "追加能力：残影の光"
+        ],
+        "Desc": [
+          "<color=#FFFFFF>「澄心境」</color>状態でない、かつ<color=#FFFFFF>「青溟剣勢」</color>を6Pt所持していない時、一部の攻撃を発動すると<color=#FFFFFF>「青溟剣勢」</color>が徐々に溜まる。任意の方法で<color=#FFFFFF>「青溟剣勢」</color>を獲得した時、上限を超えた<color=#FFFFFF>「青溟剣勢」</color>1Ptにつき、<color=#FFFFFF>「器量」</color>を1重獲得する、最大3重まで重ね掛け可能。<color=#FFFFFF>「澄心境」</color>状態終了時、すべての<color=#FFFFFF>「器量」</color>を消費し、その重数に応じた<color=#FFFFFF>「青溟剣勢」</color>を獲得する。\nフィールド入場時、<color=#FFFFFF>「合一」</color>効果を獲得し、会心率+<color=#2BAD00>30%</color>、与ダメージ+<color=#2BAD00>25%</color>。\n<color=#FFFFFF>『終結スキル：雲雷よ慄け』</color>または<color=#FFFFFF>『入場スキル：鏡影』</color>発動後、葉瞬光は<color=#FFFFFF>「澄心境」</color>状態に入り、<color=#FFFFFF>「エーテルベール・決裁」</color>を展開する。<color=#FFFFFF>「エーテルベール・決裁」</color>と<color=#FFFFFF>「澄心境」</color>の継続時間は同じく16秒、控えにいる時、継続時間は減少しなくなる。<color=#FFFFFF>「澄心境」</color>状態中、葉瞬光はより強力なスキルを使用し、与える<color=#F0D12B>物理属性ダメージ</color>はすべて<color=#F0D12B>凛刃属性ダメージ</color>になる。\n<color=#FFFFFF>「エーテルベール・決裁」</color>継続中、敵が<color=#FFFFFF>「エーテルベール・決裁」</color>に入った時、その時点のブレイク弱体倍率をもとに「ベール弱体効果」を付与される。期間中、葉瞬光のスキルが敵にダメージを与えた時、敵のブレイク弱体倍率の代わりにベール弱体倍率が適用される。ベール弱体倍率の上限は110%。<color=#FFFFFF>「エーテルベール・決裁」</color>が終了すると、ベール弱体効果は解除される。",
+          "チームに<color=#FFFFFF>[支援]</color>または<color=#FFFFFF>[防護]</color>のメンバーがいる時に発動：\n他のメンバーが任意の<color=#FFFFFF>「エーテルベール」</color>を展開した時、<color=#FFFFFF>「青溟剣勢」</color>を3Pt獲得する。すでに<color=#FFFFFF>「澄心境」</color>状態にある場合、<color=#FFFFFF>「青溟剣勢」</color>は3重の<color=#FFFFFF>「器量」</color>に変換される。"
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      }
+    },
+    "Materials": {
+      "1": {
+        "10": 5000
+      },
+      "2": {
+        "10": 12000,
+        "110513": 2
+      },
+      "3": {
+        "10": 28000,
+        "110513": 4
+      },
+      "4": {
+        "10": 60000,
+        "110008": 2,
+        "110513": 9
+      },
+      "5": {
+        "10": 100000,
+        "110008": 3,
+        "110513": 15
+      },
+      "6": {
+        "10": 200000,
+        "110008": 4,
+        "110513": 30
+      }
+    }
+  },
+  "Talent": {
+    "1": {
+      "Level": 1,
+      "Name": "うたかたの夢",
+      "Desc": "フィールド入場時、<color=#FFFFFF>「青溟剣勢」</color>を6Pt獲得する。探査モードにおいて、この効果は180秒に1回のみ発動可能。\n<color=#FFFFFF>『コアパッシブ：無明照破』</color>の<color=#FFFFFF>「合一」</color>効果により、与ダメージがさらに+10%、ターゲットの防御力を20%無視する。",
+      "Desc2": "真夜中の静寂のなか、彼女は幾度となく\nあの日へと引き戻される——\n剣が唸り、主を選び、契約が結ばれた。\nそれは祝福か、それとも呪いか。\n\nその答えを知る者はいない。\nだがあの日を境に、\n彼女の運命は確かにこの剣へと縛られた。"
+    },
+    "2": {
+      "Level": 2,
+      "Name": "光と影",
+      "Desc": "<color=#FFFFFF>「器量」</color>は最大6重まで、<color=#FFFFFF>「圧巻」</color>は最大9重まで重ね掛けできるようになる。<color=#FFFFFF>「澄心境」</color>状態中、<color=#FFFFFF>「青溟剣勢」</color>を1Pt消費するたびに、<color=#FFFFFF>「圧巻」</color>効果を1重獲得する。<color=#FFFFFF>『強化特殊スキル：澄心境・飛光』</color>と<color=#FFFFFF>『終結スキル：慧剣よ天を開け』</color>の与ダメージは、ターゲットの防御力を40%無視する。",
+      "Desc2": "歳月は流れ、季節は巡る。\n彼女にとって世界のすべては、雲嶽山という世界の片隅で\n四季の移ろう山々だけ。\nゆえに果てしない孤独と影のようにつきまとう恐怖の中で、\n「もう一人の自分」は静かに生まれたのだった。\n\n「アタシはこの子の一部。\n今までずっとそうだったし、これからだってそう」\n\n「この子が光なら、アタシは影。\nこの子が高いとこに飾られた偶像なら、\nアタシは地べたを這いずってる付き人…」\n\n「けどアタシ、もう決めたの——\nあの青溟剣を手にした時から、\n『英雄』なんかになるもんですか、って」\n\n「アタシは違う——ただ生きてたいだけだから」"
+    },
+    "3": {
+      "Level": 3,
+      "Name": "剣客は往く",
+      "Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+      "Desc2": "絶世の名剣は、その鋭さを内に秘めたまま\n深き山の懐に眠っている。\nしかしひとたび鞘から抜き放たれれば、\n冷たい剣光がどこまでも広がり、\n吹きすさぶ風雪をも凌ぐ一筋の光となる。\n\n「え？剣士とは何か、って…？」\n「うん…ひたむきに進む勇気と、\n何もかもを斬り開く覚悟を持ってる人…かな！」"
+    },
+    "4": {
+      "Level": 4,
+      "Name": "暗き塵と共にあれ",
+      "Desc": "フィールド入場時、デシベル値を1000Pt獲得する。探査モードにおいて、この効果は180秒に1回のみ発動可能。<color=#FFFFFF>「エーテルベール・決裁」</color>によるベール弱体倍率の上限が200%になる。",
+      "Desc2": "壮大な理想の裏には、救済のために\nその身を燃やさなければならないという嘘があった。\n運命は彼女に慈悲を与えなかったが、\n彼女はそれに向き合い、来たるべき結末へと\n歩みを進めている。\n\n「分かってる…」\n「ワタシは『喪失』と生きてくんだって」\n「でも、ワタシは全部受け入れるよ」\n「ワタシが、そういうワタシになりたいから」"
+    },
+    "5": {
+      "Level": 5,
+      "Name": "希望に手を引かれ",
+      "Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+      "Desc2": "「…でも結局、ワタシは運がいいと思うのよね」\n「ミアズマのような災厄にも呑まれず、\nたとえ青溟剣だってワタシを\n底なしの真っ暗闇に引きずり込むことはできない」\n\n「お兄ちゃんや師匠、適当観のみんな…そしてアナタ」\n「みんなが、ワタシを守ってくれるから」\n\n行く手がいばらの道であろうとも、\n微かな光が、今も進むべき道を照らしている。"
+    },
+    "6": {
+      "Level": 6,
+      "Name": "ともし火の願い",
+      "Desc": "フィールド入場時、<color=#FFFFFF>「ともし火の願い」</color>を2重獲得する。<color=#FFFFFF>「澄心境」</color>状態に入るたびに<color=#FFFFFF>「ともし火の願い」</color>を1重獲得し、最大4重まで重ね掛け可能。<color=#FFFFFF>「ともし火の願い」</color>が3重ある時、<color=#FFFFFF>『強化特殊スキル：澄心境・回燼』</color>は<color=#FFFFFF>『終結スキル：慧剣よ天を開け』</color>に変わる。この<color=#FFFFFF>『終結スキル：慧剣よ天を開け』</color>を発動する時、<color=#FFFFFF>「ともし火の願い」</color>を3重消費する。<color=#FFFFFF>『強化特殊スキル：澄心境・回燼』</color>と<color=#FFFFFF>『終結スキル：慧剣よ天を開け』</color>の最後の一撃は追加で攻撃力1500%分の<color=#F0D12B>物理属性ダメージ</color>を与える。",
+      "Desc2": "かつて、彼女は独り闇の中を歩んでいた。\nしかし彼女は剣をとり、災厄に駆けつけると\n青溟を鞘から抜き放ち、空を切り裂く一瞬の虹光で\n音なき闇を照らした。\n\n「これからは、そんな無数の灯火のひとつになりたい…」\n「どれだけ夜が長くてもきっと朝は来るって」\n「はるかな過去とはるかな未来で、ワタシと同じ選択をする人が\nきっと…数え切れないほどいる」"
+    }
+  },
+  "FairyRecommend": {
+    "Slot4": 33500,
+    "Slot2": 32700,
+    "SlotSub": 31000,
+    "Part4": {
+      "Prop": 21103,
+      "Name": "会心ダメージ",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png"
+    },
+    "Part5": {
+      "Prop": 31503,
+      "Name": "物理属性ダメージボーナス",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconPhysDmg.png"
+    },
+    "Part6": {
+      "Prop": 12102,
+      "Name": "攻撃力",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
+    },
+    "PartSub": {
+      "Prop": 20103,
+      "Name": "会心率",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
+    }
+  },
+  "Potential": [],
+  "PotentialDetail": {},
+  "Live2D": "UISpine_Yeshunguang"
+}

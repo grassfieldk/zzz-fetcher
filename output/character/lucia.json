@@ -1,0 +1,2111 @@
+{
+  "Id": 1451,
+  "Name": "リュシア",
+  "CodeName": "Lucia",
+  "Rarity": 4,
+  "WeaponType": "支援",
+  "ElementType": "エーテル",
+  "HitType": "打撃",
+  "Camp": "怪啖屋",
+  "Stats": {
+    "Armor": 0,
+    "ArmorGrowth": 0,
+    "Attack": 109,
+    "AttackGrowth": 64272,
+    "AvatarPieceId": 5451,
+    "BreakStun": 83,
+    "Crit": 500,
+    "CritDamage": 5000,
+    "CritDmgRes": 0,
+    "CritRes": 0,
+    "Defence": 48,
+    "DefenceGrowth": 64845,
+    "ElementAbnormalPower": 96,
+    "ElementMystery": 95,
+    "Endurance": 0,
+    "HpGrowth": 924944,
+    "HpMax": 681,
+    "PenDelta": 0,
+    "PenRate": 0,
+    "Rbl": 1,
+    "RblCorrectionFactor": 10000,
+    "RblProbability": 0,
+    "Shield": 0,
+    "ShieldGrowth": 0,
+    "SpBarPoint": 120,
+    "SpRecover": 120,
+    "Stun": 0,
+    "RpMax": 0,
+    "RpRecover": 0
+  },
+  "Level": {
+    "1": {
+      "HpMax": 0,
+      "Attack": 0,
+      "Defence": 0,
+      "LevelMax": 10,
+      "LevelMin": 0,
+      "Materials": {
+        "10": 24000,
+        "100214": 4
+      }
+    },
+    "2": {
+      "HpMax": 468,
+      "Attack": 39,
+      "Defence": 33,
+      "LevelMax": 20,
+      "LevelMin": 10,
+      "Materials": {
+        "10": 56000,
+        "100224": 12
+      }
+    },
+    "3": {
+      "HpMax": 936,
+      "Attack": 78,
+      "Defence": 66,
+      "LevelMax": 30,
+      "LevelMin": 20,
+      "Materials": {
+        "10": 120000,
+        "100224": 20
+      }
+    },
+    "4": {
+      "HpMax": 1403,
+      "Attack": 117,
+      "Defence": 98,
+      "LevelMax": 40,
+      "LevelMin": 30,
+      "Materials": {
+        "10": 200000,
+        "100234": 10
+      }
+    },
+    "5": {
+      "HpMax": 1871,
+      "Attack": 156,
+      "Defence": 131,
+      "LevelMax": 50,
+      "LevelMin": 40,
+      "Materials": {
+        "10": 400000,
+        "100234": 20
+      }
+    },
+    "6": {
+      "HpMax": 2339,
+      "Attack": 195,
+      "Defence": 164,
+      "LevelMax": 60,
+      "LevelMin": 50,
+      "Materials": {}
+    }
+  },
+  "ExtraLevel": {
+    "1": {
+      "MaxLevel": 15,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "基礎攻撃力",
+          "Format": "{0:0.#}",
+          "Value": 0
+        },
+        "30501": {
+          "Prop": 30501,
+          "Name": "基礎エネルギー自動回復",
+          "Format": "{0:0.##}",
+          "Value": 12
+        }
+      }
+    },
+    "2": {
+      "MaxLevel": 25,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "基礎攻撃力",
+          "Format": "{0:0.#}",
+          "Value": 25
+        },
+        "30501": {
+          "Prop": 30501,
+          "Name": "基礎エネルギー自動回復",
+          "Format": "{0:0.##}",
+          "Value": 12
+        }
+      }
+    },
+    "3": {
+      "MaxLevel": 35,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "基礎攻撃力",
+          "Format": "{0:0.#}",
+          "Value": 25
+        },
+        "30501": {
+          "Prop": 30501,
+          "Name": "基礎エネルギー自動回復",
+          "Format": "{0:0.##}",
+          "Value": 24
+        }
+      }
+    },
+    "4": {
+      "MaxLevel": 45,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "基礎攻撃力",
+          "Format": "{0:0.#}",
+          "Value": 50
+        },
+        "30501": {
+          "Prop": 30501,
+          "Name": "基礎エネルギー自動回復",
+          "Format": "{0:0.##}",
+          "Value": 24
+        }
+      }
+    },
+    "5": {
+      "MaxLevel": 55,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "基礎攻撃力",
+          "Format": "{0:0.#}",
+          "Value": 50
+        },
+        "30501": {
+          "Prop": 30501,
+          "Name": "基礎エネルギー自動回復",
+          "Format": "{0:0.##}",
+          "Value": 36
+        }
+      }
+    },
+    "6": {
+      "MaxLevel": 60,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "基礎攻撃力",
+          "Format": "{0:0.#}",
+          "Value": 75
+        },
+        "30501": {
+          "Prop": 30501,
+          "Name": "基礎エネルギー自動回復",
+          "Format": "{0:0.##}",
+          "Value": 36
+        }
+      }
+    }
+  },
+  "LevelEXP": [
+    50,
+    150,
+    250,
+    400,
+    600,
+    800,
+    1000,
+    1250,
+    1500,
+    1800,
+    1935,
+    2065,
+    2200,
+    2335,
+    2465,
+    2600,
+    2735,
+    2865,
+    3000,
+    4680,
+    4975,
+    5265,
+    5560,
+    5855,
+    6145,
+    6440,
+    6735,
+    7025,
+    7320,
+    10800,
+    11400,
+    12000,
+    12600,
+    13200,
+    13800,
+    14400,
+    15000,
+    15600,
+    16200,
+    17100,
+    18300,
+    19500,
+    20700,
+    21900,
+    23100,
+    24300,
+    25500,
+    26700,
+    27900,
+    34200,
+    36600,
+    39000,
+    41400,
+    43800,
+    46200,
+    48600,
+    51000,
+    53400,
+    55800,
+    0
+  ],
+  "Skill": {
+    "Basic": {
+      "Description": [
+        {
+          "Name": "通常攻撃：<ruby=せいき>星軌</ruby>ラッシュ",
+          "Desc": " <IconMap:Icon_Normal> を押して発動：\n前方へ最大5段の打撃を繰り出し、<color=#FE437E>エーテル属性ダメージ</color>を与える。\n5段目の攻撃は<color=#FFFFFF>『随想』</color>であり、発動時にエーテリアスの幻を召喚して、前方円形範囲内の敵に<color=#FE437E>エーテル属性ダメージ</color>を与える。\n接敵状態中、かつ<color=#FFFFFF>「夢境」</color>状態でない時、リュシアはこの<color=#FFFFFF>『随想』</color>を発動すると<color=#FFFFFF>「夢境値」</color>を40Pt獲得する。",
+          "Potential": []
+        },
+        {
+          "Name": "通常攻撃：<ruby=せいき>星軌</ruby>ラッシュ",
+          "Param": [
+            {
+              "Name": "1段ダメージ倍率",
+              "Desc": "{Skill:1451001, Prop:1001}",
+              "Param": {
+                "1451001": {
+                  "Main": 4090,
+                  "Growth": 380,
+                  "Format": "%",
+                  "DamagePercentage": 4090,
+                  "DamagePercentageGrowth": 380,
+                  "StunRatio": 6610,
+                  "StunRatioGrowth": 310,
+                  "SpRecovery": 21610,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 165275,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 3144,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 6003
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "2段ダメージ倍率",
+              "Desc": "{Skill:1451002, Prop:1001}",
+              "Param": {
+                "1451002": {
+                  "Main": 2780,
+                  "Growth": 260,
+                  "Format": "%",
+                  "DamagePercentage": 2780,
+                  "DamagePercentageGrowth": 260,
+                  "StunRatio": 3670,
+                  "StunRatioGrowth": 170,
+                  "SpRecovery": 12020,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 91850,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 2025,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3337
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "3段ダメージ倍率",
+              "Desc": "{Skill:1451003, Prop:1001}",
+              "Param": {
+                "1451003": {
+                  "Main": 8350,
+                  "Growth": 760,
+                  "Format": "%",
+                  "DamagePercentage": 8350,
+                  "DamagePercentageGrowth": 760,
+                  "StunRatio": 10770,
+                  "StunRatioGrowth": 490,
+                  "SpRecovery": 35250,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 269225,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 5921,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 9790
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "4段ダメージ倍率",
+              "Desc": "{Skill:1451004, Prop:1001}",
+              "Param": {
+                "1451004": {
+                  "Main": 8010,
+                  "Growth": 730,
+                  "Format": "%",
+                  "DamagePercentage": 8010,
+                  "DamagePercentageGrowth": 730,
+                  "StunRatio": 11190,
+                  "StunRatioGrowth": 510,
+                  "SpRecovery": 31070,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 237325,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 5650,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 10171
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "随想ダメージ倍率",
+              "Desc": "{Skill:1451005, Prop:1001}",
+              "Param": {
+                "1451005": {
+                  "Main": 17290,
+                  "Growth": 1580,
+                  "Format": "%",
+                  "DamagePercentage": 17290,
+                  "DamagePercentageGrowth": 1580,
+                  "StunRatio": 20760,
+                  "StunRatioGrowth": 950,
+                  "SpRecovery": 73500,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 561550,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 14224,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 18873
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "合唱ダメージ倍率",
+              "Desc": "{Skill:1451006, Prop:1001}",
+              "Param": {
+                "1451006": {
+                  "Main": 41250,
+                  "Growth": 3750,
+                  "Format": "%",
+                  "DamagePercentage": 41250,
+                  "DamagePercentageGrowth": 3750,
+                  "StunRatio": 20760,
+                  "StunRatioGrowth": 950,
+                  "SpRecovery": 73500,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 561550,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 14224,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 18873
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "追加攻撃ダメージ倍率",
+              "Desc": "{Skill:1451007, Prop:1001}",
+              "Param": {
+                "1451007": {
+                  "Main": 55000,
+                  "Growth": 5000,
+                  "Format": "%",
+                  "DamagePercentage": 55000,
+                  "DamagePercentageGrowth": 5000,
+                  "StunRatio": 0,
+                  "StunRatioGrowth": 0,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 20000,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "1段ブレイク倍率",
+              "Desc": "{Skill:1451001, Prop:1002}",
+              "Param": {
+                "1451001": {
+                  "Main": 6610,
+                  "Growth": 310,
+                  "Format": "%",
+                  "DamagePercentage": 4090,
+                  "DamagePercentageGrowth": 380,
+                  "StunRatio": 6610,
+                  "StunRatioGrowth": 310,
+                  "SpRecovery": 21610,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 165275,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 3144,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 6003
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "2段ブレイク倍率",
+              "Desc": "{Skill:1451002, Prop:1002}",
+              "Param": {
+                "1451002": {
+                  "Main": 3670,
+                  "Growth": 170,
+                  "Format": "%",
+                  "DamagePercentage": 2780,
+                  "DamagePercentageGrowth": 260,
+                  "StunRatio": 3670,
+                  "StunRatioGrowth": 170,
+                  "SpRecovery": 12020,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 91850,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 2025,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3337
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "3段ブレイク倍率",
+              "Desc": "{Skill:1451003, Prop:1002}",
+              "Param": {
+                "1451003": {
+                  "Main": 10770,
+                  "Growth": 490,
+                  "Format": "%",
+                  "DamagePercentage": 8350,
+                  "DamagePercentageGrowth": 760,
+                  "StunRatio": 10770,
+                  "StunRatioGrowth": 490,
+                  "SpRecovery": 35250,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 269225,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 5921,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 9790
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "4段ブレイク倍率",
+              "Desc": "{Skill:1451004, Prop:1002}",
+              "Param": {
+                "1451004": {
+                  "Main": 11190,
+                  "Growth": 510,
+                  "Format": "%",
+                  "DamagePercentage": 8010,
+                  "DamagePercentageGrowth": 730,
+                  "StunRatio": 11190,
+                  "StunRatioGrowth": 510,
+                  "SpRecovery": 31070,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 237325,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 5650,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 10171
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "随想ブレイク倍率",
+              "Desc": "{Skill:1451005, Prop:1002}",
+              "Param": {
+                "1451005": {
+                  "Main": 20760,
+                  "Growth": 950,
+                  "Format": "%",
+                  "DamagePercentage": 17290,
+                  "DamagePercentageGrowth": 1580,
+                  "StunRatio": 20760,
+                  "StunRatioGrowth": 950,
+                  "SpRecovery": 73500,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 561550,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 14224,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 18873
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "合唱ブレイク倍率",
+              "Desc": "{Skill:1451006, Prop:1002}",
+              "Param": {
+                "1451006": {
+                  "Main": 20760,
+                  "Growth": 950,
+                  "Format": "%",
+                  "DamagePercentage": 41250,
+                  "DamagePercentageGrowth": 3750,
+                  "StunRatio": 20760,
+                  "StunRatioGrowth": 950,
+                  "SpRecovery": 73500,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 561550,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 14224,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 18873
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "追加攻撃ブレイク倍率",
+              "Desc": "{Skill:1451007, Prop:1002}",
+              "Param": {
+                "1451007": {
+                  "Main": 0,
+                  "Growth": 0,
+                  "Format": "%",
+                  "DamagePercentage": 55000,
+                  "DamagePercentageGrowth": 5000,
+                  "StunRatio": 0,
+                  "StunRatioGrowth": 0,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 20000,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": {
+          "10": 2000,
+          "100115": 2
+        },
+        "2": {
+          "10": 3000,
+          "100115": 3
+        },
+        "3": {
+          "10": 6000,
+          "100125": 2
+        },
+        "4": {
+          "10": 9000,
+          "100125": 3
+        },
+        "5": {
+          "10": 12000,
+          "100125": 4
+        },
+        "6": {
+          "10": 18000,
+          "100125": 6
+        },
+        "7": {
+          "10": 45000,
+          "100135": 5
+        },
+        "8": {
+          "10": 67500,
+          "100135": 8
+        },
+        "9": {
+          "10": 90000,
+          "100135": 10
+        },
+        "10": {
+          "10": 112500,
+          "100135": 12
+        },
+        "11": {
+          "10": 135000,
+          "100135": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "Dodge": {
+      "Description": [
+        {
+          "Name": "回避：ティルトシャドウ",
+          "Desc": " <IconMap:Icon_Evade> を押して発動：\nダッシュで高速回避する。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "ダッシュ攻撃：ミラージュ",
+          "Desc": "回避時に <IconMap:Icon_Normal> を押して発動：\n前方に素早く打撃を放ち、<color=#FE437E>エーテル属性ダメージ</color>を与える。",
+          "Potential": []
+        },
+        {
+          "Name": "回避反撃：スターダストエコー",
+          "Desc": "<color=#FFFFFF>『極限回避』</color>発動後、 <IconMap:Icon_Normal> を押して発動：\n『回避反撃』は<color=#FFFFFF>『随想』</color>であり、発動時にエーテリアスの幻を召喚して、前方の円形範囲に落下攻撃を放ち、<color=#FE437E>エーテル属性ダメージ</color>を与える。\n<color=#FFFFFF>「夢境」</color>状態でない時、リュシアはこの<color=#FFFFFF>『随想』</color>を発動すると<color=#FFFFFF>「夢境値」</color>を20Pt獲得する、5秒に1回のみ獲得可能。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "ダッシュ攻撃：ミラージュ",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1451012, Prop:1001}",
+              "Param": {
+                "1451012": {
+                  "Main": 8630,
+                  "Growth": 790,
+                  "Format": "%",
+                  "DamagePercentage": 8630,
+                  "DamagePercentageGrowth": 790,
+                  "StunRatio": 4320,
+                  "StunRatioGrowth": 200,
+                  "SpRecovery": 14110,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 107800,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 3918,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3919
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1451012, Prop:1002}",
+              "Param": {
+                "1451012": {
+                  "Main": 4320,
+                  "Growth": 200,
+                  "Format": "%",
+                  "DamagePercentage": 8630,
+                  "DamagePercentageGrowth": 790,
+                  "StunRatio": 4320,
+                  "StunRatioGrowth": 200,
+                  "SpRecovery": 14110,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 107800,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 3918,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3919
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "回避反撃：スターダストエコー",
+          "Param": [
+            {
+              "Name": "随想ダメージ倍率",
+              "Desc": "{Skill:1451013, Prop:1001}",
+              "Param": {
+                "1451013": {
+                  "Main": 24830,
+                  "Growth": 2260,
+                  "Format": "%",
+                  "DamagePercentage": 24830,
+                  "DamagePercentageGrowth": 2260,
+                  "StunRatio": 21640,
+                  "StunRatioGrowth": 990,
+                  "SpRecovery": 34820,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 266200,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 9670,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 24671
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "合唱ダメージ倍率",
+              "Desc": "{Skill:1451014, Prop:1001}",
+              "Param": {
+                "1451014": {
+                  "Main": 38580,
+                  "Growth": 3510,
+                  "Format": "%",
+                  "DamagePercentage": 38580,
+                  "DamagePercentageGrowth": 3510,
+                  "StunRatio": 21640,
+                  "StunRatioGrowth": 990,
+                  "SpRecovery": 34820,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 266200,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 9670,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 24671
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "随想ブレイク倍率",
+              "Desc": "{Skill:1451013, Prop:1002}",
+              "Param": {
+                "1451013": {
+                  "Main": 21640,
+                  "Growth": 990,
+                  "Format": "%",
+                  "DamagePercentage": 24830,
+                  "DamagePercentageGrowth": 2260,
+                  "StunRatio": 21640,
+                  "StunRatioGrowth": 990,
+                  "SpRecovery": 34820,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 266200,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 9670,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 24671
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "合唱ブレイク倍率",
+              "Desc": "{Skill:1451014, Prop:1002}",
+              "Param": {
+                "1451014": {
+                  "Main": 21640,
+                  "Growth": 990,
+                  "Format": "%",
+                  "DamagePercentage": 38580,
+                  "DamagePercentageGrowth": 3510,
+                  "StunRatio": 21640,
+                  "StunRatioGrowth": 990,
+                  "SpRecovery": 34820,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 266200,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 9670,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 24671
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": {
+          "10": 2000,
+          "100115": 2
+        },
+        "2": {
+          "10": 3000,
+          "100115": 3
+        },
+        "3": {
+          "10": 6000,
+          "100125": 2
+        },
+        "4": {
+          "10": 9000,
+          "100125": 3
+        },
+        "5": {
+          "10": 12000,
+          "100125": 4
+        },
+        "6": {
+          "10": 18000,
+          "100125": 6
+        },
+        "7": {
+          "10": 45000,
+          "100135": 5
+        },
+        "8": {
+          "10": 67500,
+          "100135": 8
+        },
+        "9": {
+          "10": 90000,
+          "100135": 10
+        },
+        "10": {
+          "10": 112500,
+          "100135": 12
+        },
+        "11": {
+          "10": 135000,
+          "100135": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "Special": {
+      "Description": [
+        {
+          "Name": "特殊スキル：死神協奏曲・嵐",
+          "Desc": " <IconMap:Icon_Special> を押して発動：\n特殊スキルは<color=#FFFFFF>『随想』</color>であり、発動時にエーテリアスの幻を召喚して、前方の直線範囲に斬撃を放ち、<color=#FE437E>エーテル属性ダメージ</color>を与える。\n接敵状態中、かつ<color=#FFFFFF>「夢境」</color>状態でない時、リュシアはこの<color=#FFFFFF>『随想』</color>を発動すると<color=#FFFFFF>「夢境値」</color>を20Pt獲得する、5秒に1回のみ獲得可能。",
+          "Potential": []
+        },
+        {
+          "Name": "強化特殊スキル：死神協奏曲・暁",
+          "Desc": "エネルギーが十分な時、 <IconMap:Icon_SpecialReady> を押して発動：\n『強化特殊スキル』は<color=#FFFFFF>『合唱』</color>であり、発動時にエーテリアスの幻を召喚して、前方の直線範囲に強力な斬撃を放ち、<color=#FE437E>エーテル属性ダメージ</color>を与える。\nリュシアは<color=#FFFFFF>『合唱』</color>を発動すると、メンバー全員に<color=#FFFFFF>「破暗」</color>状態を付与する。\n<color=#FFFFFF>「破暗」</color>状態にある時、透徹力+12Pt。リュシアの開幕最大HP200Ptにつき、透徹力が追加で+<color=#2BAD00>{CAL:5+AvatarSkillLevel(1)*0.2,1,1}</color>Pt。<color=#FFFFFF>「破暗」</color>状態によってアップできる透徹力は最大<color=#2BAD00>{CAL:612+AvatarSkillLevel(1)*24,1,2}</color>Ptまで、継続時間20秒、重複して発動すると継続時間が更新される。リュシアの開幕最大HPが24000Ptに達すると、上記のバフ効果は最大値に達する。\n<color=#FFFFFF>『合唱』</color>でダメージを与えた時、リュシアの最大HP<color=#2BAD00>{CAL:0.34+AvatarSkillLevel(1)*0.03,100,2}%</color>を基に、最後の1段の攻撃ダメージが追加でアップする。\nリュシアが『強化特殊スキル』を発動した後、自身が<color=#FFFFFF>「夢境」</color>状態にあり、かつ<color=#FFFFFF>「エーテルベール・湧泉」</color>が展開中の場合、<color=#FFFFFF>「エーテルベール・湧泉」</color>の継続時間が16秒延長される。\nリュシアが『強化特殊スキル』を発動した後、そのまま<color=#FFFFFF>『通常攻撃』</color>の5段目に繋げることが可能。\n<color=#FFFFFF>「夢境」</color>状態でない時、リュシアはこの<color=#FFFFFF>『合唱』</color>を発動すると<color=#FFFFFF>「夢境値」</color>を60Pt獲得する。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "特殊スキル：死神協奏曲・嵐",
+          "Param": [
+            {
+              "Name": "随想ダメージ倍率",
+              "Desc": "{Skill:1451008, Prop:1001}",
+              "Param": {
+                "1451008": {
+                  "Main": 4590,
+                  "Growth": 420,
+                  "Format": "%",
+                  "DamagePercentage": 4590,
+                  "DamagePercentageGrowth": 420,
+                  "StunRatio": 4590,
+                  "StunRatioGrowth": 210,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 114675,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 4165,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4166
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "合唱ダメージ倍率",
+              "Desc": "{Skill:1451009, Prop:1001}",
+              "Param": {
+                "1451009": {
+                  "Main": 18340,
+                  "Growth": 1670,
+                  "Format": "%",
+                  "DamagePercentage": 18340,
+                  "DamagePercentageGrowth": 1670,
+                  "StunRatio": 4590,
+                  "StunRatioGrowth": 210,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 114675,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 4165,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4166
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "追加攻撃ダメージ倍率",
+              "Desc": "{Skill:1451010, Prop:1001}",
+              "Param": {
+                "1451010": {
+                  "Main": 55000,
+                  "Growth": 5000,
+                  "Format": "%",
+                  "DamagePercentage": 55000,
+                  "DamagePercentageGrowth": 5000,
+                  "StunRatio": 0,
+                  "StunRatioGrowth": 0,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 20000,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "随想ブレイク倍率",
+              "Desc": "{Skill:1451008, Prop:1002}",
+              "Param": {
+                "1451008": {
+                  "Main": 4590,
+                  "Growth": 210,
+                  "Format": "%",
+                  "DamagePercentage": 4590,
+                  "DamagePercentageGrowth": 420,
+                  "StunRatio": 4590,
+                  "StunRatioGrowth": 210,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 114675,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 4165,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4166
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "合唱ブレイク倍率",
+              "Desc": "{Skill:1451009, Prop:1002}",
+              "Param": {
+                "1451009": {
+                  "Main": 4590,
+                  "Growth": 210,
+                  "Format": "%",
+                  "DamagePercentage": 18340,
+                  "DamagePercentageGrowth": 1670,
+                  "StunRatio": 4590,
+                  "StunRatioGrowth": 210,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 114675,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 4165,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4166
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "追加攻撃ブレイク倍率",
+              "Desc": "{Skill:1451010, Prop:1002}",
+              "Param": {
+                "1451010": {
+                  "Main": 0,
+                  "Growth": 0,
+                  "Format": "%",
+                  "DamagePercentage": 55000,
+                  "DamagePercentageGrowth": 5000,
+                  "StunRatio": 0,
+                  "StunRatioGrowth": 0,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 20000,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "強化特殊スキル：死神協奏曲・暁",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1451011, Prop:1001}",
+              "Param": {
+                "1451011": {
+                  "Main": 63810,
+                  "Growth": 5810,
+                  "Format": "%",
+                  "DamagePercentage": 63810,
+                  "DamagePercentageGrowth": 5810,
+                  "StunRatio": 44190,
+                  "StunRatioGrowth": 2010,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 1627450,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 44921,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 11671
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1451011, Prop:1002}",
+              "Param": {
+                "1451011": {
+                  "Main": 44190,
+                  "Growth": 2010,
+                  "Format": "%",
+                  "DamagePercentage": 63810,
+                  "DamagePercentageGrowth": 5810,
+                  "StunRatio": 44190,
+                  "StunRatioGrowth": 2010,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 1627450,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 44921,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 11671
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "エネルギー消費",
+              "Desc": "60Pt",
+              "Potential": []
+            },
+            {
+              "Name": "透徹力追加アップ上限",
+              "Desc": "{CAL:612+AvatarSkillLevel(1)*24,1,2}Pt",
+              "Potential": []
+            },
+            {
+              "Name": "『合唱』追加ダメージ倍率",
+              "Desc": "{CAL:0.34+AvatarSkillLevel(1)*0.03,100,2}%",
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": {
+          "10": 2000,
+          "100115": 2
+        },
+        "2": {
+          "10": 3000,
+          "100115": 3
+        },
+        "3": {
+          "10": 6000,
+          "100125": 2
+        },
+        "4": {
+          "10": 9000,
+          "100125": 3
+        },
+        "5": {
+          "10": 12000,
+          "100125": 4
+        },
+        "6": {
+          "10": 18000,
+          "100125": 6
+        },
+        "7": {
+          "10": 45000,
+          "100135": 5
+        },
+        "8": {
+          "10": 67500,
+          "100135": 8
+        },
+        "9": {
+          "10": 90000,
+          "100135": 10
+        },
+        "10": {
+          "10": 112500,
+          "100135": 12
+        },
+        "11": {
+          "10": 135000,
+          "100135": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "Chain": {
+      "Description": [
+        {
+          "Name": "連携スキル：ビビッド・シアター",
+          "Desc": "<color=#FFFFFF>『連携スキル』</color>開始時に、対応するエージェントを選択して発動：\n『連携スキル』は<color=#FFFFFF>『合唱』</color>であり、発動時にエーテリアスの幻を召喚して、前方円形範囲内の敵を引き寄せ、<color=#FE437E>エーテル属性ダメージ</color>を与える。\n<color=#FFFFFF>「夢境」</color>状態でない時、リュシアはこの<color=#FFFFFF>『合唱』</color>を発動すると<color=#FFFFFF>「夢境値」</color>を40Pt獲得する。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "終結スキル：突撃、デカ腕マン！",
+          "Desc": "デシベルレートが『Maximum』に達した時、 <IconMap:Icon_UltimateReady> を押して発動：\n『終結スキル』は<color=#FFFFFF>『合唱』</color>であり、発動時にエーテリアスの幻を召喚し、リュシアはエーテリアスに乗って前方へ突進する。方向を入力し続けると、突進方向を制御でき、突進時間を最大3秒に延長できる。突進中、中断耐性レベルがアップし、被ダメージ-40%、致命的なダメージを受けてもリュシアは戦闘不能にならず、残りHPが1を下回ることはない。\n突進終了時、周囲広範囲に強力な打撃を繰り出し、<color=#FE437E>エーテル属性ダメージ</color>を与える。スキルが敵に命中すると、<color=#FFFFFF>『クイック支援』</color>が発動可能になる。スキル発動後、その場に<color=#FFFFFF>「星光が集う地」</color>を展開する。<color=#FFFFFF>「星光が集う地」</color>の継続時間は8秒。<color=#FFFFFF>「星光が集う地」</color>内にいる間、操作しているメンバーはHP回復効果を獲得し、1秒ごとにリュシアの最大HP<color=#2BAD00>{CAL:0.01+AvatarSkillLevel(3)*0.0005,100,2}%</color>分を回復する。この回復効果はメンバーが<color=#FFFFFF>「星光が集う地」</color>から4秒離れた後、または退場時に解除される。\nスキル発動後、リュシアが<color=#FFFFFF>「夢境」</color>状態にあり、かつ<color=#FFFFFF>「エーテルベール・湧泉」</color>が展開中の場合、<color=#FFFFFF>「エーテルベール・湧泉」</color>の継続時間が32秒延長される。\n<color=#FFFFFF>「夢境」</color>状態でない時、リュシアはこの<color=#FFFFFF>『合唱』</color>を発動すると<color=#FFFFFF>「夢境値」</color>を100Pt獲得する。\n<color=#FFFFFF>「夢境」</color>状態中にこの<color=#FFFFFF>『合唱』</color>を発動すると、今回の<color=#FFFFFF>「夢境」</color>が終了した時に<color=#FFFFFF>「夢境値」</color>を100Pt獲得し、再び<color=#FFFFFF>「夢境」</color>状態に入る。この効果は重複して得られない。\n強力な打撃発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "連携スキル：ビビッド・シアター",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1451016, Prop:1001}",
+              "Param": {
+                "1451016": {
+                  "Main": 61670,
+                  "Growth": 5610,
+                  "Format": "%",
+                  "DamagePercentage": 61670,
+                  "DamagePercentageGrowth": 5610,
+                  "StunRatio": 17780,
+                  "StunRatioGrowth": 810,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 2273425,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 36113,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 16164
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1451016, Prop:1002}",
+              "Param": {
+                "1451016": {
+                  "Main": 17780,
+                  "Growth": 810,
+                  "Format": "%",
+                  "DamagePercentage": 61670,
+                  "DamagePercentageGrowth": 5610,
+                  "StunRatio": 17780,
+                  "StunRatioGrowth": 810,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 2273425,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 36113,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 16164
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "終結スキル：突撃、デカ腕マン！",
+          "Param": [
+            {
+              "Name": "突進1回のダメージ倍率",
+              "Desc": "{Skill:1451024, Prop:1001}",
+              "Param": {
+                "1451024": {
+                  "Main": 9300,
+                  "Growth": 850,
+                  "Format": "%",
+                  "DamagePercentage": 9300,
+                  "DamagePercentageGrowth": 850,
+                  "StunRatio": 7150,
+                  "StunRatioGrowth": 330,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 4875,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 6500
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "終結スキルダメージ倍率",
+              "Desc": "{Skill:1451017, Prop:1001}",
+              "Param": {
+                "1451017": {
+                  "Main": 190270,
+                  "Growth": 17300,
+                  "Format": "%",
+                  "DamagePercentage": 190270,
+                  "DamagePercentageGrowth": 17300,
+                  "StunRatio": 19440,
+                  "StunRatioGrowth": 890,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 17670,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 67671
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "突進1回のブレイク倍率",
+              "Desc": "{Skill:1451024, Prop:1002}",
+              "Param": {
+                "1451024": {
+                  "Main": 7150,
+                  "Growth": 330,
+                  "Format": "%",
+                  "DamagePercentage": 9300,
+                  "DamagePercentageGrowth": 850,
+                  "StunRatio": 7150,
+                  "StunRatioGrowth": 330,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 4875,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 6500
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "終結スキルブレイク倍率",
+              "Desc": "{Skill:1451017, Prop:1002}",
+              "Param": {
+                "1451017": {
+                  "Main": 19440,
+                  "Growth": 890,
+                  "Format": "%",
+                  "DamagePercentage": 190270,
+                  "DamagePercentageGrowth": 17300,
+                  "StunRatio": 19440,
+                  "StunRatioGrowth": 890,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 17670,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 67671
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "毎秒回復するHP割合",
+              "Desc": "{CAL:0.01+AvatarSkillLevel(3)*0.0005,100,2}%",
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": {
+          "10": 2000,
+          "100115": 2
+        },
+        "2": {
+          "10": 3000,
+          "100115": 3
+        },
+        "3": {
+          "10": 6000,
+          "100125": 2
+        },
+        "4": {
+          "10": 9000,
+          "100125": 3
+        },
+        "5": {
+          "10": 12000,
+          "100125": 4
+        },
+        "6": {
+          "10": 18000,
+          "100125": 6
+        },
+        "7": {
+          "10": 45000,
+          "100135": 5
+        },
+        "8": {
+          "10": 67500,
+          "100135": 8
+        },
+        "9": {
+          "10": 90000,
+          "100135": 10
+        },
+        "10": {
+          "10": 112500,
+          "100135": 12
+        },
+        "11": {
+          "10": 135000,
+          "100135": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "Assist": {
+      "Description": [
+        {
+          "Name": "クイック支援：ミスティストライク",
+          "Desc": "操作しているメンバーが吹き飛ばされた時に、 <IconMap:Icon_Switch> を押して発動：\n『クイック支援』は<color=#FFFFFF>『随想』</color>であり、発動時にエーテリアスの幻を召喚して、前方の円形範囲に落下攻撃を放ち、<color=#FE437E>エーテル属性ダメージ</color>を与える。\n<color=#FFFFFF>「夢境」</color>状態でない時、リュシアはこの<color=#FFFFFF>『随想』</color>を発動すると<color=#FFFFFF>「夢境値」</color>を20Pt獲得する、5秒に1回のみ獲得可能。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "パリィ支援：ドリームコール",
+          "Desc": "出場中のメンバーが攻撃されそうになった時に、 <IconMap:Icon_Switch> を押して発動：\n敵の攻撃をパリィし、ブレイク値を大量に蓄積させる。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "支援突撃：ドリームハーモニー",
+          "Desc": "<color=#FFFFFF>『パリィ支援』</color>発動後、 <IconMap:Icon_Normal> を押して発動：\n『支援突撃』は<color=#FFFFFF>『合唱』</color>であり、発動時にエーテリアスの幻を召喚して、前方の円形範囲に強力な落下攻撃を放ち、<color=#FE437E>エーテル属性ダメージ</color>を与える。\n<color=#FFFFFF>「夢境」</color>状態でない時、リュシアはこの<color=#FFFFFF>『合唱』</color>を発動すると<color=#FFFFFF>「夢境値」</color>を40Pt獲得する。\nスキル発動中、無敵効果を得る。",
+          "Potential": []
+        },
+        {
+          "Name": "クイック支援：ミスティストライク",
+          "Param": [
+            {
+              "Name": "随想ダメージ倍率",
+              "Desc": "{Skill:1451018, Prop:1001}",
+              "Param": {
+                "1451018": {
+                  "Main": 10640,
+                  "Growth": 970,
+                  "Format": "%",
+                  "DamagePercentage": 10640,
+                  "DamagePercentageGrowth": 970,
+                  "StunRatio": 5320,
+                  "StunRatioGrowth": 250,
+                  "SpRecovery": 17410,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 133100,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 4835,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4836
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "合唱ダメージ倍率",
+              "Desc": "{Skill:1451023, Prop:1001}",
+              "Param": {
+                "1451023": {
+                  "Main": 24390,
+                  "Growth": 2220,
+                  "Format": "%",
+                  "DamagePercentage": 24390,
+                  "DamagePercentageGrowth": 2220,
+                  "StunRatio": 5320,
+                  "StunRatioGrowth": 250,
+                  "SpRecovery": 17410,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 133100,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 4835,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4836
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "追加攻撃ダメージ倍率",
+              "Desc": "{Skill:1451015, Prop:1001}",
+              "Param": {
+                "1451015": {
+                  "Main": 55000,
+                  "Growth": 5000,
+                  "Format": "%",
+                  "DamagePercentage": 55000,
+                  "DamagePercentageGrowth": 5000,
+                  "StunRatio": 0,
+                  "StunRatioGrowth": 0,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 20000,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "随想ブレイク倍率",
+              "Desc": "{Skill:1451018, Prop:1002}",
+              "Param": {
+                "1451018": {
+                  "Main": 5320,
+                  "Growth": 250,
+                  "Format": "%",
+                  "DamagePercentage": 10640,
+                  "DamagePercentageGrowth": 970,
+                  "StunRatio": 5320,
+                  "StunRatioGrowth": 250,
+                  "SpRecovery": 17410,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 133100,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 4835,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4836
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "合唱ブレイク倍率",
+              "Desc": "{Skill:1451023, Prop:1002}",
+              "Param": {
+                "1451023": {
+                  "Main": 5320,
+                  "Growth": 250,
+                  "Format": "%",
+                  "DamagePercentage": 24390,
+                  "DamagePercentageGrowth": 2220,
+                  "StunRatio": 5320,
+                  "StunRatioGrowth": 250,
+                  "SpRecovery": 17410,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 133100,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 4835,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4836
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "追加攻撃ブレイク倍率",
+              "Desc": "{Skill:1451015, Prop:1002}",
+              "Param": {
+                "1451015": {
+                  "Main": 0,
+                  "Growth": 0,
+                  "Format": "%",
+                  "DamagePercentage": 55000,
+                  "DamagePercentageGrowth": 5000,
+                  "StunRatio": 0,
+                  "StunRatioGrowth": 0,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 20000,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "パリィ支援：ドリームコール",
+          "Param": [
+            {
+              "Name": "パリィ・軽 ブレイク倍率",
+              "Desc": "{Skill:1451019, Prop:1002}",
+              "Param": {
+                "1451019": {
+                  "Main": 27130,
+                  "Growth": 1240,
+                  "Format": "%",
+                  "DamagePercentage": 0,
+                  "DamagePercentageGrowth": 0,
+                  "StunRatio": 27130,
+                  "StunRatioGrowth": 1240,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 36664
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "パリィ・重 ブレイク倍率",
+              "Desc": "{Skill:1451020, Prop:1002}",
+              "Param": {
+                "1451020": {
+                  "Main": 34280,
+                  "Growth": 1560,
+                  "Format": "%",
+                  "DamagePercentage": 0,
+                  "DamagePercentageGrowth": 0,
+                  "StunRatio": 34280,
+                  "StunRatioGrowth": 1560,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 41664
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "パリィ・連続 ブレイク倍率",
+              "Desc": "{Skill:1451021, Prop:1002}",
+              "Param": {
+                "1451021": {
+                  "Main": 16680,
+                  "Growth": 760,
+                  "Format": "%",
+                  "DamagePercentage": 0,
+                  "DamagePercentageGrowth": 0,
+                  "StunRatio": 16680,
+                  "StunRatioGrowth": 760,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 11664
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "支援突撃：ドリームハーモニー",
+          "Param": [
+            {
+              "Name": "ダメージ倍率",
+              "Desc": "{Skill:1451022, Prop:1001}",
+              "Param": {
+                "1451022": {
+                  "Main": 32770,
+                  "Growth": 2980,
+                  "Format": "%",
+                  "DamagePercentage": 32770,
+                  "DamagePercentageGrowth": 2980,
+                  "StunRatio": 28240,
+                  "StunRatioGrowth": 1290,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 932250,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 27726,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 13337
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "ブレイク倍率",
+              "Desc": "{Skill:1451022, Prop:1002}",
+              "Param": {
+                "1451022": {
+                  "Main": 28240,
+                  "Growth": 1290,
+                  "Format": "%",
+                  "DamagePercentage": 32770,
+                  "DamagePercentageGrowth": 2980,
+                  "StunRatio": 28240,
+                  "StunRatioGrowth": 1290,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 932250,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 27726,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 13337
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": {
+          "10": 2000,
+          "100115": 2
+        },
+        "2": {
+          "10": 3000,
+          "100115": 3
+        },
+        "3": {
+          "10": 6000,
+          "100125": 2
+        },
+        "4": {
+          "10": 9000,
+          "100125": 3
+        },
+        "5": {
+          "10": 12000,
+          "100125": 4
+        },
+        "6": {
+          "10": 18000,
+          "100125": 6
+        },
+        "7": {
+          "10": 45000,
+          "100135": 5
+        },
+        "8": {
+          "10": 67500,
+          "100135": 8
+        },
+        "9": {
+          "10": 90000,
+          "100135": 10
+        },
+        "10": {
+          "10": 112500,
+          "100135": 12
+        },
+        "11": {
+          "10": 135000,
+          "100135": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    }
+  },
+  "SkillList": {
+    "1451001": {
+      "Name": "通常攻撃：星軌ラッシュ",
+      "Desc": "<IconMap:Icon_Normal>",
+      "ElementType": 205,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1451002": {
+      "Name": "特殊スキル：死神協奏曲・嵐",
+      "Desc": "<IconMap:Icon_Special>",
+      "ElementType": 205,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1451003": {
+      "Name": "強化特殊スキル：死神協奏曲・暁",
+      "Desc": "<IconMap:Icon_SpecialReady>",
+      "ElementType": 205,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1451004": {
+      "Name": "ダッシュ攻撃：ミラージュ",
+      "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
+      "ElementType": 205,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1451005": {
+      "Name": "回避反撃：スターダストエコー",
+      "Desc": "<IconMap:Icon_Evade>（極限回避成功） ; <IconMap:Icon_Normal>",
+      "ElementType": 205,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1451006": {
+      "Name": "連携スキル：ビビッド・シアター",
+      "Desc": "<IconMap:Icon_QTE>",
+      "ElementType": 205,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1451007": {
+      "Name": "終結スキル：突撃、デカ腕マン！",
+      "Desc": "<IconMap:Icon_UltimateReady>（方向を入力し続けると突進時間を延長可能）",
+      "ElementType": 205,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1451008": {
+      "Name": "クイック支援：ミスティストライク",
+      "Desc": "<IconMap:Icon_Switch>（クイック支援の発動条件を満たした時）",
+      "ElementType": 205,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1451009": {
+      "Name": "パリィ支援：ドリームコール",
+      "Desc": "<IconMap:Icon_Switch>（パリィ支援の発動条件を満たした時）",
+      "ElementType": 0,
+      "HitType": 0,
+      "Potential": []
+    },
+    "1451010": {
+      "Name": "支援突撃：ドリームハーモニー",
+      "Desc": "<IconMap:Icon_Normal>（パリィ支援を発動した後に）",
+      "ElementType": 205,
+      "HitType": 102,
+      "Potential": []
+    }
+  },
+  "Passive": {
+    "Level": {
+      "1451501": {
+        "Level": 1,
+        "Id": 1451501,
+        "Name": [
+          "コアパッシブ：迷える夜の歌",
+          "追加能力：長夜の詩篇"
+        ],
+        "Desc": [
+          "フィールド入場時、リュシアは即座に<color=#FFFFFF>「夢境値」</color>を60Pt獲得する。<color=#FFFFFF>『随想』</color>または<color=#FFFFFF>『合唱』</color>発動時、リュシアの<color=#FFFFFF>「夢境値」</color>が100Ptに達している場合、<color=#FFFFFF>「夢境」</color>状態に入る。\n<color=#FFFFFF>「夢境」</color>状態に入る時、<color=#FFFFFF>『クイック支援』</color>が発動可能になり、同時に<color=#FFFFFF>「エーテルベール・湧泉」</color>を展開する。<color=#FFFFFF>「エーテルベール・湧泉」</color>展開中、メンバー全員の最大HP+5%、継続時間40秒、重複して発動すると継続時間が延長され、最大300秒に延長可能。\n<color=#FFFFFF>「夢境」</color>状態のリュシアが任意の<color=#FFFFFF>『随想』</color>を発動すると、<color=#FFFFFF>「夢境値」</color>を25Pt消費して<color=#FFFFFF>『随想』</color>を<color=#FFFFFF>『合唱』</color>にグレードアップする。\n操作している他のメンバーの攻撃が敵に命中すると、<color=#FFFFFF>「夢境値」</color>を25Pt消費して<color=#FFFFFF>『追加攻撃』</color>を発動する。<color=#FFFFFF>『追加攻撃』</color>は<color=#FFFFFF>『合唱』</color>である。スキルグレードアップまたは<color=#FFFFFF>『追加攻撃』</color>発動後の8秒間、<color=#FFFFFF>『追加攻撃』</color>が発動しなくなる。\nリュシアがスキルグレードアップまたは<color=#FFFFFF>『追加攻撃』</color>を発動すると、メンバー全員に<color=#FFFFFF>「夢巡りの童謡」</color>状態を付与する。<color=#FFFFFF>「夢巡りの童謡」</color>状態中、メンバーの与ダメージ+<color=#2BAD00>10%</color>、継続時間12秒、重複して発動すると継続時間が更新される。\n<color=#FFFFFF>「夢境値」</color>が不足している、または<color=#FFFFFF>「エーテルベール」</color>が終了した時、リュシアの<color=#FFFFFF>「夢境」</color>状態は解除される。",
+          "チームに<color=#FFFFFF>[命破]</color>または<color=#FFFFFF>[撃破]</color>のメンバーがいる時に発動：\n<color=#FFFFFF>「破暗」</color>状態を付与する時、追加で会心ダメージ+30%の効果を付与する。"
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1451502": {
+        "Level": 2,
+        "Id": 1451502,
+        "Name": [
+          "コアパッシブ：迷える夜の歌",
+          "追加能力：長夜の詩篇"
+        ],
+        "Desc": [
+          "フィールド入場時、リュシアは即座に<color=#FFFFFF>「夢境値」</color>を60Pt獲得する。<color=#FFFFFF>『随想』</color>または<color=#FFFFFF>『合唱』</color>発動時、リュシアの<color=#FFFFFF>「夢境値」</color>が100Ptに達している場合、<color=#FFFFFF>「夢境」</color>状態に入る。\n<color=#FFFFFF>「夢境」</color>状態に入る時、<color=#FFFFFF>『クイック支援』</color>が発動可能になり、同時に<color=#FFFFFF>「エーテルベール・湧泉」</color>を展開する。<color=#FFFFFF>「エーテルベール・湧泉」</color>展開中、メンバー全員の最大HP+5%、継続時間40秒、重複して発動すると継続時間が延長され、最大300秒に延長可能。\n<color=#FFFFFF>「夢境」</color>状態のリュシアが任意の<color=#FFFFFF>『随想』</color>を発動すると、<color=#FFFFFF>「夢境値」</color>を25Pt消費して<color=#FFFFFF>『随想』</color>を<color=#FFFFFF>『合唱』</color>にグレードアップする。\n操作している他のメンバーの攻撃が敵に命中すると、<color=#FFFFFF>「夢境値」</color>を25Pt消費して<color=#FFFFFF>『追加攻撃』</color>を発動する。<color=#FFFFFF>『追加攻撃』</color>は<color=#FFFFFF>『合唱』</color>である。スキルグレードアップまたは<color=#FFFFFF>『追加攻撃』</color>発動後の8秒間、<color=#FFFFFF>『追加攻撃』</color>が発動しなくなる。\nリュシアがスキルグレードアップまたは<color=#FFFFFF>『追加攻撃』</color>を発動すると、メンバー全員に<color=#FFFFFF>「夢巡りの童謡」</color>状態を付与する。<color=#FFFFFF>「夢巡りの童謡」</color>状態中、メンバーの与ダメージ+<color=#2BAD00>11.7%</color>、継続時間12秒、重複して発動すると継続時間が更新される。\n<color=#FFFFFF>「夢境値」</color>が不足している、または<color=#FFFFFF>「エーテルベール」</color>が終了した時、リュシアの<color=#FFFFFF>「夢境」</color>状態は解除される。",
+          "チームに<color=#FFFFFF>[命破]</color>または<color=#FFFFFF>[撃破]</color>のメンバーがいる時に発動：\n<color=#FFFFFF>「破暗」</color>状態を付与する時、追加で会心ダメージ+30%の効果を付与する。"
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1451503": {
+        "Level": 3,
+        "Id": 1451503,
+        "Name": [
+          "コアパッシブ：迷える夜の歌",
+          "追加能力：長夜の詩篇"
+        ],
+        "Desc": [
+          "フィールド入場時、リュシアは即座に<color=#FFFFFF>「夢境値」</color>を60Pt獲得する。<color=#FFFFFF>『随想』</color>または<color=#FFFFFF>『合唱』</color>発動時、リュシアの<color=#FFFFFF>「夢境値」</color>が100Ptに達している場合、<color=#FFFFFF>「夢境」</color>状態に入る。\n<color=#FFFFFF>「夢境」</color>状態に入る時、<color=#FFFFFF>『クイック支援』</color>が発動可能になり、同時に<color=#FFFFFF>「エーテルベール・湧泉」</color>を展開する。<color=#FFFFFF>「エーテルベール・湧泉」</color>展開中、メンバー全員の最大HP+5%、継続時間40秒、重複して発動すると継続時間が延長され、最大300秒に延長可能。\n<color=#FFFFFF>「夢境」</color>状態のリュシアが任意の<color=#FFFFFF>『随想』</color>を発動すると、<color=#FFFFFF>「夢境値」</color>を25Pt消費して<color=#FFFFFF>『随想』</color>を<color=#FFFFFF>『合唱』</color>にグレードアップする。\n操作している他のメンバーの攻撃が敵に命中すると、<color=#FFFFFF>「夢境値」</color>を25Pt消費して<color=#FFFFFF>『追加攻撃』</color>を発動する。<color=#FFFFFF>『追加攻撃』</color>は<color=#FFFFFF>『合唱』</color>である。スキルグレードアップまたは<color=#FFFFFF>『追加攻撃』</color>発動後の8秒間、<color=#FFFFFF>『追加攻撃』</color>が発動しなくなる。\nリュシアがスキルグレードアップまたは<color=#FFFFFF>『追加攻撃』</color>を発動すると、メンバー全員に<color=#FFFFFF>「夢巡りの童謡」</color>状態を付与する。<color=#FFFFFF>「夢巡りの童謡」</color>状態中、メンバーの与ダメージ+<color=#2BAD00>13.3%</color>、継続時間12秒、重複して発動すると継続時間が更新される。\n<color=#FFFFFF>「夢境値」</color>が不足している、または<color=#FFFFFF>「エーテルベール」</color>が終了した時、リュシアの<color=#FFFFFF>「夢境」</color>状態は解除される。",
+          "チームに<color=#FFFFFF>[命破]</color>または<color=#FFFFFF>[撃破]</color>のメンバーがいる時に発動：\n<color=#FFFFFF>「破暗」</color>状態を付与する時、追加で会心ダメージ+30%の効果を付与する。"
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1451504": {
+        "Level": 4,
+        "Id": 1451504,
+        "Name": [
+          "コアパッシブ：迷える夜の歌",
+          "追加能力：長夜の詩篇"
+        ],
+        "Desc": [
+          "フィールド入場時、リュシアは即座に<color=#FFFFFF>「夢境値」</color>を60Pt獲得する。<color=#FFFFFF>『随想』</color>または<color=#FFFFFF>『合唱』</color>発動時、リュシアの<color=#FFFFFF>「夢境値」</color>が100Ptに達している場合、<color=#FFFFFF>「夢境」</color>状態に入る。\n<color=#FFFFFF>「夢境」</color>状態に入る時、<color=#FFFFFF>『クイック支援』</color>が発動可能になり、同時に<color=#FFFFFF>「エーテルベール・湧泉」</color>を展開する。<color=#FFFFFF>「エーテルベール・湧泉」</color>展開中、メンバー全員の最大HP+5%、継続時間40秒、重複して発動すると継続時間が延長され、最大300秒に延長可能。\n<color=#FFFFFF>「夢境」</color>状態のリュシアが任意の<color=#FFFFFF>『随想』</color>を発動すると、<color=#FFFFFF>「夢境値」</color>を25Pt消費して<color=#FFFFFF>『随想』</color>を<color=#FFFFFF>『合唱』</color>にグレードアップする。\n操作している他のメンバーの攻撃が敵に命中すると、<color=#FFFFFF>「夢境値」</color>を25Pt消費して<color=#FFFFFF>『追加攻撃』</color>を発動する。<color=#FFFFFF>『追加攻撃』</color>は<color=#FFFFFF>『合唱』</color>である。スキルグレードアップまたは<color=#FFFFFF>『追加攻撃』</color>発動後の8秒間、<color=#FFFFFF>『追加攻撃』</color>が発動しなくなる。\nリュシアがスキルグレードアップまたは<color=#FFFFFF>『追加攻撃』</color>を発動すると、メンバー全員に<color=#FFFFFF>「夢巡りの童謡」</color>状態を付与する。<color=#FFFFFF>「夢巡りの童謡」</color>状態中、メンバーの与ダメージ+<color=#2BAD00>15%</color>、継続時間12秒、重複して発動すると継続時間が更新される。\n<color=#FFFFFF>「夢境値」</color>が不足している、または<color=#FFFFFF>「エーテルベール」</color>が終了した時、リュシアの<color=#FFFFFF>「夢境」</color>状態は解除される。",
+          "チームに<color=#FFFFFF>[命破]</color>または<color=#FFFFFF>[撃破]</color>のメンバーがいる時に発動：\n<color=#FFFFFF>「破暗」</color>状態を付与する時、追加で会心ダメージ+30%の効果を付与する。"
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1451505": {
+        "Level": 5,
+        "Id": 1451505,
+        "Name": [
+          "コアパッシブ：迷える夜の歌",
+          "追加能力：長夜の詩篇"
+        ],
+        "Desc": [
+          "フィールド入場時、リュシアは即座に<color=#FFFFFF>「夢境値」</color>を60Pt獲得する。<color=#FFFFFF>『随想』</color>または<color=#FFFFFF>『合唱』</color>発動時、リュシアの<color=#FFFFFF>「夢境値」</color>が100Ptに達している場合、<color=#FFFFFF>「夢境」</color>状態に入る。\n<color=#FFFFFF>「夢境」</color>状態に入る時、<color=#FFFFFF>『クイック支援』</color>が発動可能になり、同時に<color=#FFFFFF>「エーテルベール・湧泉」</color>を展開する。<color=#FFFFFF>「エーテルベール・湧泉」</color>展開中、メンバー全員の最大HP+5%、継続時間40秒、重複して発動すると継続時間が延長され、最大300秒に延長可能。\n<color=#FFFFFF>「夢境」</color>状態のリュシアが任意の<color=#FFFFFF>『随想』</color>を発動すると、<color=#FFFFFF>「夢境値」</color>を25Pt消費して<color=#FFFFFF>『随想』</color>を<color=#FFFFFF>『合唱』</color>にグレードアップする。\n操作している他のメンバーの攻撃が敵に命中すると、<color=#FFFFFF>「夢境値」</color>を25Pt消費して<color=#FFFFFF>『追加攻撃』</color>を発動する。<color=#FFFFFF>『追加攻撃』</color>は<color=#FFFFFF>『合唱』</color>である。スキルグレードアップまたは<color=#FFFFFF>『追加攻撃』</color>発動後の8秒間、<color=#FFFFFF>『追加攻撃』</color>が発動しなくなる。\nリュシアがスキルグレードアップまたは<color=#FFFFFF>『追加攻撃』</color>を発動すると、メンバー全員に<color=#FFFFFF>「夢巡りの童謡」</color>状態を付与する。<color=#FFFFFF>「夢巡りの童謡」</color>状態中、メンバーの与ダメージ+<color=#2BAD00>16.7%</color>、継続時間12秒、重複して発動すると継続時間が更新される。\n<color=#FFFFFF>「夢境値」</color>が不足している、または<color=#FFFFFF>「エーテルベール」</color>が終了した時、リュシアの<color=#FFFFFF>「夢境」</color>状態は解除される。",
+          "チームに<color=#FFFFFF>[命破]</color>または<color=#FFFFFF>[撃破]</color>のメンバーがいる時に発動：\n<color=#FFFFFF>「破暗」</color>状態を付与する時、追加で会心ダメージ+30%の効果を付与する。"
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1451506": {
+        "Level": 6,
+        "Id": 1451506,
+        "Name": [
+          "コアパッシブ：迷える夜の歌",
+          "追加能力：長夜の詩篇"
+        ],
+        "Desc": [
+          "フィールド入場時、リュシアは即座に<color=#FFFFFF>「夢境値」</color>を60Pt獲得する。<color=#FFFFFF>『随想』</color>または<color=#FFFFFF>『合唱』</color>発動時、リュシアの<color=#FFFFFF>「夢境値」</color>が100Ptに達している場合、<color=#FFFFFF>「夢境」</color>状態に入る。\n<color=#FFFFFF>「夢境」</color>状態に入る時、<color=#FFFFFF>『クイック支援』</color>が発動可能になり、同時に<color=#FFFFFF>「エーテルベール・湧泉」</color>を展開する。<color=#FFFFFF>「エーテルベール・湧泉」</color>展開中、メンバー全員の最大HP+5%、継続時間40秒、重複して発動すると継続時間が延長され、最大300秒に延長可能。\n<color=#FFFFFF>「夢境」</color>状態のリュシアが任意の<color=#FFFFFF>『随想』</color>を発動すると、<color=#FFFFFF>「夢境値」</color>を25Pt消費して<color=#FFFFFF>『随想』</color>を<color=#FFFFFF>『合唱』</color>にグレードアップする。\n操作している他のメンバーの攻撃が敵に命中すると、<color=#FFFFFF>「夢境値」</color>を25Pt消費して<color=#FFFFFF>『追加攻撃』</color>を発動する。<color=#FFFFFF>『追加攻撃』</color>は<color=#FFFFFF>『合唱』</color>である。スキルグレードアップまたは<color=#FFFFFF>『追加攻撃』</color>発動後の8秒間、<color=#FFFFFF>『追加攻撃』</color>が発動しなくなる。\nリュシアがスキルグレードアップまたは<color=#FFFFFF>『追加攻撃』</color>を発動すると、メンバー全員に<color=#FFFFFF>「夢巡りの童謡」</color>状態を付与する。<color=#FFFFFF>「夢巡りの童謡」</color>状態中、メンバーの与ダメージ+<color=#2BAD00>18.3%</color>、継続時間12秒、重複して発動すると継続時間が更新される。\n<color=#FFFFFF>「夢境値」</color>が不足している、または<color=#FFFFFF>「エーテルベール」</color>が終了した時、リュシアの<color=#FFFFFF>「夢境」</color>状態は解除される。",
+          "チームに<color=#FFFFFF>[命破]</color>または<color=#FFFFFF>[撃破]</color>のメンバーがいる時に発動：\n<color=#FFFFFF>「破暗」</color>状態を付与する時、追加で会心ダメージ+30%の効果を付与する。"
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1451507": {
+        "Level": 7,
+        "Id": 1451507,
+        "Name": [
+          "コアパッシブ：迷える夜の歌",
+          "追加能力：長夜の詩篇"
+        ],
+        "Desc": [
+          "フィールド入場時、リュシアは即座に<color=#FFFFFF>「夢境値」</color>を60Pt獲得する。<color=#FFFFFF>『随想』</color>または<color=#FFFFFF>『合唱』</color>発動時、リュシアの<color=#FFFFFF>「夢境値」</color>が100Ptに達している場合、<color=#FFFFFF>「夢境」</color>状態に入る。\n<color=#FFFFFF>「夢境」</color>状態に入る時、<color=#FFFFFF>『クイック支援』</color>が発動可能になり、同時に<color=#FFFFFF>「エーテルベール・湧泉」</color>を展開する。<color=#FFFFFF>「エーテルベール・湧泉」</color>展開中、メンバー全員の最大HP+5%、継続時間40秒、重複して発動すると継続時間が延長され、最大300秒に延長可能。\n<color=#FFFFFF>「夢境」</color>状態のリュシアが任意の<color=#FFFFFF>『随想』</color>を発動すると、<color=#FFFFFF>「夢境値」</color>を25Pt消費して<color=#FFFFFF>『随想』</color>を<color=#FFFFFF>『合唱』</color>にグレードアップする。\n操作している他のメンバーの攻撃が敵に命中すると、<color=#FFFFFF>「夢境値」</color>を25Pt消費して<color=#FFFFFF>『追加攻撃』</color>を発動する。<color=#FFFFFF>『追加攻撃』</color>は<color=#FFFFFF>『合唱』</color>である。スキルグレードアップまたは<color=#FFFFFF>『追加攻撃』</color>発動後の8秒間、<color=#FFFFFF>『追加攻撃』</color>が発動しなくなる。\nリュシアがスキルグレードアップまたは<color=#FFFFFF>『追加攻撃』</color>を発動すると、メンバー全員に<color=#FFFFFF>「夢巡りの童謡」</color>状態を付与する。<color=#FFFFFF>「夢巡りの童謡」</color>状態中、メンバーの与ダメージ+<color=#2BAD00>20%</color>、継続時間12秒、重複して発動すると継続時間が更新される。\n<color=#FFFFFF>「夢境値」</color>が不足している、または<color=#FFFFFF>「エーテルベール」</color>が終了した時、リュシアの<color=#FFFFFF>「夢境」</color>状態は解除される。",
+          "チームに<color=#FFFFFF>[命破]</color>または<color=#FFFFFF>[撃破]</color>のメンバーがいる時に発動：\n<color=#FFFFFF>「破暗」</color>状態を付与する時、追加で会心ダメージ+30%の効果を付与する。"
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      }
+    },
+    "Materials": {
+      "1": {
+        "10": 5000
+      },
+      "2": {
+        "10": 12000,
+        "110512": 2
+      },
+      "3": {
+        "10": 28000,
+        "110512": 4
+      },
+      "4": {
+        "10": 60000,
+        "110007": 2,
+        "110512": 9
+      },
+      "5": {
+        "10": 100000,
+        "110007": 3,
+        "110512": 15
+      },
+      "6": {
+        "10": 200000,
+        "110007": 4,
+        "110512": 30
+      }
+    }
+  },
+  "Talent": {
+    "1": {
+      "Level": 1,
+      "Name": "秘密の友達",
+      "Desc": "<color=#FFFFFF>「夢巡りの童謡」</color>状態にある時、敵の全属性ダメージ耐性を18%無視し、デシベル値獲得効率+5%。また、リュシアはスキルグレードアップを発動すると、<color=#FFFFFF>「エコー」</color>を1重獲得する、最大4重まで重ね掛け可能。<color=#FFFFFF>「夢巡りの童謡」</color>状態が終了した時、リュシアが<color=#FFFFFF>「エコー」</color>を所持している場合、自動で1重を消費してメンバー全員にもう一度<color=#FFFFFF>「夢巡りの童謡」</color>状態を付与する。",
+      "Desc2": "まだ子どもだった頃、\n「おばあ」はリュシアの手を引いてホロウへ行った。\nそのときから彼女は光のない小道をたどり、\n果てしないホロウで狩りをするようになった。\nスケッチブックにすれ違うエーテリアスを描きとめ、\n幼い日々の全てをエーテルの輝きが彩る。\n「ちっちゃい頃、お友達が3人いたんだ。\nとっても強いクロタテと、瞬間移動ができるタナっち、\nそれからすっごくすっごく強いデカ腕マン…！」\n「そのうち、みんないなくなっちゃったけど…」\n「…大丈夫！みんなのことは手帳に描いたから——\n今は杖を振るだけで来てくれるんだ！」"
+    },
+    "2": {
+      "Level": 2,
+      "Name": "マジシャンみたいだね",
+      "Desc": "リュシアが<color=#FFFFFF>「エーテルベール・湧泉」</color>の効果を受けている時、<color=#FFFFFF>『合唱』</color>の与ダメージ+15%。<color=#FFFFFF>「破暗」</color>状態のメンバーが<color=#FFFFFF>「エーテルベール・湧泉」</color>の効果を受けている時、追加で透徹ダメージ+15%の効果を獲得する。",
+      "Desc2": "最近、新エリー都で「夜魔の語り部」に\nまつわる噂が広まっている。\n「毎晩0時になると、夜魔の語り部は街に現れて、\nいろんなお話を聞かせてくれる！」\n「夜魔の語り部、呪文を唱えると\nページがめくれて、たくさんのエーテリアスが\n戦ってくれるんだ！マジシャンみたい！」\n「この前ホロウで迷子になった時も、\nそうやってボクたちを助けてくれた！」\n――アボカドボンプ、アクマデボンプ、ズバットボンプによる証言"
+    },
+    "3": {
+      "Level": 3,
+      "Name": "ベストパートナー",
+      "Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+      "Desc2": "——コンコン、コンコンコン。\n規則的なノックの音とともに、\n窓から差し出されたのは串焼きだった。\n「ほら、レモン味のパチパチをふりかけた串焼き、\n出来立てほやほや！デュラハンが持ってる\n左手の剣と右手の盾みたいに、\n抜群のコンビネーションだから！」\n「食べ終わったら、一緒に出かけよっ」\n「今夜はとびっきりのネタが見つかる気がするの——\nそれもフォーラムで超バズりそうなやつ！」"
+    },
+    "4": {
+      "Level": 4,
+      "Name": "時は深夜",
+      "Desc": "フィールド上で<color=#FFFFFF>「エーテルベール」</color>が展開または延長された時、メンバー全員がデシベル値を100Pt獲得する。この効果は15秒に1回のみ発動可能。",
+      "Desc2": "尽きない好奇心、満ちた行動力、\nそして思い立ったら即行動する決意は、\n「怪談学者」にとって欠かせない重要な素質——\nリュシアはまさにそれを絵に描いたような人物だ。\nだからこそ、新エリー都にやってきたばかりの頃、\n彼女は治安局の常連でもあった。そして今…\n「だーかーら！いくら怪談のためだからって、\n勝手に工事現場に入っちゃダメだってば！」\n「路上で寝る、夜遅くに出歩く、人が見てる前で\nホロウに突っ込む…こういうの全部禁止！\n『新エリー都生活条例』をちゃんと守ってよね！」\n「どうしても眠れないなら…\nうーん、アリスんちを探検してきたら？\nついでにあの子に怖い話でもしてあげてよ」"
+    },
+    "5": {
+      "Level": 5,
+      "Name": "夢を守る人",
+      "Desc": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避』</color>、<color=#FFFFFF>『支援スキル』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>のスキルレベル+2",
+      "Desc2": "墨色の夜空に散る星々が、美しく輝いている。\n彼女は物語と、歌と、書きかけの詩を携えて、\n遠くからやってきた旅人。\n露の滴る花を摘み、そっと窓辺に置いて、\nあなたの夢が温かく安心できるものであるように、\n静かに見守る。\n\n「おはよう…あれ、いつ来て{M#いたんだい}{F#たの}？」\n「えー？覚えてないよ…たぶん\n{M#アキラ}{F#リン}が起きるちょっと前かな？\n君の寝顔を見てたら、時間なんて一瞬だし」"
+    },
+    "6": {
+      "Level": 6,
+      "Name": "旅はけして終わらない",
+      "Desc": "リュシアが任意の<color=#FFFFFF>「エーテルベール」</color>効果を受けている時、自身の開幕最大HPの2%を基に、自身の攻撃力がアップする。また、<color=#FFFFFF>『合唱』</color>を発動すると必ず会心が発生し、<color=#FFFFFF>『合唱』</color>で会心が発生した時、会心ダメージ+30%。",
+      "Desc2": "リュシアの人生は終わりのない旅路。\n彼女は月明かりを浴びながら、いくつもの通り、\nいくつもの町を駆け抜けて何かを探し求める。\n物語の糸が織りなす無数の美しい夢、\n常夜灯の下で流れる軽やかな歌声。\nその歩みは決して止まらず、\n旅路は星空の下で永遠に続いていく。\n\n夜が次第に明け、陽が昇ると、\n少女は伸びをしながらホロウから出てきた。\n「ふあぁ…ねむ…でもみんなは\nホロウで寝るなって言うし…」\n「そうだ、ビデオ屋の床を借りよっと！」"
+    }
+  },
+  "FairyRecommend": {
+    "Slot4": 33400,
+    "Slot2": 31600,
+    "SlotSub": 33100,
+    "Part4": {
+      "Prop": 11102,
+      "Name": "HP",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconHpMax.png"
+    },
+    "Part5": {
+      "Prop": 30502,
+      "Name": "エネルギー自動回復",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconSpRecover.png"
+    },
+    "Part6": {
+      "Prop": 20103,
+      "Name": "会心率",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
+    },
+    "PartSub": {
+      "Prop": 12102,
+      "Name": "攻撃力",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
+    }
+  },
+  "Potential": [],
+  "PotentialDetail": {},
+  "Live2D": "UISpineLucia"
+}
