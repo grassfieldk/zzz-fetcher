@@ -1,5 +1,5 @@
 
-import { mkdir, writeFile } from "node:fs/promises";
+import { access, mkdir, writeFile } from "node:fs/promises";
 import { dirname, join } from "node:path";
 
 const CHARACTER_INDEX_URL = "https://api.hakush.in/zzz/data/character.json";
@@ -88,15 +88,25 @@ function slugify(name: string) {
     .replace(/(^-+|-+$)/g, "");
 }
 
-function getFileName(key: string, detail: RawCharacter) {
-  const codeName = getString(detail.CodeName);
-  if (!codeName) return key;
-  const slug = slugify(codeName);
+async function fileExists(path: string) {
+  try {
+    await access(path);
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+function getIndexFileName(key: string, indexEntry: RawCharacter) {
+  const code = getString(indexEntry.CodeName ?? indexEntry.code);
+  if (!code) return key;
+  const slug = slugify(code);
   return slug.length ? slug : key;
 }
 
-async function saveSimplified(key: string, detail: RawCharacter, data: RawCharacter) {
-  const destination = join(OUTPUT_DIR, `${getFileName(key, detail)}.json`);
+async function saveSimplified(outputName: string, data: RawCharacter) {
+  await ensureDirectory(OUTPUT_DIR);
+  const destination = join(OUTPUT_DIR, `${outputName}.json`);
   await ensureDirectory(dirname(destination));
   await writeFile(destination, `${JSON.stringify(data, null, 2)}\n`, "utf8");
 }
@@ -106,10 +116,17 @@ async function main() {
     const characterIndex = await fetchJson<Record<string, unknown>>(CHARACTER_INDEX_URL);
     await ensureDirectory(OUTPUT_DIR);
     for (const key of Object.keys(characterIndex)) {
+      const indexEntry = characterIndex[key] as RawCharacter | undefined;
+      const outputName = getIndexFileName(key, indexEntry ?? {});
+      const destination = join(OUTPUT_DIR, `${outputName}.json`);
+      if (await fileExists(destination)) {
+        console.log(`skip ${key}`);
+        continue;
+      }
       const detailUrl = `${CHARACTER_DETAIL_URL}/${encodeURIComponent(key)}.json`;
       const detail = await fetchJson<RawCharacter>(detailUrl);
       const simplified = simplifyCharacter(detail);
-      await saveSimplified(key, detail, simplified);
+      await saveSimplified(outputName, simplified);
       console.log(`saved ${key}`);
     }
   } catch (error) {
