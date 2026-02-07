@@ -300,25 +300,41 @@
               "desc": "{Skill:1251001, Prop:1001}",
               "param": {
                 "1251001": {
-                  "main": 4720,
-                  "growth": 430,
                   "format": "%",
-                  "damagePercentage": 4720,
                   "damagePercentageGrowth": 430,
-                  "stunRatio": 2360,
                   "stunRatioGrowth": 110,
-                  "spRecovery": 7710,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 59125,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 0,
-                  "spConsume": 0,
                   "attackData": [
                     0
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 2142
+                  "levelValues": {
+                    "12": {
+                      "main": 47.2,
+                      "growth": 430,
+                      "damagePercentage": 94.5,
+                      "stunRatio": 35.7,
+                      "spRecovery": 7710,
+                      "feverRecovery": 59125,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2142
+                    },
+                    "16": {
+                      "main": 47.2,
+                      "growth": 430,
+                      "damagePercentage": 111.7,
+                      "stunRatio": 40.1,
+                      "spRecovery": 7710,
+                      "feverRecovery": 59125,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2142
+                    }
+                  }
                 }
               },
               "potential": []
@@ -328,25 +344,41 @@
               "desc": "{Skill:1251002, Prop:1001}",
               "param": {
                 "1251002": {
-                  "main": 11030,
-                  "growth": 1010,
                   "format": "%",
-                  "damagePercentage": 11030,
                   "damagePercentageGrowth": 1010,
-                  "stunRatio": 5520,
                   "stunRatioGrowth": 260,
-                  "spRecovery": 18050,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 138050,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 0,
-                  "spConsume": 0,
                   "attackData": [
                     0
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 5014
+                  "levelValues": {
+                    "12": {
+                      "main": 110.3,
+                      "growth": 1010,
+                      "damagePercentage": 221.4,
+                      "stunRatio": 83.8,
+                      "spRecovery": 18050,
+                      "feverRecovery": 138050,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5014
+                    },
+                    "16": {
+                      "main": 110.3,
+                      "growth": 1010,
+                      "damagePercentage": 261.8,
+                      "stunRatio": 94.2,
+                      "spRecovery": 18050,
+                      "feverRecovery": 138050,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5014
+                    }
+                  }
                 }
               },
               "potential": []
@@ -356,25 +388,41 @@
               "desc": "{Skill:1251003, Prop:1001}",
               "param": {
                 "1251003": {
-                  "main": 12210,
-                  "growth": 1110,
                   "format": "%",
-                  "damagePercentage": 12210,
                   "damagePercentageGrowth": 1110,
-                  "stunRatio": 8220,
                   "stunRatioGrowth": 380,
-                  "spRecovery": 26890,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 239250,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 0,
-                  "spConsume": 0,
                   "attackData": [
                     0
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 7469
+                  "levelValues": {
+                    "12": {
+                      "main": 122.1,
+                      "growth": 1110,
+                      "damagePercentage": 244.2,
+                      "stunRatio": 124,
+                      "spRecovery": 26890,
+                      "feverRecovery": 239250,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 7469
+                    },
+                    "16": {
+                      "main": 122.1,
+                      "growth": 1110,
+                      "damagePercentage": 288.6,
+                      "stunRatio": 139.2,
+                      "spRecovery": 26890,
+                      "feverRecovery": 239250,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 7469
+                    }
+                  }
                 }
               },
               "potential": []
@@ -384,25 +432,41 @@
               "desc": "{Skill:1251004, Prop:1001}",
               "param": {
                 "1251004": {
-                  "main": 1760,
-                  "growth": 160,
                   "format": "%",
-                  "damagePercentage": 1760,
                   "damagePercentageGrowth": 160,
-                  "stunRatio": 1910,
                   "stunRatioGrowth": 90,
-                  "spRecovery": 4800,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 36850,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 1333,
-                  "spConsume": 0,
                   "attackData": [
                     33334
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 1334
+                  "levelValues": {
+                    "12": {
+                      "main": 17.6,
+                      "growth": 160,
+                      "damagePercentage": 35.2,
+                      "stunRatio": 29,
+                      "spRecovery": 4800,
+                      "feverRecovery": 36850,
+                      "attributeInfliction": 1333,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 1334
+                    },
+                    "16": {
+                      "main": 17.6,
+                      "growth": 160,
+                      "damagePercentage": 41.6,
+                      "stunRatio": 32.6,
+                      "spRecovery": 4800,
+                      "feverRecovery": 36850,
+                      "attributeInfliction": 1333,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 1334
+                    }
+                  }
                 }
               },
               "potential": []
@@ -412,25 +476,41 @@
               "desc": "{Skill:1251005, Prop:1001}",
               "param": {
                 "1251005": {
-                  "main": 10640,
-                  "growth": 970,
                   "format": "%",
-                  "damagePercentage": 10640,
                   "damagePercentageGrowth": 970,
-                  "stunRatio": 10630,
                   "stunRatioGrowth": 490,
-                  "spRecovery": 34770,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 265650,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 6454,
-                  "spConsume": 0,
                   "attackData": [
                     32271
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 9658
+                  "levelValues": {
+                    "12": {
+                      "main": 106.4,
+                      "growth": 970,
+                      "damagePercentage": 213.1,
+                      "stunRatio": 160.2,
+                      "spRecovery": 34770,
+                      "feverRecovery": 265650,
+                      "attributeInfliction": 6454,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 9658
+                    },
+                    "16": {
+                      "main": 106.4,
+                      "growth": 970,
+                      "damagePercentage": 251.9,
+                      "stunRatio": 179.8,
+                      "spRecovery": 34770,
+                      "feverRecovery": 265650,
+                      "attributeInfliction": 6454,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 9658
+                    }
+                  }
                 }
               },
               "potential": []
@@ -440,25 +520,41 @@
               "desc": "{Skill:1251006, Prop:1001}",
               "param": {
                 "1251006": {
-                  "main": 23440,
-                  "growth": 2140,
                   "format": "%",
-                  "damagePercentage": 23440,
                   "damagePercentageGrowth": 2140,
-                  "stunRatio": 20470,
                   "stunRatioGrowth": 940,
-                  "spRecovery": 66980,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 511775,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 15399,
-                  "spConsume": 0,
                   "attackData": [
                     76999
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 18603
+                  "levelValues": {
+                    "12": {
+                      "main": 234.4,
+                      "growth": 2140,
+                      "damagePercentage": 469.8,
+                      "stunRatio": 308.1,
+                      "spRecovery": 66980,
+                      "feverRecovery": 511775,
+                      "attributeInfliction": 15399,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 18603
+                    },
+                    "16": {
+                      "main": 234.4,
+                      "growth": 2140,
+                      "damagePercentage": 555.4,
+                      "stunRatio": 345.7,
+                      "spRecovery": 66980,
+                      "feverRecovery": 511775,
+                      "attributeInfliction": 15399,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 18603
+                    }
+                  }
                 }
               },
               "potential": []
@@ -468,25 +564,41 @@
               "desc": "{Skill:1251001, Prop:1002}",
               "param": {
                 "1251001": {
-                  "main": 2360,
-                  "growth": 110,
                   "format": "%",
-                  "damagePercentage": 4720,
                   "damagePercentageGrowth": 430,
-                  "stunRatio": 2360,
                   "stunRatioGrowth": 110,
-                  "spRecovery": 7710,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 59125,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 0,
-                  "spConsume": 0,
                   "attackData": [
                     0
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 2142
+                  "levelValues": {
+                    "12": {
+                      "main": 23.6,
+                      "growth": 110,
+                      "damagePercentage": 94.5,
+                      "stunRatio": 35.7,
+                      "spRecovery": 7710,
+                      "feverRecovery": 59125,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2142
+                    },
+                    "16": {
+                      "main": 23.6,
+                      "growth": 110,
+                      "damagePercentage": 111.7,
+                      "stunRatio": 40.1,
+                      "spRecovery": 7710,
+                      "feverRecovery": 59125,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2142
+                    }
+                  }
                 }
               },
               "potential": []
@@ -496,25 +608,41 @@
               "desc": "{Skill:1251002, Prop:1002}",
               "param": {
                 "1251002": {
-                  "main": 5520,
-                  "growth": 260,
                   "format": "%",
-                  "damagePercentage": 11030,
                   "damagePercentageGrowth": 1010,
-                  "stunRatio": 5520,
                   "stunRatioGrowth": 260,
-                  "spRecovery": 18050,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 138050,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 0,
-                  "spConsume": 0,
                   "attackData": [
                     0
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 5014
+                  "levelValues": {
+                    "12": {
+                      "main": 55.2,
+                      "growth": 260,
+                      "damagePercentage": 221.4,
+                      "stunRatio": 83.8,
+                      "spRecovery": 18050,
+                      "feverRecovery": 138050,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5014
+                    },
+                    "16": {
+                      "main": 55.2,
+                      "growth": 260,
+                      "damagePercentage": 261.8,
+                      "stunRatio": 94.2,
+                      "spRecovery": 18050,
+                      "feverRecovery": 138050,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5014
+                    }
+                  }
                 }
               },
               "potential": []
@@ -524,25 +652,41 @@
               "desc": "{Skill:1251003, Prop:1002}",
               "param": {
                 "1251003": {
-                  "main": 8220,
-                  "growth": 380,
                   "format": "%",
-                  "damagePercentage": 12210,
                   "damagePercentageGrowth": 1110,
-                  "stunRatio": 8220,
                   "stunRatioGrowth": 380,
-                  "spRecovery": 26890,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 239250,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 0,
-                  "spConsume": 0,
                   "attackData": [
                     0
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 7469
+                  "levelValues": {
+                    "12": {
+                      "main": 82.2,
+                      "growth": 380,
+                      "damagePercentage": 244.2,
+                      "stunRatio": 124,
+                      "spRecovery": 26890,
+                      "feverRecovery": 239250,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 7469
+                    },
+                    "16": {
+                      "main": 82.2,
+                      "growth": 380,
+                      "damagePercentage": 288.6,
+                      "stunRatio": 139.2,
+                      "spRecovery": 26890,
+                      "feverRecovery": 239250,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 7469
+                    }
+                  }
                 }
               },
               "potential": []
@@ -552,25 +696,41 @@
               "desc": "{Skill:1251004, Prop:1002}",
               "param": {
                 "1251004": {
-                  "main": 1910,
-                  "growth": 90,
                   "format": "%",
-                  "damagePercentage": 1760,
                   "damagePercentageGrowth": 160,
-                  "stunRatio": 1910,
                   "stunRatioGrowth": 90,
-                  "spRecovery": 4800,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 36850,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 1333,
-                  "spConsume": 0,
                   "attackData": [
                     33334
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 1334
+                  "levelValues": {
+                    "12": {
+                      "main": 19.1,
+                      "growth": 90,
+                      "damagePercentage": 35.2,
+                      "stunRatio": 29,
+                      "spRecovery": 4800,
+                      "feverRecovery": 36850,
+                      "attributeInfliction": 1333,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 1334
+                    },
+                    "16": {
+                      "main": 19.1,
+                      "growth": 90,
+                      "damagePercentage": 41.6,
+                      "stunRatio": 32.6,
+                      "spRecovery": 4800,
+                      "feverRecovery": 36850,
+                      "attributeInfliction": 1333,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 1334
+                    }
+                  }
                 }
               },
               "potential": []
@@ -580,25 +740,41 @@
               "desc": "{Skill:1251005, Prop:1002}",
               "param": {
                 "1251005": {
-                  "main": 10630,
-                  "growth": 490,
                   "format": "%",
-                  "damagePercentage": 10640,
                   "damagePercentageGrowth": 970,
-                  "stunRatio": 10630,
                   "stunRatioGrowth": 490,
-                  "spRecovery": 34770,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 265650,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 6454,
-                  "spConsume": 0,
                   "attackData": [
                     32271
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 9658
+                  "levelValues": {
+                    "12": {
+                      "main": 106.3,
+                      "growth": 490,
+                      "damagePercentage": 213.1,
+                      "stunRatio": 160.2,
+                      "spRecovery": 34770,
+                      "feverRecovery": 265650,
+                      "attributeInfliction": 6454,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 9658
+                    },
+                    "16": {
+                      "main": 106.3,
+                      "growth": 490,
+                      "damagePercentage": 251.9,
+                      "stunRatio": 179.8,
+                      "spRecovery": 34770,
+                      "feverRecovery": 265650,
+                      "attributeInfliction": 6454,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 9658
+                    }
+                  }
                 }
               },
               "potential": []
@@ -608,25 +784,41 @@
               "desc": "{Skill:1251006, Prop:1002}",
               "param": {
                 "1251006": {
-                  "main": 20470,
-                  "growth": 940,
                   "format": "%",
-                  "damagePercentage": 23440,
                   "damagePercentageGrowth": 2140,
-                  "stunRatio": 20470,
                   "stunRatioGrowth": 940,
-                  "spRecovery": 66980,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 511775,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 15399,
-                  "spConsume": 0,
                   "attackData": [
                     76999
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 18603
+                  "levelValues": {
+                    "12": {
+                      "main": 204.7,
+                      "growth": 940,
+                      "damagePercentage": 469.8,
+                      "stunRatio": 308.1,
+                      "spRecovery": 66980,
+                      "feverRecovery": 511775,
+                      "attributeInfliction": 15399,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 18603
+                    },
+                    "16": {
+                      "main": 204.7,
+                      "growth": 940,
+                      "damagePercentage": 555.4,
+                      "stunRatio": 345.7,
+                      "spRecovery": 66980,
+                      "feverRecovery": 511775,
+                      "attributeInfliction": 15399,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 18603
+                    }
+                  }
                 }
               },
               "potential": []
@@ -642,25 +834,41 @@
               "desc": "{Skill:1251007, Prop:1001}",
               "param": {
                 "1251007": {
-                  "main": 8560,
-                  "growth": 780,
                   "format": "%",
-                  "damagePercentage": 8560,
                   "damagePercentageGrowth": 780,
-                  "stunRatio": 8560,
                   "stunRatioGrowth": 390,
-                  "spRecovery": 27990,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 213950,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 7774,
-                  "spConsume": 0,
                   "attackData": [
                     19436
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 7775
+                  "levelValues": {
+                    "12": {
+                      "main": 85.6,
+                      "growth": 780,
+                      "damagePercentage": 171.4,
+                      "stunRatio": 128.5,
+                      "spRecovery": 27990,
+                      "feverRecovery": 213950,
+                      "attributeInfliction": 7774,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 7775
+                    },
+                    "16": {
+                      "main": 85.6,
+                      "growth": 780,
+                      "damagePercentage": 202.6,
+                      "stunRatio": 144.1,
+                      "spRecovery": 27990,
+                      "feverRecovery": 213950,
+                      "attributeInfliction": 7774,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 7775
+                    }
+                  }
                 }
               },
               "potential": []
@@ -670,25 +878,41 @@
               "desc": "{Skill:1251007, Prop:1002}",
               "param": {
                 "1251007": {
-                  "main": 8560,
-                  "growth": 390,
                   "format": "%",
-                  "damagePercentage": 8560,
                   "damagePercentageGrowth": 780,
-                  "stunRatio": 8560,
                   "stunRatioGrowth": 390,
-                  "spRecovery": 27990,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 213950,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 7774,
-                  "spConsume": 0,
                   "attackData": [
                     19436
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 7775
+                  "levelValues": {
+                    "12": {
+                      "main": 85.6,
+                      "growth": 390,
+                      "damagePercentage": 171.4,
+                      "stunRatio": 128.5,
+                      "spRecovery": 27990,
+                      "feverRecovery": 213950,
+                      "attributeInfliction": 7774,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 7775
+                    },
+                    "16": {
+                      "main": 85.6,
+                      "growth": 390,
+                      "damagePercentage": 202.6,
+                      "stunRatio": 144.1,
+                      "spRecovery": 27990,
+                      "feverRecovery": 213950,
+                      "attributeInfliction": 7774,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 7775
+                    }
+                  }
                 }
               },
               "potential": []
@@ -704,25 +928,41 @@
               "desc": "{Skill:1251008, Prop:1001}",
               "param": {
                 "1251008": {
-                  "main": 44870,
-                  "growth": 4080,
                   "format": "%",
-                  "damagePercentage": 44870,
                   "damagePercentageGrowth": 4080,
-                  "stunRatio": 27190,
                   "stunRatioGrowth": 1240,
-                  "spRecovery": 68450,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 523050,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 19013,
-                  "spConsume": 0,
                   "attackData": [
                     0
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 19014
+                  "levelValues": {
+                    "12": {
+                      "main": 448.7,
+                      "growth": 4080,
+                      "damagePercentage": 897.5,
+                      "stunRatio": 408.3,
+                      "spRecovery": 68450,
+                      "feverRecovery": 523050,
+                      "attributeInfliction": 19013,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 19014
+                    },
+                    "16": {
+                      "main": 448.7,
+                      "growth": 4080,
+                      "damagePercentage": 1060.7,
+                      "stunRatio": 457.9,
+                      "spRecovery": 68450,
+                      "feverRecovery": 523050,
+                      "attributeInfliction": 19013,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 19014
+                    }
+                  }
                 }
               },
               "potential": []
@@ -732,25 +972,41 @@
               "desc": "{Skill:1251009, Prop:1001}",
               "param": {
                 "1251009": {
-                  "main": 39440,
-                  "growth": 3590,
                   "format": "%",
-                  "damagePercentage": 39440,
                   "damagePercentageGrowth": 3590,
-                  "stunRatio": 21760,
                   "stunRatioGrowth": 990,
-                  "spRecovery": 54780,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 418550,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 15214,
-                  "spConsume": 0,
                   "attackData": [
                     0
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 15215
+                  "levelValues": {
+                    "12": {
+                      "main": 394.4,
+                      "growth": 3590,
+                      "damagePercentage": 789.3,
+                      "stunRatio": 326.5,
+                      "spRecovery": 54780,
+                      "feverRecovery": 418550,
+                      "attributeInfliction": 15214,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 15215
+                    },
+                    "16": {
+                      "main": 394.4,
+                      "growth": 3590,
+                      "damagePercentage": 932.9,
+                      "stunRatio": 366.1,
+                      "spRecovery": 54780,
+                      "feverRecovery": 418550,
+                      "attributeInfliction": 15214,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 15215
+                    }
+                  }
                 }
               },
               "potential": []
@@ -760,25 +1016,41 @@
               "desc": "{Skill:1251008, Prop:1002}",
               "param": {
                 "1251008": {
-                  "main": 27190,
-                  "growth": 1240,
                   "format": "%",
-                  "damagePercentage": 44870,
                   "damagePercentageGrowth": 4080,
-                  "stunRatio": 27190,
                   "stunRatioGrowth": 1240,
-                  "spRecovery": 68450,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 523050,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 19013,
-                  "spConsume": 0,
                   "attackData": [
                     0
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 19014
+                  "levelValues": {
+                    "12": {
+                      "main": 271.9,
+                      "growth": 1240,
+                      "damagePercentage": 897.5,
+                      "stunRatio": 408.3,
+                      "spRecovery": 68450,
+                      "feverRecovery": 523050,
+                      "attributeInfliction": 19013,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 19014
+                    },
+                    "16": {
+                      "main": 271.9,
+                      "growth": 1240,
+                      "damagePercentage": 1060.7,
+                      "stunRatio": 457.9,
+                      "spRecovery": 68450,
+                      "feverRecovery": 523050,
+                      "attributeInfliction": 19013,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 19014
+                    }
+                  }
                 }
               },
               "potential": []
@@ -788,25 +1060,41 @@
               "desc": "{Skill:1251009, Prop:1002}",
               "param": {
                 "1251009": {
-                  "main": 21760,
-                  "growth": 990,
                   "format": "%",
-                  "damagePercentage": 39440,
                   "damagePercentageGrowth": 3590,
-                  "stunRatio": 21760,
                   "stunRatioGrowth": 990,
-                  "spRecovery": 54780,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 418550,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 15214,
-                  "spConsume": 0,
                   "attackData": [
                     0
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 15215
+                  "levelValues": {
+                    "12": {
+                      "main": 217.6,
+                      "growth": 990,
+                      "damagePercentage": 789.3,
+                      "stunRatio": 326.5,
+                      "spRecovery": 54780,
+                      "feverRecovery": 418550,
+                      "attributeInfliction": 15214,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 15215
+                    },
+                    "16": {
+                      "main": 217.6,
+                      "growth": 990,
+                      "damagePercentage": 932.9,
+                      "stunRatio": 366.1,
+                      "spRecovery": 54780,
+                      "feverRecovery": 418550,
+                      "attributeInfliction": 15214,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 15215
+                    }
+                  }
                 }
               },
               "potential": []
@@ -889,25 +1177,41 @@
               "desc": "{Skill:1251012, Prop:1001}",
               "param": {
                 "1251012": {
-                  "main": 4950,
-                  "growth": 450,
                   "format": "%",
-                  "damagePercentage": 4950,
                   "damagePercentageGrowth": 450,
-                  "stunRatio": 2480,
                   "stunRatioGrowth": 120,
-                  "spRecovery": 8100,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 61875,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 0,
-                  "spConsume": 0,
                   "attackData": [
                     0
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 2249
+                  "levelValues": {
+                    "12": {
+                      "main": 49.5,
+                      "growth": 450,
+                      "damagePercentage": 99,
+                      "stunRatio": 38,
+                      "spRecovery": 8100,
+                      "feverRecovery": 61875,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2249
+                    },
+                    "16": {
+                      "main": 49.5,
+                      "growth": 450,
+                      "damagePercentage": 117,
+                      "stunRatio": 42.8,
+                      "spRecovery": 8100,
+                      "feverRecovery": 61875,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2249
+                    }
+                  }
                 }
               },
               "potential": []
@@ -917,25 +1221,41 @@
               "desc": "{Skill:1251012, Prop:1002}",
               "param": {
                 "1251012": {
-                  "main": 2480,
-                  "growth": 120,
                   "format": "%",
-                  "damagePercentage": 4950,
                   "damagePercentageGrowth": 450,
-                  "stunRatio": 2480,
                   "stunRatioGrowth": 120,
-                  "spRecovery": 8100,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 61875,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 0,
-                  "spConsume": 0,
                   "attackData": [
                     0
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 2249
+                  "levelValues": {
+                    "12": {
+                      "main": 24.8,
+                      "growth": 120,
+                      "damagePercentage": 99,
+                      "stunRatio": 38,
+                      "spRecovery": 8100,
+                      "feverRecovery": 61875,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2249
+                    },
+                    "16": {
+                      "main": 24.8,
+                      "growth": 120,
+                      "damagePercentage": 117,
+                      "stunRatio": 42.8,
+                      "spRecovery": 8100,
+                      "feverRecovery": 61875,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2249
+                    }
+                  }
                 }
               },
               "potential": []
@@ -951,25 +1271,41 @@
               "desc": "{Skill:1251013, Prop:1001}",
               "param": {
                 "1251013": {
-                  "main": 28400,
-                  "growth": 2590,
                   "format": "%",
-                  "damagePercentage": 28400,
                   "damagePercentageGrowth": 2590,
-                  "stunRatio": 19040,
                   "stunRatioGrowth": 870,
-                  "spRecovery": 43810,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 334675,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 12166,
-                  "spConsume": 0,
                   "attackData": [
                     160834
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 27167
+                  "levelValues": {
+                    "12": {
+                      "main": 284,
+                      "growth": 2590,
+                      "damagePercentage": 568.9,
+                      "stunRatio": 286.1,
+                      "spRecovery": 43810,
+                      "feverRecovery": 334675,
+                      "attributeInfliction": 12166,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 27167
+                    },
+                    "16": {
+                      "main": 284,
+                      "growth": 2590,
+                      "damagePercentage": 672.5,
+                      "stunRatio": 320.9,
+                      "spRecovery": 43810,
+                      "feverRecovery": 334675,
+                      "attributeInfliction": 12166,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 27167
+                    }
+                  }
                 }
               },
               "potential": []
@@ -979,25 +1315,41 @@
               "desc": "{Skill:1251013, Prop:1002}",
               "param": {
                 "1251013": {
-                  "main": 19040,
-                  "growth": 870,
                   "format": "%",
-                  "damagePercentage": 28400,
                   "damagePercentageGrowth": 2590,
-                  "stunRatio": 19040,
                   "stunRatioGrowth": 870,
-                  "spRecovery": 43810,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 334675,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 12166,
-                  "spConsume": 0,
                   "attackData": [
                     160834
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 27167
+                  "levelValues": {
+                    "12": {
+                      "main": 190.4,
+                      "growth": 870,
+                      "damagePercentage": 568.9,
+                      "stunRatio": 286.1,
+                      "spRecovery": 43810,
+                      "feverRecovery": 334675,
+                      "attributeInfliction": 12166,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 27167
+                    },
+                    "16": {
+                      "main": 190.4,
+                      "growth": 870,
+                      "damagePercentage": 672.5,
+                      "stunRatio": 320.9,
+                      "spRecovery": 43810,
+                      "feverRecovery": 334675,
+                      "attributeInfliction": 12166,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 27167
+                    }
+                  }
                 }
               },
               "potential": []
@@ -1075,25 +1427,41 @@
               "desc": "{Skill:1251010, Prop:1001}",
               "param": {
                 "1251010": {
-                  "main": 6240,
-                  "growth": 570,
                   "format": "%",
-                  "damagePercentage": 6240,
                   "damagePercentageGrowth": 570,
-                  "stunRatio": 6240,
                   "stunRatioGrowth": 290,
-                  "spRecovery": 0,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 155925,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 5668,
-                  "spConsume": 0,
                   "attackData": [
                     28342
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 5669
+                  "levelValues": {
+                    "12": {
+                      "main": 62.4,
+                      "growth": 570,
+                      "damagePercentage": 125.1,
+                      "stunRatio": 94.3,
+                      "spRecovery": 0,
+                      "feverRecovery": 155925,
+                      "attributeInfliction": 5668,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5669
+                    },
+                    "16": {
+                      "main": 62.4,
+                      "growth": 570,
+                      "damagePercentage": 147.9,
+                      "stunRatio": 105.9,
+                      "spRecovery": 0,
+                      "feverRecovery": 155925,
+                      "attributeInfliction": 5668,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5669
+                    }
+                  }
                 }
               },
               "potential": []
@@ -1103,25 +1471,41 @@
               "desc": "{Skill:1251010, Prop:1002}",
               "param": {
                 "1251010": {
-                  "main": 6240,
-                  "growth": 290,
                   "format": "%",
-                  "damagePercentage": 6240,
                   "damagePercentageGrowth": 570,
-                  "stunRatio": 6240,
                   "stunRatioGrowth": 290,
-                  "spRecovery": 0,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 155925,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 5668,
-                  "spConsume": 0,
                   "attackData": [
                     28342
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 5669
+                  "levelValues": {
+                    "12": {
+                      "main": 62.4,
+                      "growth": 290,
+                      "damagePercentage": 125.1,
+                      "stunRatio": 94.3,
+                      "spRecovery": 0,
+                      "feverRecovery": 155925,
+                      "attributeInfliction": 5668,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5669
+                    },
+                    "16": {
+                      "main": 62.4,
+                      "growth": 290,
+                      "damagePercentage": 147.9,
+                      "stunRatio": 105.9,
+                      "spRecovery": 0,
+                      "feverRecovery": 155925,
+                      "attributeInfliction": 5668,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5669
+                    }
+                  }
                 }
               },
               "potential": []
@@ -1137,67 +1521,115 @@
               "desc": "{{Skill:1251011, Prop:1001} + {Skill:1251021, Prop:1001} + {Skill:1251022, Prop:1001}}",
               "param": {
                 "1251011": {
-                  "main": 15070,
-                  "growth": 1370,
                   "format": "%",
-                  "damagePercentage": 15070,
                   "damagePercentageGrowth": 1370,
-                  "stunRatio": 11110,
                   "stunRatioGrowth": 510,
-                  "spRecovery": 0,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 408650,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 12465,
-                  "spConsume": 0,
                   "attackData": [
                     56162
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 3833
+                  "levelValues": {
+                    "12": {
+                      "main": 150.7,
+                      "growth": 1370,
+                      "damagePercentage": 301.4,
+                      "stunRatio": 167.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 408650,
+                      "attributeInfliction": 12465,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 3833
+                    },
+                    "16": {
+                      "main": 150.7,
+                      "growth": 1370,
+                      "damagePercentage": 356.2,
+                      "stunRatio": 187.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 408650,
+                      "attributeInfliction": 12465,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 3833
+                    }
+                  }
                 },
                 "1251021": {
-                  "main": 21100,
-                  "growth": 1920,
                   "format": "%",
-                  "damagePercentage": 21100,
                   "damagePercentageGrowth": 1920,
-                  "stunRatio": 15550,
                   "stunRatioGrowth": 710,
-                  "spRecovery": 0,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 572000,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 17451,
-                  "spConsume": 0,
                   "attackData": [
                     78626
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 5366
+                  "levelValues": {
+                    "12": {
+                      "main": 211,
+                      "growth": 1920,
+                      "damagePercentage": 422.2,
+                      "stunRatio": 233.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 572000,
+                      "attributeInfliction": 17451,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5366
+                    },
+                    "16": {
+                      "main": 211,
+                      "growth": 1920,
+                      "damagePercentage": 499,
+                      "stunRatio": 262,
+                      "spRecovery": 0,
+                      "feverRecovery": 572000,
+                      "attributeInfliction": 17451,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5366
+                    }
+                  }
                 },
                 "1251022": {
-                  "main": 24110,
-                  "growth": 2200,
                   "format": "%",
-                  "damagePercentage": 24110,
                   "damagePercentageGrowth": 2200,
-                  "stunRatio": 17770,
                   "stunRatioGrowth": 810,
-                  "spRecovery": 0,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 653675,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 19944,
-                  "spConsume": 0,
                   "attackData": [
                     89858
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 6132
+                  "levelValues": {
+                    "12": {
+                      "main": 241.1,
+                      "growth": 2200,
+                      "damagePercentage": 483.1,
+                      "stunRatio": 266.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 653675,
+                      "attributeInfliction": 19944,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6132
+                    },
+                    "16": {
+                      "main": 241.1,
+                      "growth": 2200,
+                      "damagePercentage": 571.1,
+                      "stunRatio": 299.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 653675,
+                      "attributeInfliction": 19944,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6132
+                    }
+                  }
                 }
               },
               "potential": []
@@ -1207,67 +1639,115 @@
               "desc": "{{Skill:1251011, Prop:1002} + {Skill:1251021, Prop:1002} + {Skill:1251022, Prop:1002}}",
               "param": {
                 "1251011": {
-                  "main": 11110,
-                  "growth": 510,
                   "format": "%",
-                  "damagePercentage": 15070,
                   "damagePercentageGrowth": 1370,
-                  "stunRatio": 11110,
                   "stunRatioGrowth": 510,
-                  "spRecovery": 0,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 408650,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 12465,
-                  "spConsume": 0,
                   "attackData": [
                     56162
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 3833
+                  "levelValues": {
+                    "12": {
+                      "main": 111.1,
+                      "growth": 510,
+                      "damagePercentage": 301.4,
+                      "stunRatio": 167.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 408650,
+                      "attributeInfliction": 12465,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 3833
+                    },
+                    "16": {
+                      "main": 111.1,
+                      "growth": 510,
+                      "damagePercentage": 356.2,
+                      "stunRatio": 187.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 408650,
+                      "attributeInfliction": 12465,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 3833
+                    }
+                  }
                 },
                 "1251021": {
-                  "main": 15550,
-                  "growth": 710,
                   "format": "%",
-                  "damagePercentage": 21100,
                   "damagePercentageGrowth": 1920,
-                  "stunRatio": 15550,
                   "stunRatioGrowth": 710,
-                  "spRecovery": 0,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 572000,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 17451,
-                  "spConsume": 0,
                   "attackData": [
                     78626
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 5366
+                  "levelValues": {
+                    "12": {
+                      "main": 155.5,
+                      "growth": 710,
+                      "damagePercentage": 422.2,
+                      "stunRatio": 233.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 572000,
+                      "attributeInfliction": 17451,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5366
+                    },
+                    "16": {
+                      "main": 155.5,
+                      "growth": 710,
+                      "damagePercentage": 499,
+                      "stunRatio": 262,
+                      "spRecovery": 0,
+                      "feverRecovery": 572000,
+                      "attributeInfliction": 17451,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5366
+                    }
+                  }
                 },
                 "1251022": {
-                  "main": 17770,
-                  "growth": 810,
                   "format": "%",
-                  "damagePercentage": 24110,
                   "damagePercentageGrowth": 2200,
-                  "stunRatio": 17770,
                   "stunRatioGrowth": 810,
-                  "spRecovery": 0,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 653675,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 19944,
-                  "spConsume": 0,
                   "attackData": [
                     89858
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 6132
+                  "levelValues": {
+                    "12": {
+                      "main": 177.7,
+                      "growth": 810,
+                      "damagePercentage": 483.1,
+                      "stunRatio": 266.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 653675,
+                      "attributeInfliction": 19944,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6132
+                    },
+                    "16": {
+                      "main": 177.7,
+                      "growth": 810,
+                      "damagePercentage": 571.1,
+                      "stunRatio": 299.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 653675,
+                      "attributeInfliction": 19944,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6132
+                    }
+                  }
                 }
               },
               "potential": []
@@ -1355,25 +1835,41 @@
               "desc": "{Skill:1251014, Prop:1001}",
               "param": {
                 "1251014": {
-                  "main": 64790,
-                  "growth": 5890,
                   "format": "%",
-                  "damagePercentage": 64790,
                   "damagePercentageGrowth": 5890,
-                  "stunRatio": 20900,
                   "stunRatioGrowth": 950,
-                  "spRecovery": 0,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 2351250,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 38946,
-                  "spConsume": 0,
                   "attackData": [
                     250000
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 18997
+                  "levelValues": {
+                    "12": {
+                      "main": 647.9,
+                      "growth": 5890,
+                      "damagePercentage": 1295.8,
+                      "stunRatio": 313.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 2351250,
+                      "attributeInfliction": 38946,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 18997
+                    },
+                    "16": {
+                      "main": 647.9,
+                      "growth": 5890,
+                      "damagePercentage": 1531.4,
+                      "stunRatio": 351.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 2351250,
+                      "attributeInfliction": 38946,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 18997
+                    }
+                  }
                 }
               },
               "potential": []
@@ -1383,25 +1879,41 @@
               "desc": "{Skill:1251014, Prop:1002}",
               "param": {
                 "1251014": {
-                  "main": 20900,
-                  "growth": 950,
                   "format": "%",
-                  "damagePercentage": 64790,
                   "damagePercentageGrowth": 5890,
-                  "stunRatio": 20900,
                   "stunRatioGrowth": 950,
-                  "spRecovery": 0,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 2351250,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 38946,
-                  "spConsume": 0,
                   "attackData": [
                     250000
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 18997
+                  "levelValues": {
+                    "12": {
+                      "main": 209,
+                      "growth": 950,
+                      "damagePercentage": 1295.8,
+                      "stunRatio": 313.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 2351250,
+                      "attributeInfliction": 38946,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 18997
+                    },
+                    "16": {
+                      "main": 209,
+                      "growth": 950,
+                      "damagePercentage": 1531.4,
+                      "stunRatio": 351.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 2351250,
+                      "attributeInfliction": 38946,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 18997
+                    }
+                  }
                 }
               },
               "potential": []
@@ -1417,25 +1929,41 @@
               "desc": "{Skill:1251015, Prop:1001}",
               "param": {
                 "1251015": {
-                  "main": 167070,
-                  "growth": 15190,
                   "format": "%",
-                  "damagePercentage": 167070,
                   "damagePercentageGrowth": 15190,
-                  "stunRatio": 109710,
                   "stunRatioGrowth": 4990,
-                  "spRecovery": 0,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 0,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 21503,
-                  "spConsume": 0,
                   "attackData": [
                     800000
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 71504
+                  "levelValues": {
+                    "12": {
+                      "main": 1670.7,
+                      "growth": 15190,
+                      "damagePercentage": 3341.6,
+                      "stunRatio": 1646,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 21503,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 71504
+                    },
+                    "16": {
+                      "main": 1670.7,
+                      "growth": 15190,
+                      "damagePercentage": 3949.2,
+                      "stunRatio": 1845.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 21503,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 71504
+                    }
+                  }
                 }
               },
               "potential": []
@@ -1445,25 +1973,41 @@
               "desc": "{Skill:1251015, Prop:1002}",
               "param": {
                 "1251015": {
-                  "main": 109710,
-                  "growth": 4990,
                   "format": "%",
-                  "damagePercentage": 167070,
                   "damagePercentageGrowth": 15190,
-                  "stunRatio": 109710,
                   "stunRatioGrowth": 4990,
-                  "spRecovery": 0,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 0,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 21503,
-                  "spConsume": 0,
                   "attackData": [
                     800000
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 71504
+                  "levelValues": {
+                    "12": {
+                      "main": 1097.1,
+                      "growth": 4990,
+                      "damagePercentage": 3341.6,
+                      "stunRatio": 1646,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 21503,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 71504
+                    },
+                    "16": {
+                      "main": 1097.1,
+                      "growth": 4990,
+                      "damagePercentage": 3949.2,
+                      "stunRatio": 1845.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 21503,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 71504
+                    }
+                  }
                 }
               },
               "potential": []
@@ -1546,25 +2090,41 @@
               "desc": "{Skill:1251016, Prop:1001}",
               "param": {
                 "1251016": {
-                  "main": 13390,
-                  "growth": 1220,
                   "format": "%",
-                  "damagePercentage": 13390,
                   "damagePercentageGrowth": 1220,
-                  "stunRatio": 13390,
                   "stunRatioGrowth": 610,
-                  "spRecovery": 43810,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 334675,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 12166,
-                  "spConsume": 0,
                   "attackData": [
                     60834
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 6084
+                  "levelValues": {
+                    "12": {
+                      "main": 133.9,
+                      "growth": 1220,
+                      "damagePercentage": 268.1,
+                      "stunRatio": 201,
+                      "spRecovery": 43810,
+                      "feverRecovery": 334675,
+                      "attributeInfliction": 12166,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6084
+                    },
+                    "16": {
+                      "main": 133.9,
+                      "growth": 1220,
+                      "damagePercentage": 316.9,
+                      "stunRatio": 225.4,
+                      "spRecovery": 43810,
+                      "feverRecovery": 334675,
+                      "attributeInfliction": 12166,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6084
+                    }
+                  }
                 }
               },
               "potential": []
@@ -1574,25 +2134,41 @@
               "desc": "{Skill:1251016, Prop:1002}",
               "param": {
                 "1251016": {
-                  "main": 13390,
-                  "growth": 610,
                   "format": "%",
-                  "damagePercentage": 13390,
                   "damagePercentageGrowth": 1220,
-                  "stunRatio": 13390,
                   "stunRatioGrowth": 610,
-                  "spRecovery": 43810,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 334675,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 12166,
-                  "spConsume": 0,
                   "attackData": [
                     60834
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 6084
+                  "levelValues": {
+                    "12": {
+                      "main": 133.9,
+                      "growth": 610,
+                      "damagePercentage": 268.1,
+                      "stunRatio": 201,
+                      "spRecovery": 43810,
+                      "feverRecovery": 334675,
+                      "attributeInfliction": 12166,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6084
+                    },
+                    "16": {
+                      "main": 133.9,
+                      "growth": 610,
+                      "damagePercentage": 316.9,
+                      "stunRatio": 225.4,
+                      "spRecovery": 43810,
+                      "feverRecovery": 334675,
+                      "attributeInfliction": 12166,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6084
+                    }
+                  }
                 }
               },
               "potential": []
@@ -1608,25 +2184,41 @@
               "desc": "{Skill:1251017, Prop:1002}",
               "param": {
                 "1251017": {
-                  "main": 24930,
-                  "growth": 1140,
                   "format": "%",
-                  "damagePercentage": 0,
                   "damagePercentageGrowth": 0,
-                  "stunRatio": 24930,
                   "stunRatioGrowth": 1140,
-                  "spRecovery": 0,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 0,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 0,
-                  "spConsume": 0,
                   "attackData": [
                     0
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 36664
+                  "levelValues": {
+                    "12": {
+                      "main": 249.3,
+                      "growth": 1140,
+                      "damagePercentage": 0,
+                      "stunRatio": 374.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 36664
+                    },
+                    "16": {
+                      "main": 249.3,
+                      "growth": 1140,
+                      "damagePercentage": 0,
+                      "stunRatio": 420.3,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 36664
+                    }
+                  }
                 }
               },
               "potential": []
@@ -1636,25 +2228,41 @@
               "desc": "{Skill:1251018, Prop:1002}",
               "param": {
                 "1251018": {
-                  "main": 30430,
-                  "growth": 1390,
                   "format": "%",
-                  "damagePercentage": 0,
                   "damagePercentageGrowth": 0,
-                  "stunRatio": 30430,
                   "stunRatioGrowth": 1390,
-                  "spRecovery": 0,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 0,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 0,
-                  "spConsume": 0,
                   "attackData": [
                     0
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 41664
+                  "levelValues": {
+                    "12": {
+                      "main": 304.3,
+                      "growth": 1390,
+                      "damagePercentage": 0,
+                      "stunRatio": 457.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 41664
+                    },
+                    "16": {
+                      "main": 304.3,
+                      "growth": 1390,
+                      "damagePercentage": 0,
+                      "stunRatio": 512.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 41664
+                    }
+                  }
                 }
               },
               "potential": []
@@ -1664,25 +2272,41 @@
               "desc": "{Skill:1251019, Prop:1002}",
               "param": {
                 "1251019": {
-                  "main": 12830,
-                  "growth": 590,
                   "format": "%",
-                  "damagePercentage": 0,
                   "damagePercentageGrowth": 0,
-                  "stunRatio": 12830,
                   "stunRatioGrowth": 590,
-                  "spRecovery": 0,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 0,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 0,
-                  "spConsume": 0,
                   "attackData": [
                     0
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 11664
+                  "levelValues": {
+                    "12": {
+                      "main": 128.3,
+                      "growth": 590,
+                      "damagePercentage": 0,
+                      "stunRatio": 193.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 11664
+                    },
+                    "16": {
+                      "main": 128.3,
+                      "growth": 590,
+                      "damagePercentage": 0,
+                      "stunRatio": 216.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 11664
+                    }
+                  }
                 }
               },
               "potential": []
@@ -1698,25 +2322,41 @@
               "desc": "{Skill:1251020, Prop:1001}",
               "param": {
                 "1251020": {
-                  "main": 37640,
-                  "growth": 3430,
                   "format": "%",
-                  "damagePercentage": 37640,
                   "damagePercentageGrowth": 3430,
-                  "stunRatio": 27900,
                   "stunRatioGrowth": 1270,
-                  "spRecovery": 0,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 454025,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 32001,
-                  "spConsume": 0,
                   "attackData": [
                     148939
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 16504
+                  "levelValues": {
+                    "12": {
+                      "main": 376.4,
+                      "growth": 3430,
+                      "damagePercentage": 753.7,
+                      "stunRatio": 418.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 454025,
+                      "attributeInfliction": 32001,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 16504
+                    },
+                    "16": {
+                      "main": 376.4,
+                      "growth": 3430,
+                      "damagePercentage": 890.9,
+                      "stunRatio": 469.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 454025,
+                      "attributeInfliction": 32001,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 16504
+                    }
+                  }
                 }
               },
               "potential": []
@@ -1726,25 +2366,41 @@
               "desc": "{Skill:1251020, Prop:1002}",
               "param": {
                 "1251020": {
-                  "main": 27900,
-                  "growth": 1270,
                   "format": "%",
-                  "damagePercentage": 37640,
                   "damagePercentageGrowth": 3430,
-                  "stunRatio": 27900,
                   "stunRatioGrowth": 1270,
-                  "spRecovery": 0,
                   "spRecoveryGrowth": 0,
-                  "feverRecovery": 454025,
                   "feverRecoveryGrowth": 0,
-                  "attributeInfliction": 32001,
-                  "spConsume": 0,
                   "attackData": [
                     148939
                   ],
-                  "rpRecovery": 0,
                   "rpRecoveryGrowth": 0,
-                  "etherPurify": 16504
+                  "levelValues": {
+                    "12": {
+                      "main": 279,
+                      "growth": 1270,
+                      "damagePercentage": 753.7,
+                      "stunRatio": 418.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 454025,
+                      "attributeInfliction": 32001,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 16504
+                    },
+                    "16": {
+                      "main": 279,
+                      "growth": 1270,
+                      "damagePercentage": 890.9,
+                      "stunRatio": 469.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 454025,
+                      "attributeInfliction": 32001,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 16504
+                    }
+                  }
                 }
               },
               "potential": []

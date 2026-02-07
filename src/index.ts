@@ -5,6 +5,7 @@ import { dirname, join } from "node:path";
 const CHARACTER_INDEX_URL = "https://api.hakush.in/zzz/data/character.json";
 const CHARACTER_DETAIL_URL = "https://api.hakush.in/zzz/data/ja/character";
 const OUTPUT_DIR = "output/character";
+const TARGET_SKILL_LEVELS = [12, 16] as const;
 
 type RawCharacter = Record<string, unknown>;
 
@@ -71,6 +72,79 @@ function normalizeKeys(value: unknown): unknown {
   return value;
 }
 
+function shouldNormalizeAsPercent(key: string, format?: unknown) {
+  const normalizedKey = key.toLowerCase();
+  const formatString = typeof format === "string" ? format : "";
+  if (normalizedKey === "main" && formatString.includes("%")) {
+    return true;
+  }
+  return normalizedKey.includes("percentage") || normalizedKey.includes("ratio");
+}
+
+function buildLevelValues(stat: RawCharacter): RawCharacter {
+  const format = stat.format;
+  const levelValues: RawCharacter = {};
+  for (const level of TARGET_SKILL_LEVELS) {
+    const values: RawCharacter = {};
+    for (const [key, entry] of Object.entries(stat)) {
+      if (typeof entry !== "number" || key.endsWith("Growth")) {
+        continue;
+      }
+      const growthKey = `${key}Growth`;
+      const growthValue = typeof stat[growthKey] === "number" ? (stat[growthKey] as number) : 0;
+      const raw = entry + (level - 1) * growthValue;
+      values[key] = shouldNormalizeAsPercent(key, format) ? raw / 100 : raw;
+    }
+    if (Object.keys(values).length) {
+      levelValues[level.toString()] = values;
+    }
+  }
+  return levelValues;
+}
+
+function convertParamStat(stat: RawCharacter): RawCharacter {
+  if (stat.levelValues && typeof stat.levelValues === "object") {
+    return stat;
+  }
+  const levelValues = buildLevelValues(stat);
+  const metadata: RawCharacter = {};
+  for (const [key, entry] of Object.entries(stat)) {
+    if (typeof entry !== "number" || key.endsWith("Growth")) {
+      metadata[key] = entry;
+    }
+  }
+  if (Object.keys(levelValues).length) {
+    metadata.levelValues = levelValues;
+  }
+  return metadata;
+}
+
+function transformSkillParams(value: unknown): unknown {
+  if (Array.isArray(value)) {
+    return value.map(transformSkillParams);
+  }
+  if (value && typeof value === "object") {
+    const transformed: RawCharacter = {};
+    for (const [key, entry] of Object.entries(value as RawCharacter)) {
+      if (key === "param" && entry && typeof entry === "object" && !Array.isArray(entry)) {
+        const converted: RawCharacter = {};
+        for (const [paramKey, paramValue] of Object.entries(entry as RawCharacter)) {
+          if (paramValue && typeof paramValue === "object" && !Array.isArray(paramValue)) {
+            converted[paramKey] = convertParamStat(paramValue as RawCharacter);
+          } else {
+            converted[paramKey] = paramValue;
+          }
+        }
+        transformed[key] = converted;
+        continue;
+      }
+      transformed[key] = transformSkillParams(entry);
+    }
+    return transformed;
+  }
+  return value;
+}
+
 function simplifyCharacter(detail: RawCharacter): RawCharacter {
   const simplified: RawCharacter = {
     Id: detail.Id,
@@ -103,7 +177,11 @@ function simplifyCharacter(detail: RawCharacter): RawCharacter {
       simplified[key] = entry;
     }
   }
-  return normalizeKeys(simplified) as RawCharacter;
+  const normalized = normalizeKeys(simplified) as RawCharacter;
+  if (normalized.skill) {
+    normalized.skill = transformSkillParams(normalized.skill);
+  }
+  return normalized;
 }
 
 function slugify(name: string) {
