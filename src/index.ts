@@ -58,7 +58,14 @@ function toLowerCamelCase(key: string) {
     .replace(/^[A-Z]/, (chr) => chr.toLowerCase());
 }
 
+function stripHtmlTags(value: string) {
+  return value.replace(/<([^>]+)>/g, (_, content) => (content.startsWith("IconMap:") ? `<${content}>` : ""));
+}
+
 function normalizeKeys(value: unknown): unknown {
+  if (typeof value === "string") {
+    return stripHtmlTags(value);
+  }
   if (Array.isArray(value)) {
     return value.map(normalizeKeys);
   }
